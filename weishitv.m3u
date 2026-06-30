@@ -591,6 +591,9 @@ https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/
 #EXTINF:-1 tvg-id="" group-title="Documentary",Pulse TV (1080p)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungnz/playlist.m3u8
 
+#EXTINF:-1 group-title="Outdoor",Wired2Fish            
+https://linear-80.frequency.stream/dist/glewedtv/80/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="OutsideTV.us@SD" group-title="Outdoor",Outside TV (1080p)
 https://outsidetv-firetv.amagi.tv/playlist.m3u8
 
@@ -1044,6 +1047,9 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cf
 #EXTINF:-1 tvg-id="" group-title="Travel",Heritage+ (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e4523706-f2a8-4b0f-b081-40fe59a46f81/manifest.m3u8
 
+#EXTINF:-1 group-title="Travel",Journy TV             
+https://linear-252.frequency.stream/dist/stirr/252/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Travel",4K Travel TV (1080p)
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 
@@ -1360,6 +1366,9 @@ https://aegis-cloudfront-1.tubi.video/9f31e187-3d43-4ed0-81ba-63bd3bc560aa/playl
 
 #EXTINF:-1 tvg-id="NBCLX.us@SD" group-title="Lifestyle",NBC LX Home (1080p)
 https://dn7vkzd5khpp3.cloudfront.net/master.m3u8
+
+#EXTINF:-1, group-title="Lifestyle",At Home with Family Handyman            
+https://linear-458.frequency.stream/dist/stirr/458/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Lifestyle",Love Pets (1080p)
 https://rakutenaa-blueskyent-lovepetsemea-rakuten-ikc4q.amagi.tv/playlist/rakutenAA-blueskyent-lovepetsemea-rakuten/playlist.m3u8
