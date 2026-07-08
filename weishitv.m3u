@@ -2684,3 +2684,174 @@ https://rpn.bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
 
 #EXTINF:-1 tvg-id="TVSPetParadeNetwork.us" tvg-name="TVS Pet Parade Network" tvg-logo="https://i.imgur.com/oGE1MOP.png" group-title="Movies",TVS Pet Parade Network
 https://rpn.bozztv.com/gusa/gusa-petparadenetwork/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",revry 2            
+https://linear-5.frequency.stream/dist/24i/5/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies",Hi-YAH!               
+https://linear-59.frequency.stream/mt/roku/59/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies",82 ? horror Machine           
+https://linear-82.frequency.stream/dist/glewedtv/82/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies",Hi-YAH!              
+https://linear-159.frequency.stream/dist/xumo/159/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary",Reelz Famous Infamous               
+https://linear-190.frequency.stream/dist/plex/190/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary",Reelz Famous Infamous               
+https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist.m3u8
+
+#EXTINF:-1,264               
+https://linear-264.frequency.stream/mt/roku/264/hls/master/playlist.m3u8
+
+#EXTINF:-1,Powder TV              
+https://linear-265.frequency.stream/dist/plex/265/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary",Unidentified             
+https://linear-267.frequency.stream/mt/roku/267/hls/master/playlist.m3u8
+
+#EXTINF:-1,276  ?Black Pix             
+https://linear-276.frequency.stream/mt/roku/276/hls/master/playlist.m3u8
+
+#EXTINF:-1,335               
+https://linear-335.frequency.stream/dist/xumo/335/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary",Mayday Air Disaster      
+https://linear-475.frequency.stream/dist/plex/475/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Lifestyle",CineFlix             
+https://linear-476.frequency.stream/dist/plex/476/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",SN TV              
+https://linear-502.frequency.stream/dist/plex/502/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary",ONE TV Crime & Justice               
+https://linear-593.frequency.stream/dist/plex/593/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary",ONE TV Crime & Justice          
+https://linear-593.frequency.stream/dist/xumo/593/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment",The Ed Sullivan Show             
+https://linear-598.frequency.stream/dist/plex/598/hls/master/playlist.m3u8
+
+#EXTINF:-1,? National Lampoo            
+https://linear-758.frequency.stream/dist/plex/758/hls/master/playlist.m3u8
+
+#EXTINF:-1,798               
+https://linear-798.frequency.stream/dist/plex/798/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment",CW              
+https://linear-850.frequency.stream/dist/plex/850/hls/master/playlist.m3u8
+
+#EXTINF:-1,851               
+https://linear-851.frequency.stream/dist/plex/851/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary",Documentary +             
+https://linear-859.frequency.stream/dist/plex/859/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary",Documentary +               
+https://linear-859.frequency.stream/dist/xumo/859/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies",BET Tyler Perry Drama             
+https://linear-866.frequency.stream/dist/plex/866/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies",BET Tyler Perry Comedy              
+https://linear-867.frequency.stream/dist/plex/867/hls/master/playlist.m3u8
+
+#EXTINF:-1,874               
+https://linear-874.frequency.stream/dist/plex/874/hls/master/playlist.m3u8
+
+#EXTINF:-1,888 (plex)             
+https://linear-888.frequency.stream/dist/plex/888/hls/master/playlist.m3u8
+
+#EXTINF:-1,888  (xumo)             
+https://linear-888.frequency.stream/dist/xumo/888/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",UFC             
+https://linear-893.frequency.stream/dist/plex/893/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment",DOVE             
+https://linear-896.frequency.stream/dist/plex/896/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies",Midnight Pulp            
+https://linear-897.frequency.stream/dist/plex/897/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies",Asiancrush             
+https://linear-900.frequency.stream/dist/plex/900/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary",ONE TV Star & Stories             
+https://linear-926.frequency.stream/dist/plex/926/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary",ONE TV Star & Stories            
+https://linear-926.frequency.stream/dist/xumo/926/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment",BBC Drama              
+https://linear-938.frequency.stream/dist/xumo/938/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",PGA Tour            
+https://linear-1006.frequency.stream/dist/plex/1006/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",Swerve Sports            
+https://linear-1013.frequency.stream/dist/plex/1013/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment",Joysauce            
+https://linear-1035.frequency.stream/dist/plex/1035/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Lifestyle",Lucy Dog Channel             
+https://linear-1061.frequency.stream/dist/xumo/1061/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids",Pink Panther by MGM              
+https://linear-1069.frequency.stream/dist/plex/1069/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Series",in the Heat of the Night by MGM             
+https://linear-1070.frequency.stream/dist/plex/1070/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies",MGM Presents              
+https://linear-1071.frequency.stream/dist/plex/1071/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies",STARGATE by MGM             
+https://linear-1082.frequency.stream/dist/plex/1082/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment",TRN(Tony Robbins Network)           
+https://linear-1101.frequency.stream/dist/plex/1101/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary",Lauren Lake"s PATERNITY COURT by MGM              
+https://linear-1102.frequency.stream/dist/plex/1102/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment",American gladiatores by MGM               
+https://linear-1106.frequency.stream/dist/plex/1106/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Series",TEEN WOLF by MGM              
+https://linear-1143.frequency.stream/dist/plex/1143/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Series",GREEN ACRES by MGM             
+https://linear-1144.frequency.stream/dist/plex/1144/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Series",TEEN WOLF by MGM              
+https://linear-1143.frequency.stream/dist/plex/1143/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Series",GREEN ACRES by MGM             
+https://linear-1144.frequency.stream/dist/plex/1144/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Series",THE OUTER LIMITS by MGM            
+https://linear-1145.frequency.stream/dist/plex/1145/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies",The Addams Family by MGM             
+https://linear-1146.frequency.stream/dist/plex/1146/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies",MGM Presents ACTION             
+https://linear-1147.frequency.stream/dist/plex/1147/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies",MGM Presents WESTERNS             
+https://linear-1148.frequency.stream/dist/plex/1148/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Education",Are you smarter than A5 Grader By MGM  
+https://linear-1234.frequency.stream/dist/xumo/1234/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary",ON Patrol Live  
+https://linear-1287.frequency.stream/dist/plex/1287/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Education",The prof G Channel   
+https://linear-1562.frequency.stream/dist/plex/1562/hls/master/playlist.m3u8
