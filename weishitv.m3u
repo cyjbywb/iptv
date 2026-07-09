@@ -2703,7 +2703,7 @@ https://linear-190.frequency.stream/dist/plex/190/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",Reelz Famous Infamous               
 https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist.m3u8
 
-#EXTINF:-1,264               
+#EXTINF:-1,Black Pix               
 https://linear-264.frequency.stream/mt/roku/264/hls/master/playlist.m3u8
 
 #EXTINF:-1,Powder TV              
@@ -2739,13 +2739,13 @@ https://linear-598.frequency.stream/dist/plex/598/hls/master/playlist.m3u8
 #EXTINF:-1,? National Lampoo            
 https://linear-758.frequency.stream/dist/plex/758/hls/master/playlist.m3u8
 
-#EXTINF:-1,798               
+#EXTINF:-1 group-title="Movies",Miramax Movie Channel       
 https://linear-798.frequency.stream/dist/plex/798/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainment",CW              
+#EXTINF:-1 group-title="Entertainment",CW Forever             
 https://linear-850.frequency.stream/dist/plex/850/hls/master/playlist.m3u8
 
-#EXTINF:-1,851               
+#EXTINF:-1 group-title="Entertainment",CW            
 https://linear-851.frequency.stream/dist/plex/851/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Documentary",Documentary +             
@@ -2760,13 +2760,13 @@ https://linear-866.frequency.stream/dist/plex/866/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Movies",BET Tyler Perry Comedy              
 https://linear-867.frequency.stream/dist/plex/867/hls/master/playlist.m3u8
 
-#EXTINF:-1,874               
+#EXTINF:-1,Horror By Alter            
 https://linear-874.frequency.stream/dist/plex/874/hls/master/playlist.m3u8
 
-#EXTINF:-1,888 (plex)             
+#EXTINF:-1,Alien Nation            
 https://linear-888.frequency.stream/dist/plex/888/hls/master/playlist.m3u8
 
-#EXTINF:-1,888  (xumo)             
+#EXTINF:-1,Alien Nation              
 https://linear-888.frequency.stream/dist/xumo/888/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports",UFC             
