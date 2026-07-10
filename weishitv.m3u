@@ -2694,6 +2694,12 @@ https://linear-59.frequency.stream/mt/roku/59/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Movies",82 ? horror Machine           
 https://linear-82.frequency.stream/dist/glewedtv/82/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Sports",Surfer TV (1080p)              
+https://linear-149.frequency.stream/dist/plex/149/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary",Unidentified         
+https://linear-150.frequency.stream/dist/plex/150/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="Movies",Hi-YAH!              
 https://linear-159.frequency.stream/dist/xumo/159/hls/master/playlist.m3u8
 
