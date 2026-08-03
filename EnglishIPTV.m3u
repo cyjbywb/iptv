@@ -710,6 +710,30 @@ http://45.162.64.114/BAND_SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="BandSports.br@SD" group-title="Sports",Band Sports
 http://45.190.28.50/BAND_SPORTS_HD/index.m3u8
 
+#EXTINF:-1 tvg-id="ESPN.br@SD" group-title="Sports",ESPN (1080p)
+http://181.78.197.59:8000/play/a07z/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.br@SD" group-title="Sports",ESPN (720p)
+http://190.83.2.182:8090/ESPN/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN3.br@SD" group-title="Sports",ESPN 3 (720p)
+http://181.78.197.59:8000/play/a081/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN3.br@SD" group-title="Sports",ESPN 3 (1080p)
+http://190.83.2.182:8090/ESPN3/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN4.br@SD" group-title="Sports",ESPN 4 (1080p)
+http://181.78.197.59:8000/play/a07n/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN5.br@SD" group-title="Sports",ESPN 5 (1080p)
+http://190.83.2.182:8090/ESPN5/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN6.br@SD" group-title="Sports",ESPN 6 (1080p)
+http://190.83.2.182:8090/ESPN6/index.m3u8
+
+#EXTINF:-1 tvg-id="Sportitalia.it@SD" group-title="Sports",Sport Italia (1080p)
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
+
 #EXTINF:-1 tvg-id="FTFSports.us" tvg-name="FTF Sports" tvg-logo="https://i.imgur.com/yvUjOI3.png" group-title="Sports",FTF Sports
 https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
 
