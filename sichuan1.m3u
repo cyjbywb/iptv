@@ -1,754 +1,661 @@
-#EXTM3U
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,河南卫视
+http://1.192.246.101:8188/rtp/239.16.20.21:10210
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,河南都市频道
+http://1.192.246.101:8188/rtp/239.16.20.164:11640
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,河南民生频道
+http://1.192.246.101:8188/rtp/239.16.20.165:11650
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,河南法治频道
+http://1.192.246.101:8188/rtp/239.16.10.122:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,河南电视剧频道
+http://1.192.246.101:8188/rtp/239.16.20.167:11670
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,河南新闻频道
+http://1.192.246.101:8188/rtp/239.16.20.168:11680
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,河南乡村频道
+http://1.192.246.101:8188/rtp/239.16.20.195:11950
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,河南戏曲频道
+http://1.192.246.101:8188/rtp/239.16.20.171:11710
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,河南收藏天下
+http://1.192.246.101:8188/rtp/239.16.10.149:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,河南中华功夫
+http://1.192.246.101:8188/rtp/239.16.20.173:11730
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,河南移动电视
+http://1.192.246.101:8188/rtp/239.16.20.204:12040
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,河南调解剧场
+http://1.192.246.101:8188/rtp/239.16.20.197:11970
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,河南移动戏曲
+http://1.192.246.101:8188/rtp/239.16.20.120:11200
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,河南睛彩中原
+http://1.192.246.101:8188/rtp/239.16.20.122:11220
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,郑州1新闻综合
+http://1.192.246.101:8188/rtp/239.16.10.154:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,郑州2商都频道
+http://1.192.246.101:8188/rtp/239.16.10.155:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,郑州3文体旅游
+http://1.192.246.101:8188/rtp/239.16.10.156:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,郑州4豫剧频道
+http://1.192.246.101:8188/rtp/239.16.10.157:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,郑州5妇女儿童
+http://1.192.246.101:8188/rtp/239.16.10.158:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,郑州6都市生活
+http://1.192.246.101:8188/rtp/239.16.10.159:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,洛阳-1新闻综合
+http://1.192.246.101:8188/rtp/239.16.20.179:11790
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,洛阳-2科教频道
+http://1.192.246.101:8188/rtp/239.16.20.177:11770
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,洛阳-3文旅频道
+http://1.192.246.101:8188/rtp/239.16.20.178:11780
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,南阳1新闻综合
+http://1.192.246.101:8188/rtp/239.16.10.58:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,南阳2公共频道
+http://1.192.246.101:8188/rtp/239.16.10.165:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,南阳3科教频道
+http://1.192.246.101:8188/rtp/239.16.10.164:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,周口公共频道
+http://1.192.246.101:8188/rtp/239.16.10.172:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,周口教育频道
+http://1.192.246.101:8188/rtp/239.16.10.173:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,周口新闻综合
+http://1.192.246.101:8188/rtp/239.16.10.59:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,开封1新闻综合
+http://1.192.246.101:8188/rtp/239.16.10.57:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,开封2文化旅游
+http://1.192.246.101:8188/rtp/239.16.10.177:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,新乡公共频道
+http://1.192.246.101:8188/rtp/239.16.20.154:11540
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,新乡新闻综合
+http://1.192.246.101:8188/rtp/239.16.20.139:11390
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,焦作公共频道
+http://1.192.246.101:8188/rtp/239.16.20.155:11550
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,焦作综合频道
+http://1.192.246.101:8188/rtp/239.16.20.140:11400
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,漯河新闻综合
+http://1.192.246.101:8188/rtp/239.16.10.49:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,信阳新闻综合
+http://1.192.246.101:8188/rtp/239.16.10.52:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,信阳文旅频道
+http://1.192.246.101:8188/rtp/239.16.10.71:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,封丘1新闻综合
+http://1.192.246.101:8188/rtp/239.16.20.19:10190
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,叶县电视台-1
+http://1.192.246.101:8188/rtp/239.16.20.32:10320
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,新密综合频道
+http://1.192.246.101:8188/rtp/239.16.20.41:10410
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,登封综合频道
+http://1.192.246.101:8188/rtp/239.16.20.42:10420
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,巩义综合频道
+http://1.192.246.101:8188/rtp/239.16.20.43:10430
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,新郑TV-1
+http://1.192.246.101:8188/rtp/239.16.20.45:10450
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,渑池新闻综合
+http://1.192.246.101:8188/rtp/239.16.20.47:10470
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,淅川电视台-1
+http://1.192.246.101:8188/rtp/239.16.20.48:10480
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,新蔡TV
+http://1.192.246.101:8188/rtp/239.16.20.49:10490
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,镇平新闻综合
+http://1.192.246.101:8188/rtp/239.16.20.50:10500
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,宝丰TV-1
+http://1.192.246.101:8188/rtp/239.16.20.63:10630
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,义马综合频道
+http://1.192.246.101:8188/rtp/239.16.20.109:11090
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,鹤壁新闻综合
+http://1.192.246.101:8188/rtp/239.16.20.142:11420
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,安阳新闻综合
+http://1.192.246.101:8188/rtp/239.16.20.144:11440
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,三门峡新闻综合
+http://1.192.246.101:8188/rtp/239.16.20.145:11450
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,卫辉综合频道
+http://1.192.246.101:8188/rtp/239.16.20.191:11910
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,孟津综合综合
+http://1.192.246.101:8188/rtp/239.16.20.192:11920
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,安阳文旅频道
+http://1.192.246.101:8188/rtp/239.16.20.193:11930
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,淇县电视台
+http://1.192.246.101:8188/rtp/239.16.20.205:12050
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,宜阳综合频道
+http://1.192.246.101:8188/rtp/239.16.20.206:12060
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,汝阳综合频道
+http://1.192.246.101:8188/rtp/239.16.20.207:12070
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,原阳电视台
+http://1.192.246.101:8188/rtp/239.16.20.208:12080
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,宝丰-1
+http://1.192.246.101:8188/rtp/239.16.20.209:12090
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,内黄综合频道
+http://1.192.246.101:8188/rtp/239.16.20.228:12280
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,国学频道
+http://1.192.246.101:8188/rtp/239.16.20.232:12320
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,郏县综合频道
+http://1.192.246.101:8188/rtp/239.16.20.235:12350
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,禹州电视台
+http://1.192.246.101:8188/rtp/239.16.10.39:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,杞县新闻综合
+http://1.192.246.101:8188/rtp/239.16.10.80:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,永城新闻联播
+http://1.192.246.101:8188/rtp/239.16.10.93:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,光山综合频道
+http://1.192.246.101:8188/rtp/239.16.10.94:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,CCTV-1综合
+http://1.192.246.101:8188/rtp/239.16.20.1:10010
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,CCTV-2财经
+http://1.192.246.101:8188/rtp/239.16.20.2:10020
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,CCTV-3综艺
+http://1.192.246.101:8188/rtp/239.16.20.3:10030
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,CCTV-4中文国际
+http://1.192.246.101:8188/rtp/239.16.20.4:10040
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,CCTV-5体育
+http://1.192.246.101:8188/rtp/239.16.20.53:10530
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,CCTV-5+体育赛事
+http://1.192.246.101:8188/rtp/239.16.20.5:10050
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,CCTV-6电影
+http://1.192.246.101:8188/rtp/239.16.20.6:10060
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,CCTV-7国防军事
+http://1.192.246.101:8188/rtp/239.16.20.51:10510
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,CCTV-8电视剧
+http://1.192.246.101:8188/rtp/239.16.20.8:10080
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,CCTV-9纪录
+http://1.192.246.101:8188/rtp/239.16.20.9:10090
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,CCTV-10科教
+http://1.192.246.101:8188/rtp/239.16.20.10:10100
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,CCTV-11戏曲
+http://1.192.246.101:8188/rtp/239.16.20.11:10110
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,CCTV-12社会与法
+http://1.192.246.101:8188/rtp/239.16.20.12:10120
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,CCTV-13新闻
+http://1.192.246.101:8188/rtp/239.16.20.13:10130
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,CCTV-14少儿
+http://1.192.246.101:8188/rtp/239.16.20.14:10140
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,CCTV-15音乐
+http://1.192.246.101:8188/rtp/239.16.20.15:10150
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,CCTV-17农业农村
+http://1.192.246.101:8188/rtp/239.16.20.7:10070
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,浙江卫视
+http://1.192.246.101:8188/rtp/239.16.20.71:10710
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,湖南卫视
+http://1.192.246.101:8188/rtp/239.16.20.72:10720
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,东方卫视
+http://1.192.246.101:8188/rtp/239.16.20.73:10730
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,江苏卫视
+http://1.192.246.101:8188/rtp/239.16.20.74:10740
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,安徽卫视
+http://1.192.246.101:8188/rtp/239.16.20.75:10750
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,北京卫视
+http://1.192.246.101:8188/rtp/239.16.20.76:10760
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,深圳卫视
+http://1.192.246.101:8188/rtp/239.16.20.77:10770
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,重庆卫视
+http://1.192.246.101:8188/rtp/239.16.20.79:10790
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,山东卫视
+http://1.192.246.101:8188/rtp/239.16.20.80:10800
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,贵州卫视
+http://1.192.246.101:8188/rtp/239.16.20.81:10810
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,东南卫视
+http://1.192.246.101:8188/rtp/239.16.20.82:10820
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,陕西卫视
+http://1.192.246.101:8188/rtp/239.16.20.83:10830
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,广西卫视
+http://1.192.246.101:8188/rtp/239.16.20.84:10840
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,云南卫视
+http://1.192.246.101:8188/rtp/239.16.20.85:10850
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,四川卫视
+http://1.192.246.101:8188/rtp/239.16.20.86:10860
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,湖北卫视
+http://1.192.246.101:8188/rtp/239.16.20.87:10870
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,河北卫视
+http://1.192.246.101:8188/rtp/239.16.20.88:10880
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,江西卫视
+http://1.192.246.101:8188/rtp/239.16.20.89:10890
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,吉林卫视
+http://1.192.246.101:8188/rtp/239.16.20.94:10940
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,辽宁卫视
+http://1.192.246.101:8188/rtp/239.16.20.95:10950
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,天津卫视
+http://1.192.246.101:8188/rtp/239.16.20.96:10960
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,海南卫视
+http://1.192.246.101:8188/rtp/239.16.20.97:10970
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,广东卫视
+http://1.192.246.101:8188/rtp/239.16.20.98:10980
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,黑龙江卫视
+http://1.192.246.101:8188/rtp/239.16.20.99:10990
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,青海卫视
+http://1.192.246.101:8188/rtp/239.16.20.101:11010
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,甘肃卫视
+http://1.192.246.101:8188/rtp/239.16.20.102:11020
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,CETV-1
+http://1.192.246.101:8188/rtp/239.16.20.78:10780
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,上海都市剧场
+http://1.192.246.101:8188/rtp/239.16.20.38:10380
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,上海纪实人文
+http://1.192.246.101:8188/rtp/239.16.20.124:11240
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,上海欢笑剧场
+http://1.192.246.101:8188/rtp/239.16.20.39:10390
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,上海动漫秀场
+http://1.192.246.101:8188/rtp/239.16.20.40:10400
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,上海东方财经
+http://1.192.246.101:8188/rtp/239.16.20.64:10640
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,上海法治天地
+http://1.192.246.101:8188/rtp/239.16.20.156:11560
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,上海乐游纪实
+http://1.192.246.101:8188/rtp/239.16.20.111:11110
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,上海游戏风云
+http://1.192.246.101:8188/rtp/239.16.20.112:11120
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,上海魅力足球
+http://1.192.246.101:8188/rtp/239.16.20.113:11130
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,上海生活时尚
+http://1.192.246.101:8188/rtp/239.16.20.114:11140
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,上海金色学堂
+http://1.192.246.101:8188/rtp/239.16.20.115:11150
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,湖南金鹰纪实
+http://1.192.246.101:8188/rtp/239.16.20.153:11530
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,湖南金鹰卡通
+http://1.192.246.101:8188/rtp/239.16.20.104:11040
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,湖南快乐垂钓
+http://1.192.246.101:8188/rtp/239.16.20.67:10670
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,湖南茶频道
+http://1.192.246.101:8188/rtp/239.16.20.68:10680
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,IPTV导视
+http://1.192.246.101:8188/rtp/239.16.10.218:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,体育赛事
+http://1.192.246.101:8188/rtp/239.16.20.128:11280
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,中华特产
+http://1.192.246.101:8188/rtp/239.16.20.132:11320
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,商丘1新闻综合
+http://1.192.246.101:8188/rtp/239.16.10.153:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,商丘2公共频道
+http://1.192.246.101:8188/rtp/239.16.10.168:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,商丘3文体科教
+http://1.192.246.101:8188/rtp/239.16.10.169:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,许昌农业科教
+http://1.192.246.101:8188/rtp/239.16.10.60:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,许昌综合频道
+http://1.192.246.101:8188/rtp/239.16.10.47:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,平顶山新闻综合
+http://1.192.246.101:8188/rtp/239.16.20.137:11370
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,平顶山城市频道
+http://1.192.246.101:8188/rtp/239.16.20.151:11510
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,平顶山公共频道
+http://1.192.246.101:8188/rtp/239.16.20.152:11520
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,平顶山教育台
+http://1.192.246.101:8188/rtp/239.16.20.27:10270
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,新乡综合频道
+http://1.192.246.101:8188/rtp/239.16.20.18:10180
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,邓州综合频道
+http://1.192.246.101:8188/rtp/239.16.20.20:10200
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,获嘉综合频道
+http://1.192.246.101:8188/rtp/239.16.20.25:10250
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,平煤安全环保
+http://1.192.246.101:8188/rtp/239.16.20.31:10310
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,荥阳综合频道
+http://1.192.246.101:8188/rtp/239.16.20.44:10440
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,健康河南融媒
+http://1.192.246.101:8188/rtp/239.16.20.52:10520
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,灵宝综合频道
+http://1.192.246.101:8188/rtp/239.16.20.59:10590
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,渑池新闻综合
+http://1.192.246.101:8188/rtp/239.16.20.135:11350
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,济源-1
+http://1.192.246.101:8188/rtp/239.16.20.174:11740
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,濮阳新闻综合
+http://1.192.246.101:8188/rtp/239.16.20.175:11750
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,濮阳公共频道
+http://1.192.246.101:8188/rtp/239.16.20.184:11840
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,新县综合频道
+http://1.192.246.101:8188/rtp/239.16.20.183:11830
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,延津电视台
+http://1.192.246.101:8188/rtp/239.16.20.210:12100
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,体育赛事
+http://1.192.246.101:8188/rtp/239.16.20.215:12150
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,大象新闻
+http://1.192.246.101:8188/rtp/239.16.20.216:12160
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,大剧院
+http://1.192.246.101:8188/rtp/239.16.20.217:12170
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,舞钢电视台-1
+http://1.192.246.101:8188/rtp/239.16.20.227:12270
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,嵩县综合新闻
+http://1.192.246.101:8188/rtp/239.16.20.234:12340
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,浉河广电中心
+http://1.192.246.101:8188/rtp/239.16.10.72:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,平桥广电中心
+http://1.192.246.101:8188/rtp/239.16.10.73:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,郸城
+http://1.192.246.101:8188/rtp/239.16.10.84:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,唐河TV-1
+http://1.192.246.101:8188/rtp/239.16.10.95:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,上蔡-1
+http://1.192.246.101:8188/rtp/239.16.10.97:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,舞阳新闻综合
+http://1.192.246.101:8188/rtp/239.16.10.179:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,临颍综合频道
+http://1.192.246.101:8188/rtp/239.16.10.180:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_1”,项城电视台
+http://1.192.246.101:8188/rtp/239.16.10.214:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,河南卫视
+http://171.8.105.109:8800/rtp/239.16.20.21:10210
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,河南都市频道
+http://171.8.105.109:8800/rtp/239.16.20.164:11640
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,河南民生频道
+http://171.8.105.109:8800/rtp/239.16.20.165:11650
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,河南法治频道
+http://171.8.105.109:8800/rtp/239.16.10.122:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,河南电视剧频道
+http://171.8.105.109:8800/rtp/239.16.20.167:11670
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,河南新闻频道
+http://171.8.105.109:8800/rtp/239.16.20.168:11680
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,河南乡村频道
+http://171.8.105.109:8800/rtp/239.16.20.195:11950
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,河南戏曲频道
+http://171.8.105.109:8800/rtp/239.16.20.171:11710
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,河南收藏天下
+http://171.8.105.109:8800/rtp/239.16.10.149:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,河南中华功夫
+http://171.8.105.109:8800/rtp/239.16.20.173:11730
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,河南移动电视
+http://171.8.105.109:8800/rtp/239.16.20.204:12040
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,河南调解剧场
+http://171.8.105.109:8800/rtp/239.16.20.197:11970
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,河南移动戏曲
+http://171.8.105.109:8800/rtp/239.16.20.120:11200
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,河南睛彩中原
+http://171.8.105.109:8800/rtp/239.16.20.122:11220
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,郑州1新闻综合
+http://171.8.105.109:8800/rtp/239.16.10.154:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,郑州2商都频道
+http://171.8.105.109:8800/rtp/239.16.10.155:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,郑州3文体旅游
+http://171.8.105.109:8800/rtp/239.16.10.156:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,郑州4豫剧频道
+http://171.8.105.109:8800/rtp/239.16.10.157:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,郑州5妇女儿童
+http://171.8.105.109:8800/rtp/239.16.10.158:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,郑州6都市生活
+http://171.8.105.109:8800/rtp/239.16.10.159:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,洛阳-1新闻综合
+http://171.8.105.109:8800/rtp/239.16.20.179:11790
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,洛阳-2科教频道
+http://171.8.105.109:8800/rtp/239.16.20.177:11770
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,洛阳-3文旅频道
+http://171.8.105.109:8800/rtp/239.16.20.178:11780
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,南阳1新闻综合
+http://171.8.105.109:8800/rtp/239.16.10.58:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,南阳2公共频道
+http://171.8.105.109:8800/rtp/239.16.10.165:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,南阳3科教频道
+http://171.8.105.109:8800/rtp/239.16.10.164:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,周口公共频道
+http://171.8.105.109:8800/rtp/239.16.10.172:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,周口教育频道
+http://171.8.105.109:8800/rtp/239.16.10.173:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,周口新闻综合
+http://171.8.105.109:8800/rtp/239.16.10.59:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,开封1新闻综合
+http://171.8.105.109:8800/rtp/239.16.10.57:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,开封2文化旅游
+http://171.8.105.109:8800/rtp/239.16.10.177:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,新乡公共频道
+http://171.8.105.109:8800/rtp/239.16.20.154:11540
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,新乡新闻综合
+http://171.8.105.109:8800/rtp/239.16.20.139:11390
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,焦作公共频道
+http://171.8.105.109:8800/rtp/239.16.20.155:11550
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,焦作综合频道
+http://171.8.105.109:8800/rtp/239.16.20.140:11400
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,漯河新闻综合
+http://171.8.105.109:8800/rtp/239.16.10.49:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,信阳新闻综合
+http://171.8.105.109:8800/rtp/239.16.10.52:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,信阳文旅频道
+http://171.8.105.109:8800/rtp/239.16.10.71:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,封丘1新闻综合
+http://171.8.105.109:8800/rtp/239.16.20.19:10190
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,叶县电视台-1
+http://171.8.105.109:8800/rtp/239.16.20.32:10320
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,新密综合频道
+http://171.8.105.109:8800/rtp/239.16.20.41:10410
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,登封综合频道
+http://171.8.105.109:8800/rtp/239.16.20.42:10420
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,巩义综合频道
+http://171.8.105.109:8800/rtp/239.16.20.43:10430
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,新郑TV-1
+http://171.8.105.109:8800/rtp/239.16.20.45:10450
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,渑池新闻综合
+http://171.8.105.109:8800/rtp/239.16.20.47:10470
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,淅川电视台-1
+http://171.8.105.109:8800/rtp/239.16.20.48:10480
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,新蔡TV
+http://171.8.105.109:8800/rtp/239.16.20.49:10490
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,镇平新闻综合
+http://171.8.105.109:8800/rtp/239.16.20.50:10500
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,宝丰TV-1
+http://171.8.105.109:8800/rtp/239.16.20.63:10630
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,义马综合频道
+http://171.8.105.109:8800/rtp/239.16.20.109:11090
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,鹤壁新闻综合
+http://171.8.105.109:8800/rtp/239.16.20.142:11420
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,安阳新闻综合
+http://171.8.105.109:8800/rtp/239.16.20.144:11440
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,三门峡新闻综合
+http://171.8.105.109:8800/rtp/239.16.20.145:11450
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,卫辉综合频道
+http://171.8.105.109:8800/rtp/239.16.20.191:11910
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,孟津综合综合
+http://171.8.105.109:8800/rtp/239.16.20.192:11920
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,安阳文旅频道
+http://171.8.105.109:8800/rtp/239.16.20.193:11930
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,淇县电视台
+http://171.8.105.109:8800/rtp/239.16.20.205:12050
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,宜阳综合频道
+http://171.8.105.109:8800/rtp/239.16.20.206:12060
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,汝阳综合频道
+http://171.8.105.109:8800/rtp/239.16.20.207:12070
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,原阳电视台
+http://171.8.105.109:8800/rtp/239.16.20.208:12080
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,宝丰-1
+http://171.8.105.109:8800/rtp/239.16.20.209:12090
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,内黄综合频道
+http://171.8.105.109:8800/rtp/239.16.20.228:12280
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,国学频道
+http://171.8.105.109:8800/rtp/239.16.20.232:12320
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,郏县综合频道
+http://171.8.105.109:8800/rtp/239.16.20.235:12350
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,禹州电视台
+http://171.8.105.109:8800/rtp/239.16.10.39:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,杞县新闻综合
+http://171.8.105.109:8800/rtp/239.16.10.80:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,永城新闻联播
+http://171.8.105.109:8800/rtp/239.16.10.93:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,光山综合频道
+http://171.8.105.109:8800/rtp/239.16.10.94:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,CCTV-1综合
+http://171.8.105.109:8800/rtp/239.16.20.1:10010
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,CCTV-2财经
+http://171.8.105.109:8800/rtp/239.16.20.2:10020
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,CCTV-3综艺
+http://171.8.105.109:8800/rtp/239.16.20.3:10030
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,CCTV-4中文国际
+http://171.8.105.109:8800/rtp/239.16.20.4:10040
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,CCTV-5体育
+http://171.8.105.109:8800/rtp/239.16.20.53:10530
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,CCTV-5+体育赛事
+http://171.8.105.109:8800/rtp/239.16.20.5:10050
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,CCTV-6电影
+http://171.8.105.109:8800/rtp/239.16.20.6:10060
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,CCTV-7国防军事
+http://171.8.105.109:8800/rtp/239.16.20.51:10510
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,CCTV-8电视剧
+http://171.8.105.109:8800/rtp/239.16.20.8:10080
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,CCTV-9纪录
+http://171.8.105.109:8800/rtp/239.16.20.9:10090
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,CCTV-10科教
+http://171.8.105.109:8800/rtp/239.16.20.10:10100
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,CCTV-11戏曲
+http://171.8.105.109:8800/rtp/239.16.20.11:10110
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,CCTV-12社会与法
+http://171.8.105.109:8800/rtp/239.16.20.12:10120
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,CCTV-13新闻
+http://171.8.105.109:8800/rtp/239.16.20.13:10130
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,CCTV-14少儿
+http://171.8.105.109:8800/rtp/239.16.20.14:10140
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,CCTV-15音乐
+http://171.8.105.109:8800/rtp/239.16.20.15:10150
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,CCTV-17农业农村
+http://171.8.105.109:8800/rtp/239.16.20.7:10070
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,浙江卫视
+http://171.8.105.109:8800/rtp/239.16.20.71:10710
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,湖南卫视
+http://171.8.105.109:8800/rtp/239.16.20.72:10720
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,东方卫视
+http://171.8.105.109:8800/rtp/239.16.20.73:10730
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,江苏卫视
+http://171.8.105.109:8800/rtp/239.16.20.74:10740
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,安徽卫视
+http://171.8.105.109:8800/rtp/239.16.20.75:10750
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,北京卫视
+http://171.8.105.109:8800/rtp/239.16.20.76:10760
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,深圳卫视
+http://171.8.105.109:8800/rtp/239.16.20.77:10770
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,重庆卫视
+http://171.8.105.109:8800/rtp/239.16.20.79:10790
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,山东卫视
+http://171.8.105.109:8800/rtp/239.16.20.80:10800
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,贵州卫视
+http://171.8.105.109:8800/rtp/239.16.20.81:10810
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,东南卫视
+http://171.8.105.109:8800/rtp/239.16.20.82:10820
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,陕西卫视
+http://171.8.105.109:8800/rtp/239.16.20.83:10830
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,广西卫视
+http://171.8.105.109:8800/rtp/239.16.20.84:10840
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,云南卫视
+http://171.8.105.109:8800/rtp/239.16.20.85:10850
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,四川卫视
+http://171.8.105.109:8800/rtp/239.16.20.86:10860
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,湖北卫视
+http://171.8.105.109:8800/rtp/239.16.20.87:10870
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,河北卫视
+http://171.8.105.109:8800/rtp/239.16.20.88:10880
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,江西卫视
+http://171.8.105.109:8800/rtp/239.16.20.89:10890
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,吉林卫视
+http://171.8.105.109:8800/rtp/239.16.20.94:10940
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,辽宁卫视
+http://171.8.105.109:8800/rtp/239.16.20.95:10950
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,天津卫视
+http://171.8.105.109:8800/rtp/239.16.20.96:10960
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,海南卫视
+http://171.8.105.109:8800/rtp/239.16.20.97:10970
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,广东卫视
+http://171.8.105.109:8800/rtp/239.16.20.98:10980
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,黑龙江卫视
+http://171.8.105.109:8800/rtp/239.16.20.99:10990
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,青海卫视
+http://171.8.105.109:8800/rtp/239.16.20.101:11010
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,甘肃卫视
+http://171.8.105.109:8800/rtp/239.16.20.102:11020
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,CETV-1
+http://171.8.105.109:8800/rtp/239.16.20.78:10780
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,上海都市剧场
+http://171.8.105.109:8800/rtp/239.16.20.38:10380
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,上海纪实人文
+http://171.8.105.109:8800/rtp/239.16.20.124:11240
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,上海欢笑剧场
+http://171.8.105.109:8800/rtp/239.16.20.39:10390
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,上海动漫秀场
+http://171.8.105.109:8800/rtp/239.16.20.40:10400
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,上海东方财经
+http://171.8.105.109:8800/rtp/239.16.20.64:10640
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,上海法治天地
+http://171.8.105.109:8800/rtp/239.16.20.156:11560
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,上海乐游纪实
+http://171.8.105.109:8800/rtp/239.16.20.111:11110
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,上海游戏风云
+http://171.8.105.109:8800/rtp/239.16.20.112:11120
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,上海魅力足球
+http://171.8.105.109:8800/rtp/239.16.20.113:11130
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,上海生活时尚
+http://171.8.105.109:8800/rtp/239.16.20.114:11140
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,上海金色学堂
+http://171.8.105.109:8800/rtp/239.16.20.115:11150
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,湖南金鹰纪实
+http://171.8.105.109:8800/rtp/239.16.20.153:11530
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,湖南金鹰卡通
+http://171.8.105.109:8800/rtp/239.16.20.104:11040
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,湖南快乐垂钓
+http://171.8.105.109:8800/rtp/239.16.20.67:10670
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,湖南茶频道
+http://171.8.105.109:8800/rtp/239.16.20.68:10680
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,IPTV导视
+http://171.8.105.109:8800/rtp/239.16.10.218:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,体育赛事
+http://171.8.105.109:8800/rtp/239.16.20.128:11280
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,中华特产
+http://171.8.105.109:8800/rtp/239.16.20.132:11320
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,商丘1新闻综合
+http://171.8.105.109:8800/rtp/239.16.10.153:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,商丘2公共频道
+http://171.8.105.109:8800/rtp/239.16.10.168:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,商丘3文体科教
+http://171.8.105.109:8800/rtp/239.16.10.169:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,许昌农业科教
+http://171.8.105.109:8800/rtp/239.16.10.60:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,许昌综合频道
+http://171.8.105.109:8800/rtp/239.16.10.47:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,平顶山新闻综合
+http://171.8.105.109:8800/rtp/239.16.20.137:11370
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,平顶山城市频道
+http://171.8.105.109:8800/rtp/239.16.20.151:11510
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,平顶山公共频道
+http://171.8.105.109:8800/rtp/239.16.20.152:11520
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,平顶山教育台
+http://171.8.105.109:8800/rtp/239.16.20.27:10270
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,新乡综合频道
+http://171.8.105.109:8800/rtp/239.16.20.18:10180
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,邓州综合频道
+http://171.8.105.109:8800/rtp/239.16.20.20:10200
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,获嘉综合频道
+http://171.8.105.109:8800/rtp/239.16.20.25:10250
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,平煤安全环保
+http://171.8.105.109:8800/rtp/239.16.20.31:10310
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,荥阳综合频道
+http://171.8.105.109:8800/rtp/239.16.20.44:10440
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,健康河南融媒
+http://171.8.105.109:8800/rtp/239.16.20.52:10520
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,灵宝综合频道
+http://171.8.105.109:8800/rtp/239.16.20.59:10590
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,渑池新闻综合
+http://171.8.105.109:8800/rtp/239.16.20.135:11350
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,济源-1
+http://171.8.105.109:8800/rtp/239.16.20.174:11740
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,濮阳新闻综合
+http://171.8.105.109:8800/rtp/239.16.20.175:11750
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,濮阳公共频道
+http://171.8.105.109:8800/rtp/239.16.20.184:11840
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,新县综合频道
+http://171.8.105.109:8800/rtp/239.16.20.183:11830
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,延津电视台
+http://171.8.105.109:8800/rtp/239.16.20.210:12100
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,体育赛事
+http://171.8.105.109:8800/rtp/239.16.20.215:12150
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,大象新闻
+http://171.8.105.109:8800/rtp/239.16.20.216:12160
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,大剧院
+http://171.8.105.109:8800/rtp/239.16.20.217:12170
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,舞钢电视台-1
+http://171.8.105.109:8800/rtp/239.16.20.227:12270
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,嵩县综合新闻
+http://171.8.105.109:8800/rtp/239.16.20.234:12340
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,浉河广电中心
+http://171.8.105.109:8800/rtp/239.16.10.72:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,平桥广电中心
+http://171.8.105.109:8800/rtp/239.16.10.73:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,郸城
+http://171.8.105.109:8800/rtp/239.16.10.84:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,唐河TV-1
+http://171.8.105.109:8800/rtp/239.16.10.95:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,上蔡-1
+http://171.8.105.109:8800/rtp/239.16.10.97:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,舞阳新闻综合
+http://171.8.105.109:8800/rtp/239.16.10.179:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,临颍综合频道
+http://171.8.105.109:8800/rtp/239.16.10.180:2000
+#EXTINF:-1 tvg-name=““ tvg-id=““ tvg-logo=““ group-title=“河南组播_2”,项城电视台
+http://171.8.105.109:8800/rtp/239.16.10.214:2000
 
-#EXTINF:-1,4K电影
-http://192.168.0.106:8888/udp/239.93.1.156:5140
-#EXTINF:-1,4K乐享
-http://192.168.0.106:8888/udp/239.93.0.43:5140
-#EXTINF:-1,CCTV1
-http://192.168.0.106:8888/udp/239.93.0.184:5140
-#EXTINF:-1,CCTV1单音轨[576*324]
-http://192.168.0.103:8888/udp/239.93.1.68:5140
-#EXTINF:-1,CCTV1杜比
-http://192.168.0.103:8888/udp/239.93.0.69:5140
-#EXTINF:-1,CCTV1画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.0.148:5140
-#EXTINF:-1,CCTV2
-http://192.168.0.103:8888/udp/239.93.1.23:6000
-#EXTINF:-1,CCTV2
-http://192.168.0.103:8888/udp/239.93.0.59:5140
-#EXTINF:-1,CCTV2单音轨[576*324]
-http://192.168.0.103:8888/udp/239.93.1.69:5140
-#EXTINF:-1,CCTV2画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.0.149:5140
-#EXTINF:-1,CCTV3
-http://192.168.0.103:8888/udp/239.93.1.11:2223
-#EXTINF:-1,CCTV3
-http://192.168.0.103:8888/udp/239.93.0.109:5140
-#EXTINF:-1,CCTV3单音轨[576*324]
-http://192.168.0.103:8888/udp/239.93.1.70:5140
-#EXTINF:-1,CCTV3画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.0.150:5140
-#EXTINF:-1,CCTV4
-http://192.168.0.103:8888/udp/239.93.0.60:5140
-#EXTINF:-1,CCTV4
-http://192.168.0.103:8888/udp/239.93.1.105:5140
-#EXTINF:-1,CCTV4画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.0.212:5140
-#EXTINF:-1,CCTV5
-http://192.168.0.103:8888/udp/239.93.1.12:2224
-#EXTINF:-1,CCTV5
-http://192.168.0.103:8888/udp/239.93.0.110:5140
-#EXTINF:-1,CCTV5
-http://192.168.0.103:8888/udp/239.93.42.37:5140
-#EXTINF:-1,CCTV5＋
-http://192.168.0.103:8888/udp/239.93.1.36:8004
-#EXTINF:-1,CCTV5＋单音轨[576*324]
-http://192.168.0.103:8888/udp/239.93.1.79:5140
-#EXTINF:-1,CCTV5单音轨[576*324]
-http://192.168.0.103:8888/udp/239.93.1.71:5140
-#EXTINF:-1,CCTV5画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.0.158:5140
-#EXTINF:-1,CCTV6
-http://192.168.0.103:8888/udp/239.93.1.13:2226
-#EXTINF:-1,CCTV6画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.0.64:5140
-#EXTINF:-1,CCTV7
-http://192.168.0.103:8888/udp/239.93.1.67:5140
-#EXTINF:-1,CCTV7
-http://192.168.0.103:8888/udp/239.93.0.61:5140
-#EXTINF:-1,CCTV7单音轨[576*324]
-http://192.168.0.103:8888/udp/239.93.1.73:5140
-#EXTINF:-1,CCTV7画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.0.79:5140
-#EXTINF:-1,CCTV8
-http://192.168.0.103:8888/udp/239.93.1.14:2225
-#EXTINF:-1,CCTV8
-http://192.168.0.103:8888/udp/239.93.42.39:5140
-#EXTINF:-1,CCTV8单音轨[576*324]
-http://192.168.0.103:8888/udp/239.93.1.74:5140
-#EXTINF:-1,CCTV9
-http://192.168.0.103:8888/udp/239.93.1.24:5140
-#EXTINF:-1,CCTV9单音轨[576*324]
-http://192.168.0.103:8888/udp/239.93.1.75:5140
-#EXTINF:-1,CCTV9画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.64:5140
-#EXTINF:-1,CCTV10
-http://192.168.0.103:8888/udp/239.93.1.28:5140
-#EXTINF:-1,CCTV10
-http://192.168.0.103:8888/udp/239.93.0.63:5140
-#EXTINF:-1,CCTV10-单音轨[576*324]
-http://192.168.0.103:8888/udp/239.93.1.76:5140
-#EXTINF:-1,CCTV10画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.63:5140
-#EXTINF:-1,CCTV11画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.0.170:5140
-#EXTINF:-1,CCTV12
-http://192.168.0.103:8888/udp/239.93.1.30:8124
-#EXTINF:-1,CCTV12
-http://192.168.0.103:8888/udp/239.93.0.65:5140
-#EXTINF:-1,CCTV12画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.41:5140
-#EXTINF:-1,CCTV13画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.0.187:5140
-#EXTINF:-1,CCTV14
-http://192.168.0.103:8888/udp/239.93.1.29:6000
-#EXTINF:-1,CCTV14画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.40:5140
-#EXTINF:-1,CCTV15画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.0.171:5140
-#EXTINF:-1,CCTV16
-http://192.168.0.103:8888/udp/239.93.42.53:5140
-#EXTINF:-1,CCTV16-4K
-http://192.168.0.103:8888/udp/239.93.42.54:5140
-#EXTINF:-1,CCTV16-4K[785*576]
-http://192.168.0.103:8888/udp/239.93.42.63:5140
-#EXTINF:-1,CCTV17
-http://192.168.0.103:8888/udp/239.93.0.92:5140
-#EXTINF:-1,CCTV14单音轨[576*324]
-http://192.168.0.103:8888/udp/239.93.1.78:5140
-#EXTINF:-1,CCTV新闻
-http://192.168.0.103:8888/udp/239.93.0.66:5140
-#EXTINF:-1,CDTV1
-http://192.168.0.103:8888/udp/239.93.0.16:5140
-#EXTINF:-1,CDTV1单音轨[576*324]
-http://192.168.0.103:8888/udp/239.93.1.94:5140
-#EXTINF:-1,CDTV1画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.58:5140
-#EXTINF:-1,CDTV2
-http://192.168.0.103:8888/udp/239.93.0.17:1239
-#EXTINF:-1,CDTV2画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.0.137:5140
-#EXTINF:-1,CDTV3
-http://192.168.0.103:8888/udp/239.93.0.18:1238
-#EXTINF:-1,CDTV3画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.0.153:5140
-#EXTINF:-1,CDTV4
-http://192.168.0.103:8888/udp/239.93.0.19:1250
-#EXTINF:-1,CDTV4画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.118:5140
-#EXTINF:-1,CDTV5
-http://192.168.0.103:8888/udp/239.93.1.231:5140
-#EXTINF:-1,CDTV5
-http://192.168.0.103:8888/udp/239.93.0.20:1235
-#EXTINF:-1,CDTV5画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.57:5140
-#EXTINF:-1,CDTV6
-http://192.168.0.103:8888/udp/239.93.0.21:1251
-#EXTINF:-1,CDTV6画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.119:5140
-#EXTINF:-1,CDTV8
-http://192.168.0.103:8888/udp/239.93.0.22:1252
-#EXTINF:-1,CDTV8画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.121:5140
-#EXTINF:-1,CETV1
-http://192.168.0.103:8888/udp/239.93.1.111:5140
-#EXTINF:-1,CETV2[785*576]
-http://192.168.0.103:8888/udp/239.93.0.113:5140
-#EXTINF:-1,CETV4[785*576]
-http://192.168.0.103:8888/udp/239.93.0.50:5140
-#EXTINF:-1,CGTN[768*576]
-http://192.168.0.103:8888/udp/239.93.0.62:5140
-#EXTINF:-1,CGTN法语
-http://192.168.0.103:8888/udp/239.93.42.50:5140
-#EXTINF:-1,CGTN画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.0.216:5140
-#EXTINF:-1,CGTN西班牙语
-http://192.168.0.103:8888/udp/239.93.42.49:5140
-#EXTINF:-1,HD看电影
-http://192.168.0.103:8888/udp/239.93.42.47:5140
-#EXTINF:-1,IPTV5＋[720*576]
-http://192.168.0.103:8888/udp/239.93.0.135:9008
-#EXTINF:-1,i成都
-http://192.168.0.103:8888/udp/239.93.1.104:1234
-#EXTINF:-1,SCTV2
-http://192.168.0.103:8888/udp/239.93.1.101:5140
-#EXTINF:-1,SCTV2单音轨[576*324]
-http://192.168.0.103:8888/udp/239.93.1.99:5140
-#EXTINF:-1,SCTV2画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.62:5140
-#EXTINF:-1,SCTV3
-http://192.168.0.103:8888/udp/239.93.1.102:5140
-#EXTINF:-1,SCTV3画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.211:5140
-#EXTINF:-1,SCTV4
-http://192.168.0.103:8888/udp/239.93.0.47:5140
-#EXTINF:-1,SCTV4画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.139:5140
-#EXTINF:-1,SCTV5画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.254:5140
-#EXTINF:-1,SCTV6
-http://192.168.0.103:8888/udp/239.93.1.144:5140
-#EXTINF:-1,SCTV6画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.140:5140
-#EXTINF:-1,SCTV7
-http://192.168.0.103:8888/udp/239.93.0.219:5140
-#EXTINF:-1,SCTV7画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.145:5140
-#EXTINF:-1,SCTV9[768*576]
-http://192.168.0.103:8888/udp/239.93.0.245:5140
-#EXTINF:-1,SCTV9画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.148:5140
-#EXTINF:-1,SCTV科教
-http://192.168.0.103:8888/udp/239.93.42.44:5140
-#EXTINF:-1,SCTV科教画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.146:5140
-#EXTINF:-1,V音乐[785*576]
-http://192.168.0.103:8888/udp/239.93.0.157:2194
-#EXTINF:-1,爱宠宠物
-http://192.168.0.103:8888/udp/239.93.42.32:5140
-#EXTINF:-1,爱电竞
-http://192.168.0.103:8888/udp/239.93.42.19:5140
-#EXTINF:-1,爱谍战
-http://192.168.0.103:8888/udp/239.93.42.14:5140
-#EXTINF:-1,爱动漫
-http://192.168.0.103:8888/udp/239.93.42.23:5140
-#EXTINF:-1,爱都市
-http://192.168.0.103:8888/udp/239.93.42.15:5140
-#EXTINF:-1,爱怀旧
-http://192.168.0.103:8888/udp/239.93.42.21:5140
-#EXTINF:-1,爱经典
-http://192.168.0.103:8888/udp/239.93.42.13:5140
-#EXTINF:-1,爱科幻
-http://192.168.0.103:8888/udp/239.93.42.10:5140
-#EXTINF:-1,爱奇谈
-http://192.168.0.103:8888/udp/239.93.42.22:5140
-#EXTINF:-1,爱青春
-http://192.168.0.103:8888/udp/239.93.42.16:5140
-#EXTINF:-1,爱赛车
-http://192.168.0.103:8888/udp/239.93.42.20:5140
-#EXTINF:-1,爱生活[768*576]
-http://192.168.0.103:8888/udp/239.93.0.206:8028
-#EXTINF:-1,爱玩具
-http://192.168.0.103:8888/udp/239.93.42.18:5140
-#EXTINF:-1,爱喜剧
-http://192.168.0.103:8888/udp/239.93.42.9:5140
-#EXTINF:-1,爱悬疑
-http://192.168.0.103:8888/udp/239.93.42.12:5140
-#EXTINF:-1,爱幼教
-http://192.168.0.103:8888/udp/239.93.42.17:5140
-#EXTINF:-1,爱院线
-http://192.168.0.103:8888/udp/239.93.42.11:5140
-#EXTINF:-1,安徽卫视
-http://192.168.0.103:8888/udp/239.93.1.106:5140
-#EXTINF:-1,安徽卫视[576*324]
-http://192.168.0.103:8888/udp/239.93.0.75:5140
-#EXTINF:-1,安徽卫视画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.166:5140
-#EXTINF:-1,百视通4K
-http://192.168.0.103:8888/udp/239.93.42.75:5140
-#EXTINF:-1,宝宝动画[768*576]
-http://192.168.0.103:8888/udp/239.93.0.147:5140
-#EXTINF:-1,北京卫视
-http://192.168.0.103:8888/udp/239.93.0.180:5140
-#EXTINF:-1,北京卫视[576*324]
-http://192.168.0.103:8888/udp/239.93.0.71:5140
-#EXTINF:-1,北京卫视单音轨[576*324]
-http://192.168.0.103:8888/udp/239.93.1.83:5140
-#EXTINF:-1,北京卫视画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.66:5140
-#EXTINF:-1,兵团卫视[785*576]
-http://192.168.0.103:8888/udp/239.93.42.43:5140
-#EXTINF:-1,财富天下[785*576]
-http://192.168.0.103:8888/udp/239.93.0.116:9136
-#EXTINF:-1,茶频道
-http://192.168.0.103:8888/udp/239.93.0.114:5140
-#EXTINF:-1,城市大明星
-http://192.168.0.103:8888/udp/239.93.0.94:5140
-#EXTINF:-1,城市大明星单音轨[576*324]
-http://192.168.0.103:8888/udp/239.93.1.93:5140
-#EXTINF:-1,大爱旅游
-http://192.168.0.103:8888/udp/239.93.42.70:5140
-#EXTINF:-1,大爱生活
-http://192.168.0.103:8888/udp/239.93.42.71:5140
-#EXTINF:-1,大爱时尚
-http://192.168.0.103:8888/udp/239.93.42.72:5140
-#EXTINF:-1,大爱四川
-http://192.168.0.103:8888/udp/239.93.1.110:5140
-#EXTINF:-1,大爱四川画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.0.228:5140
-#EXTINF:-1,大爱四川画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.0.25:5140
-#EXTINF:-1,导视[720*576]
-http://192.168.0.103:8888/udp/239.93.0.129:5140
-#EXTINF:-1,地理[768*576]
-http://192.168.0.103:8888/udp/239.93.0.200:9052
-#EXTINF:-1,电竞天堂[768*576]
-http://192.168.0.103:8888/udp/239.93.1.135:5140
-#EXTINF:-1,谍战剧场[768*576]
-http://192.168.0.103:8888/udp/239.93.0.95:5140
-#EXTINF:-1,东方财经
-http://192.168.0.103:8888/udp/239.93.1.165:5140
-#EXTINF:-1,东方财经画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.0.31:5140
-#EXTINF:-1,东方卫视
-http://192.168.0.103:8888/udp/239.93.0.123:5140
-#EXTINF:-1,东方卫视[576*324]
-http://192.168.0.103:8888/udp/239.93.0.70:5140
-#EXTINF:-1,东方卫视单音轨[576*324]
-http://192.168.0.103:8888/udp/239.93.1.82:5140
-#EXTINF:-1,东方卫视画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.44:5140
-#EXTINF:-1,东南卫视
-http://192.168.0.103:8888/udp/239.93.0.81:5140
-#EXTINF:-1,东南卫视
-http://192.168.0.103:8888/udp/239.93.0.42:5140
-#EXTINF:-1,东南卫视画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.201:5140
-#EXTINF:-1,动画番剧
-http://192.168.0.103:8888/udp/239.93.1.177:5140
-#EXTINF:-1,多屏
-http://192.168.0.103:8888/udp/239.93.1.130:5140
-#EXTINF:-1,多屏
-http://192.168.0.103:8888/udp/239.93.1.131:5140
-#EXTINF:-1,多屏
-http://192.168.0.103:8888/udp/239.93.1.132:5140
-#EXTINF:-1,多屏
-http://192.168.0.103:8888/udp/239.93.1.133:5140
-#EXTINF:-1,多屏
-http://192.168.0.103:8888/udp/239.93.1.122:5140
-#EXTINF:-1,多屏
-http://192.168.0.103:8888/udp/239.93.1.123:5140
-#EXTINF:-1,多屏
-http://192.168.0.103:8888/udp/239.93.1.124:5140
-#EXTINF:-1,多屏
-http://192.168.0.103:8888/udp/239.93.1.125:5140
-#EXTINF:-1,多屏
-http://192.168.0.103:8888/udp/239.93.1.126:5140
-#EXTINF:-1,峨眉电影
-http://192.168.0.103:8888/udp/239.93.0.252:5140
-#EXTINF:-1,峨眉电影单音轨[576*324]
-http://192.168.0.103:8888/udp/239.93.1.95:5140
-#EXTINF:-1,峨眉电影画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.161:5140
-#EXTINF:-1,风尚生活
-http://192.168.0.103:8888/udp/239.93.42.29:5140
-#EXTINF:-1,凤凰中文
-http://192.168.0.103:8888/udp/239.93.0.162:2192
-#EXTINF:-1,凤凰资讯
-http://192.168.0.103:8888/udp/239.93.0.118:2191
-#EXTINF:-1,甘肃卫视画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.215:5140
-#EXTINF:-1,港剧风云[768*576]
-http://192.168.0.103:8888/udp/239.93.0.143:5140
-#EXTINF:-1,高网[768*576]
-http://192.168.0.103:8888/udp/239.93.0.202:9068
-#EXTINF:-1,股评汇[768*576]
-http://192.168.0.103:8888/udp/239.93.0.141:5140
-#EXTINF:-1,广东卫视
-http://192.168.0.103:8888/udp/239.93.0.181:5140
-#EXTINF:-1,广东卫视单音轨[576*324]
-http://192.168.0.103:8888/udp/239.93.1.92:5140
-#EXTINF:-1,广东卫视画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.0.201:5140
-#EXTINF:-1,广西卫视
-http://192.168.0.103:8888/udp/239.93.42.46:5140
-#EXTINF:-1,广西卫视画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.203:5140
-#EXTINF:-1,贵州卫视
-http://192.168.0.103:8888/udp/239.93.0.131:5140
-#EXTINF:-1,贵州卫视[768*576]
-http://192.168.0.103:8888/udp/239.93.0.127:5140
-#EXTINF:-1,贵州卫视画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.200:5140
-#EXTINF:-1,河北卫视
-http://192.168.0.103:8888/udp/239.93.0.132:5140
-#EXTINF:-1,河北卫视[1280*576]
-http://192.168.0.103:8888/udp/239.93.0.5:5140
-#EXTINF:-1,河北卫视画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.202:5140
-#EXTINF:-1,河南卫视
-http://192.168.0.103:8888/udp/239.93.42.45:5140
-#EXTINF:-1,河南卫视画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.169:5140
-#EXTINF:-1,黑龙江卫视
-http://192.168.0.103:8888/udp/239.93.0.183:5140
-#EXTINF:-1,黑龙江卫视[768*576]
-http://192.168.0.103:8888/udp/239.93.0.87:5140
-#EXTINF:-1,黑龙江卫视画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.0.231:5140
-#EXTINF:-1,红色经典
-http://192.168.0.103:8888/udp/239.93.1.176:5140
-#EXTINF:-1,红原日干乔
-http://192.168.0.103:8888/udp/239.93.0.178:5140
-#EXTINF:-1,红原月亮湾
-http://192.168.0.103:8888/udp/239.93.0.209:5140
-#EXTINF:-1,湖北卫视
-http://192.168.0.103:8888/udp/239.93.0.250:5140
-#EXTINF:-1,湖北卫视[768*576]
-http://192.168.0.103:8888/udp/239.93.0.82:5140
-#EXTINF:-1,湖北卫视画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.0.115:5140
-#EXTINF:-1,湖南卫视
-http://192.168.0.103:8888/udp/239.93.0.88:5140
-#EXTINF:-1,湖南卫视[576*324]
-http://192.168.0.103:8888/udp/239.93.0.77:5140
-#EXTINF:-1,湖南卫视画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.46:5140
-#EXTINF:-1,华语影院[768*576]
-http://192.168.0.103:8888/udp/239.93.0.138:5140
-#EXTINF:-1,吉林卫视画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.204:5140
-#EXTINF:-1,纪实人文[1047*576]
-http://192.168.0.103:8888/udp/239.93.1.154:5140
-#EXTINF:-1,嘉佳卡通[768*576]
-http://192.168.0.103:8888/udp/239.93.0.246:5140
-#EXTINF:-1,江苏卫视
-http://192.168.0.103:8888/udp/239.93.0.89:5140
-#EXTINF:-1,江苏卫视
-http://192.168.0.103:8888/udp/239.93.0.72:5140
-#EXTINF:-1,江苏卫视-单音轨[576*324]
-http://192.168.0.103:8888/udp/239.93.1.80:5140
-#EXTINF:-1,江苏卫视画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.45:5140
-#EXTINF:-1,江西卫视
-http://192.168.0.103:8888/udp/239.93.0.134:5140
-#EXTINF:-1,江西卫视[768*576]
-http://192.168.0.103:8888/udp/239.93.0.83:5140
-#EXTINF:-1,江西卫视画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.19:5140
-#EXTINF:-1,解密[768*576]
-http://192.168.0.103:8888/udp/239.93.0.199:9048
-#EXTINF:-1,金熊猫卡通
-http://192.168.0.103:8888/udp/239.93.1.172:5140
-#EXTINF:-1,金熊猫卡通画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.0.232:5140
-#EXTINF:-1,金鹰纪实
-http://192.168.0.103:8888/udp/239.93.0.130:5140
-#EXTINF:-1,金鹰卡通[1280*576]
-http://192.168.0.103:8888/udp/239.93.0.108:5140
-#EXTINF:-1,金鹰卡通画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.218:5140
-#EXTINF:-1,津津悦读4K
-http://192.168.0.103:8888/udp/239.93.1.197:5140
-#EXTINF:-1,经典电影[720*576]
-http://192.168.0.103:8888/udp/239.93.0.57:9024
-#EXTINF:-1,精彩推荐
-http://192.168.0.103:8888/udp/239.93.1.5:5140
-#EXTINF:-1,军事[768*576]
-http://192.168.0.103:8888/udp/239.93.0.204:9076
-#EXTINF:-1,卡酷动画[768*576]
-http://192.168.0.103:8888/udp/239.93.0.208:5140
-#EXTINF:-1,卡酷动画画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.217:5140
-#EXTINF:-1,康巴卫视
-http://192.168.0.103:8888/udp/239.93.0.41:5140
-#EXTINF:-1,康巴卫视[768*576]
-http://192.168.0.103:8888/udp/239.93.0.125:5140
-#EXTINF:-1,康巴卫视画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.149:5140
-#EXTINF:-1,快乐垂钓
-http://192.168.0.103:8888/udp/239.93.1.151:5140
-#EXTINF:-1,来钓鱼吧
-http://192.168.0.103:8888/udp/239.93.42.8:5140
-#EXTINF:-1,乐龄学堂
-http://192.168.0.103:8888/udp/239.93.1.179:5140
-#EXTINF:-1,辽宁卫视
-http://192.168.0.103:8888/udp/239.93.1.108:5140
-#EXTINF:-1,辽宁卫视[768*576]
-http://192.168.0.103:8888/udp/239.93.0.74:5140
-#EXTINF:-1,辽宁卫视画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.167:5140
-#EXTINF:-1,旅游卫视[768*576]
-http://192.168.0.103:8888/udp/239.93.0.80:5140
-#EXTINF:-1,旅游卫视画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.216:5140
-#EXTINF:-1,麻辣体育
-http://192.168.0.103:8888/udp/239.93.42.2:5140
-#EXTINF:-1,每日影院[768*576]
-http://192.168.0.103:8888/udp/239.93.42.35:5140
-#EXTINF:-1,魅力时尚[720*576]
-http://192.168.0.103:8888/udp/239.93.0.190:9012
-#EXTINF:-1,墨宝[768*576]
-http://192.168.0.103:8888/udp/239.93.0.215:9132
-#EXTINF:-1,内蒙古卫视[768*576]
-http://192.168.0.103:8888/udp/239.93.0.8:5140
-#EXTINF:-1,内蒙古卫视画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.208:5140
-#EXTINF:-1,宁夏卫视[768*576]
-http://192.168.0.103:8888/udp/239.93.0.247:5140
-#EXTINF:-1,宁夏卫视画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.212:5140
-#EXTINF:-1,亲子趣学4K
-http://192.168.0.103:8888/udp/239.93.1.191:5140
-#EXTINF:-1,青春动漫[768*576]
-http://192.168.0.103:8888/udp/239.93.0.146:5140
-#EXTINF:-1,青海卫视[768*576]
-http://192.168.0.103:8888/udp/239.93.0.192:5140
-#EXTINF:-1,青海卫视画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.209:5140
-#EXTINF:-1,求索
-http://192.168.0.103:8888/udp/239.93.42.24:5140
-#EXTINF:-1,全球大片[768*576]
-http://192.168.0.103:8888/udp/239.93.0.105:5140
-#EXTINF:-1,热播剧场[720*576]
-http://192.168.0.103:8888/udp/239.93.0.56:9020
-#EXTINF:-1,热门本地[576*324]
-http://192.168.0.103:8888/udp/239.93.1.35:5140
-#EXTINF:-1,热门本地-体验[576*324]
-http://192.168.0.103:8888/udp/239.93.1.53:5140
-#EXTINF:-1,热门剧场[768*576]
-http://192.168.0.103:8888/udp/239.93.0.140:5140
-#EXTINF:-1,热门卫视[576*324]
-http://192.168.0.103:8888/udp/239.93.1.34:5140
-#EXTINF:-1,热门卫视-体验[576*324]
-http://192.168.0.103:8888/udp/239.93.1.49:5140
-#EXTINF:-1,热门央视-体验[576*324]
-http://192.168.0.103:8888/udp/239.93.1.47:5140
-#EXTINF:-1,热门综艺[768*576]
-http://192.168.0.103:8888/udp/239.93.0.151:5140
-#EXTINF:-1,热血剧场
-http://192.168.0.103:8888/udp/239.93.1.198:5140
-#EXTINF:-1,蓉城先锋
-http://192.168.0.103:8888/udp/239.93.0.91:2101
-#EXTINF:-1,蓉城先锋画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.138:5140
-#EXTINF:-1,三沙卫视[768*576]
-http://192.168.0.103:8888/udp/239.93.42.58:5140
-#EXTINF:-1,厦门卫视[768*576]
-http://192.168.0.103:8888/udp/239.93.42.57:5140
-#EXTINF:-1,山东教育[785*576]
-http://192.168.0.103:8888/udp/239.93.1.196:5140
-#EXTINF:-1,山东卫视
-http://192.168.0.103:8888/udp/239.93.0.168:5140
-#EXTINF:-1,山东卫视画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.0.229:5140
-#EXTINF:-1,山西卫视[768*576]
-http://192.168.0.103:8888/udp/239.93.0.6:5140
-#EXTINF:-1,山西卫视画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.207:5140
-#EXTINF:-1,陕西卫视[768*576]
-http://192.168.0.103:8888/udp/239.93.0.176:5140
-#EXTINF:-1,陕西卫视画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.205:5140
-#EXTINF:-1,上海纪实
-http://192.168.0.103:8888/udp/239.93.1.137:5140
-#EXTINF:-1,少儿才艺大赛
-http://192.168.0.103:8888/udp/239.93.1.189:5140
-#EXTINF:-1,少儿才艺大赛单音轨[576*324]
-http://192.168.0.103:8888/udp/239.93.1.96:5140
-#EXTINF:-1,少儿动画[720*576]
-http://192.168.0.103:8888/udp/239.93.0.193:9000
-#EXTINF:-1,少儿天地
-http://192.168.0.103:8888/udp/239.93.42.34:5140
-#EXTINF:-1,深圳卫视
-http://192.168.0.103:8888/udp/239.93.0.182:5140
-#EXTINF:-1,深圳卫视
-http://192.168.0.103:8888/udp/239.93.0.248:5140
-#EXTINF:-1,深圳卫视单音轨[576*324]
-http://192.168.0.103:8888/udp/239.93.1.84:5140
-#EXTINF:-1,深圳卫视画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.21:5140
-#EXTINF:-1,生活时尚[785*576]
-http://192.168.0.103:8888/udp/239.93.0.106:5140
-#EXTINF:-1,收视导视
-http://192.168.0.103:8888/udp/239.93.1.39:5140
-#EXTINF:-1,收视导视画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.243:5140
-#EXTINF:-1,收视指南[720*576]
-http://192.168.0.103:8888/udp/239.93.0.195:8012
-#EXTINF:-1,收视指南画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.0.38:5140
-#EXTINF:-1,四川广场舞大赛
-http://192.168.0.103:8888/udp/239.93.1.190:5140
-#EXTINF:-1,四川广场舞大赛单音轨[576*324]
-http://192.168.0.103:8888/udp/239.93.1.97:5140
-#EXTINF:-1,四川卫视
-http://192.168.0.103:8888/udp/239.93.0.169:5140
-#EXTINF:-1,四川卫视单音轨[576*324]
-http://192.168.0.103:8888/udp/239.93.1.88:5140
-#EXTINF:-1,四川卫视画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.0.128:5140
-#EXTINF:-1,四川乡村
-http://192.168.0.103:8888/udp/239.93.0.52:5140
-#EXTINF:-1,四川影视
-http://192.168.0.103:8888/udp/239.93.0.166:5140
-#EXTINF:-1,台球[768*576]
-http://192.168.0.103:8888/udp/239.93.0.203:9072
-#EXTINF:-1,台球画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.227:5140
-#EXTINF:-1,天津卫视
-http://192.168.0.103:8888/udp/239.93.0.167:5140
-#EXTINF:-1,天津卫视[768*576]
-http://192.168.0.103:8888/udp/239.93.0.85:5140
-#EXTINF:-1,天津卫视单音轨[576*324]
-http://192.168.0.103:8888/udp/239.93.1.90:5140
-#EXTINF:-1,天津卫视画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.134:5140
-#EXTINF:-1,天元围棋[768*576]
-http://192.168.0.103:8888/udp/239.93.42.55:5140
-#EXTINF:-1,西藏卫视[768*576]
-http://192.168.0.103:8888/udp/239.93.0.175:5140
-#EXTINF:-1,西藏卫视画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.213:5140
-#EXTINF:-1,戏曲[768*576]
-http://192.168.0.103:8888/udp/239.93.0.217:9208
-#EXTINF:-1,戏曲精选[768*576]
-http://192.168.0.103:8888/udp/239.93.0.144:5140
-#EXTINF:-1,先锋乒羽[768*576]
-http://192.168.0.103:8888/udp/239.93.42.56:5140
-#EXTINF:-1,新疆卫视[768*576]
-http://192.168.0.103:8888/udp/239.93.0.194:5140
-#EXTINF:-1,新疆卫视画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.214:5140
-#EXTINF:-1,星光院线[768*576]
-http://192.168.0.103:8888/udp/239.93.0.139:5140
-#EXTINF:-1,星空[785*576]
-http://192.168.0.103:8888/udp/239.93.0.156:2193
-#EXTINF:-1,星空精选
-http://192.168.0.103:8888/udp/239.93.1.171:5140
-#EXTINF:-1,星空精选画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.0.230:5140
-#EXTINF:-1,幸福剧场
-http://192.168.0.103:8888/udp/239.93.42.30:5140
-#EXTINF:-1,幸福娱乐[768*576]
-http://192.168.0.103:8888/udp/239.93.42.31:5140
-#EXTINF:-1,熊猫24小时
-http://192.168.0.103:8888/udp/239.93.1.178:5140
-#EXTINF:-1,熊猫频道
-http://192.168.0.103:8888/udp/239.93.0.211:9148
-#EXTINF:-1,熊猫新闻
-http://192.168.0.103:8888/udp/239.93.1.112:5140
-#EXTINF:-1,熊猫新闻单音轨[576*324]
-http://192.168.0.103:8888/udp/239.93.1.98:5140
-#EXTINF:-1,熊猫影院
-http://192.168.0.103:8888/udp/239.93.0.214:5140
-#EXTINF:-1,熊猫影院画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.0.220:5140
-#EXTINF:-1,熊猫直播画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.0.172:5140
-#EXTINF:-1,熊猫直播间[768*576]
-http://192.168.0.103:8888/udp/239.93.0.126:5140
-#EXTINF:-1,炫动卡通[768*576]
-http://192.168.0.103:8888/udp/239.93.0.173:5140
-#EXTINF:-1,炫动卡通画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.0.33:5140
-#EXTINF:-1,绚影4K
-http://192.168.0.103:8888/udp/239.93.42.33:5140
-#EXTINF:-1,雅克音乐节直播
-http://192.168.0.103:8888/udp/239.93.42.69:5140
-#EXTINF:-1,音乐现场[768*576]
-http://192.168.0.103:8888/udp/239.93.0.198:9044
-#EXTINF:-1,优漫卡通[768*576]
-http://192.168.0.103:8888/udp/239.93.0.251:5140
-#EXTINF:-1,优漫卡通画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.0.32:5140
-#EXTINF:-1,游戏风云[785*576]
-http://192.168.0.103:8888/udp/239.93.0.136:5140
-#EXTINF:-1,云南卫视[768*576]
-http://192.168.0.103:8888/udp/239.93.0.174:5140
-#EXTINF:-1,云南卫视画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.168:5140
-#EXTINF:-1,云演艺宣传
-http://192.168.0.103:8888/udp/239.93.42.60:5140
-#EXTINF:-1,云演艺直播
-http://192.168.0.103:8888/udp/239.93.42.59:5140
-#EXTINF:-1,浙江卫视
-http://192.168.0.103:8888/udp/239.93.0.124:5140
-#EXTINF:-1,浙江卫视[576*324]
-http://192.168.0.103:8888/udp/239.93.0.73:5140
-#EXTINF:-1,浙江卫视单音轨[576*324]
-http://192.168.0.103:8888/udp/239.93.1.81:5140
-#EXTINF:-1,浙江卫视画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.1.6:5140
-#EXTINF:-1,直播室1
-http://192.168.0.103:8888/udp/239.93.1.180:5140
-#EXTINF:-1,直播室11
-http://192.168.0.103:8888/udp/239.93.0.99:5140
-#EXTINF:-1,直播室12[768*576]
-http://192.168.0.103:8888/udp/239.93.0.100:5140
-#EXTINF:-1,直播室14
-http://192.168.0.103:8888/udp/239.93.0.102:5140
-#EXTINF:-1,直播室15
-http://192.168.0.103:8888/udp/239.93.0.103:5140
-#EXTINF:-1,直播室16
-http://192.168.0.103:8888/udp/239.93.0.104:5140
-#EXTINF:-1,直播室2
-http://192.168.0.103:8888/udp/239.93.1.181:5140
-#EXTINF:-1,直播室3
-http://192.168.0.103:8888/udp/239.93.1.182:5140
-#EXTINF:-1,直播室4
-http://192.168.0.103:8888/udp/239.93.1.183:5140
-#EXTINF:-1,直播室5
-http://192.168.0.103:8888/udp/239.93.1.184:5140
-#EXTINF:-1,直播室6
-http://192.168.0.103:8888/udp/239.93.1.185:5140
-#EXTINF:-1,直播室7
-http://192.168.0.103:8888/udp/239.93.1.186:5140
-#EXTINF:-1,直播室8
-http://192.168.0.103:8888/udp/239.93.1.187:5140
-#EXTINF:-1,直播室9[3840*2160]
-http://192.168.0.103:8888/udp/239.93.0.97:5140
-#EXTINF:-1,中录动漫4K
-http://192.168.0.103:8888/udp/239.93.1.188:5140
-#EXTINF:-1,重庆卫视
-http://192.168.0.103:8888/udp/239.93.1.107:5140
-#EXTINF:-1,重庆卫视[768*576]
-http://192.168.0.103:8888/udp/239.93.0.90:5140
-#EXTINF:-1,重庆卫视画中画[576*324]
-http://192.168.0.103:8888/udp/239.93.0.119:5140
-#EXTINF:-1,综艺咖秀
-http://192.168.0.103:8888/udp/239.93.1.175:5140
-#EXTINF:-1,足球[768*576]
-http://192.168.0.103:8888/udp/239.93.0.197:9040
-#EXTINF:-1,德阳2
-http://192.168.0.103:8888/239.93.2.253:10004
-#EXTINF:-1,德阳1
-http://192.168.0.103:8888/239.93.3.252:10003
-#EXTINF:-1,绵阳新闻
-http://192.168.0.103:8888/239.93.4.178:7712
-#EXTINF:-1,绵阳科教
-http://192.168.0.103:8888/239.93.5.76:8450
-#EXTINF:-1,遂宁文化
-http://192.168.0.103:8888/239.93.10.26:8150
-#EXTINF:-1,遂宁综合
-http://192.168.0.103:8888/239.93.11.176:7764
-#EXTINF:-1,内江综合
-http://192.168.0.103:8888/239.93.13.250:10001
-#EXTINF:-1,内江科教
-http://192.168.0.103:8888/239.93.13.252:10003
-#EXTINF:-1,乐山文旅
-http://192.168.0.103:8888/239.93.15.248:51231
-#EXTINF:-1,乐山新闻
-http://192.168.0.103:8888/239.93.15.249:51231
-#EXTINF:-1,南充科教
-http://192.168.0.103:8888/239.93.16.79:8468
-#EXTINF:-1,南充综合
-http://192.168.0.103:8888/239.93.16.98:8582
-#EXTINF:-1,宜宾新闻
-http://192.168.0.103:8888/239.93.19.251:2001
-#EXTINF:-1,宜宾公共
-http://192.168.0.103:8888/239.93.19.252:2002
-#EXTINF:-1,广安文旅
-http://192.168.0.103:8888/239.93.20.37:8216
-#EXTINF:-1,广安新闻
-http://192.168.0.103:8888/239.93.20.38:8222
-#EXTINF:-1,达州综合
-http://192.168.0.103:8888/239.93.22.171:7934
-#EXTINF:-1,达州文化
-http://192.168.0.103:8888/239.93.22.172:7938
-#EXTINF:-1,雅安文化
-http://192.168.0.103:8888/239.93.25.246:6667
-#EXTINF:-1,雅安新闻
-http://192.168.0.103:8888/239.93.25.253:6666
-#EXTINF:-1,眉山综合
-http://192.168.0.103:8888/239.93.27.241:2001
-#EXTINF:-1,眉山文旅
-http://192.168.0.103:8888/239.93.27.242:2002
-#EXTINF:-1,资阳新闻
-http://192.168.0.103:8888/239.93.29.220:5140
-#EXTINF:-1,自贡综合
-http://192.168.0.103:8888/239.93.31.251:4004
-#EXTINF:-1,自贡公共
-http://192.168.0.103:8888/239.93.31.252:4005
-#EXTINF:-1,泸州新闻
-http://192.168.0.103:8888/239.93.35.241:5140
-#EXTINF:-1,泸州科教
-http://192.168.0.103:8888/239.93.35.243:5140
-#EXTINF:-1,凉山彝语综合
-http://192.168.0.103:8888/239.93.41.249:5140
-#EXTINF:-1,凉山新闻
-http://192.168.0.103:8888/239.93.41.250:1234
-#EXTINF:-1,巴中综合
-http://192.168.0.103:8888/239.93.8.35:8204
-#EXTINF:-1,巴中文旅
-http://192.168.0.103:8888/239.93.8.34:8198
