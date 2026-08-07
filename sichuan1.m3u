@@ -15,215 +15,336 @@ https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/cf92fcd56fca49a998b0c
 #EXTINF:-1 group-title="来龙去脉",07
 https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/b5c98ac5efce407e8a4b6bef0566361d/4000.m3u8
 
-遇见最极致的中国,#genre#
-01极致冰原,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/74f9e4cd3b9b4b12b1606a507afcd15c/4000.m3u8
-02瀚海狂沙,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/3a17ae4d81d7456ab2821cae9e16b068/4000.m3u8
-03酷寒之门,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/697d134ac64a4c408aec70d793c2b371/4000.m3u8
-04深谷秘境,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/40578ae3f77c4b3ba165ca2cc54bdaca/4000.m3u8
-05奇幻峰林,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/a1691265309e45c3a93287e6fbc88126/4000.m3u8
-06山河并流,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/9cdf4e56332c4ba8a7fd602e1dd336ab/4000.m3u8
-07梦幻山海,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/2fac39610308445887e41acb35b5a7a8/4000.m3u8
+
+#EXTINF:-1 group-title="遇见最极致的中国",01极致冰原
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/74f9e4cd3b9b4b12b1606a507afcd15c/4000.m3u8
+#EXTINF:-1 group-title="遇见最极致的中国",02瀚海狂沙
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/3a17ae4d81d7456ab2821cae9e16b068/4000.m3u8
+#EXTINF:-1 group-title="遇见最极致的中国",03酷寒之门
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/697d134ac64a4c408aec70d793c2b371/4000.m3u8
+#EXTINF:-1 group-title="遇见最极致的中国",04深谷秘境
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/40578ae3f77c4b3ba165ca2cc54bdaca/4000.m3u8
+#EXTINF:-1 group-title="遇见最极致的中国",05奇幻峰林
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/a1691265309e45c3a93287e6fbc88126/4000.m3u8
+#EXTINF:-1 group-title="遇见最极致的中国",06山河并流
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/9cdf4e56332c4ba8a7fd602e1dd336ab/4000.m3u8
+#EXTINF:-1 group-title="遇见最极致的中国",07梦幻山海
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/2fac39610308445887e41acb35b5a7a8/4000.m3u8
 
 美丽中国说,#genre#
-成长中的陪伴,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/c7c0d1e32934488183da49f8e6e23363/4000.m3u8
-沙洲奇缘,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/71b4a51f3b4c48a1894ca40cacca866e/4000.m3u8
-高山精灵,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/bbfb8bb73f014b44835dc6bf740726b9/4000.m3u8
-火山奇遇,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/3c9c431114aa4e89a2855d10a85c86cb/4000.m3u8
-雨林王者,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/ed937a07e02b4dbd9105b46e8db12ef9/4000.m3u8
-高原生灵,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/8eb0cca0f0774cbd82408240b5991e86/4000.m3u8
-古老戈壁,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/8cdd688b04e4495ba1635e218419d6f9/4000.m3u8
-生态海岸,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/ce31e9c00f35495b8b24f03186477b9a/4000.m3u8
-白头叶猴,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/09099718b1574a8f83fae635357f7b9d/4000.m3u8
-中国香港,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/675a7387d1e6455c92e71bcd614b6f5e/4000.m3u8
 
-蔚蓝之境,#genre#
-01季节的轮回,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/b58bb414ef034c619353b14a4fb5fde4/4000.m3u8
-02潮水的节律,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/b544326eaef0475984c86f61b43582f2/4000.m3u8
-03湿地的竞争,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/9eee31b127a54bad93a9c4478fd90b0b/4000.m3u8
-04海湾的怀抱,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/990399663d0946d6ae78dec3d089c8a3/4000.m3u8
-05海岛的空间,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/e388748d60ca447e8108552eca46af6f/4000.m3u8
-06生存的挑战,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/8d600e1db930452f9e53d80ca9447a1d/4000.m3u8
+#EXTINF:-1 group-title="美丽中国说",01 成长中的陪伴
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/c7c0d1e32934488183da49f8e6e23363/4000.m3u8
 
-珠穆朗玛,#genre#
-01,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/b9c58a3bb5584352bae0ae540d8c480f/4000.m3u8
-02,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/60d16a1401bc4ece8d50194ebf9a08a9/4000.m3u8
-03,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/df6de58fb14e43029d96f0275b621aa5/4000.m3u8
-04,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/84e08527831441379a38ea09b1703ad1/4000.m3u8
+#EXTINF:-1 group-title="美丽中国说",02 沙洲奇缘
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/71b4a51f3b4c48a1894ca40cacca866e/4000.m3u8
 
-守望长城,#genre#
-01长城明月生心上,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/fe97df294ad345418259f23e55d106a5/4000.m3u8
-02长城内外是故乡,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/b65957b395b44d7aa5cb9ed40c2e51ec/4000.m3u8
-03长城峥嵘铸脊梁,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/84c200b46c7f4d72891466ec85f23f07/4000.m3u8
+#EXTINF:-1 group-title="美丽中国说",03 高山精灵
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/bbfb8bb73f014b44835dc6bf740726b9/4000.m3u8
+#EXTINF:-1 group-title="美丽中国说",04 火山奇遇
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/3c9c431114aa4e89a2855d10a85c86cb/4000.m3u8
+#EXTINF:-1 group-title="美丽中国说",05 雨林王者
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/ed937a07e02b4dbd9105b46e8db12ef9/4000.m3u8
+#EXTINF:-1 group-title="美丽中国说",06 高原生灵
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/8eb0cca0f0774cbd82408240b5991e86/4000.m3u8
+#EXTINF:-1 group-title="美丽中国说",07 古老戈壁
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/8cdd688b04e4495ba1635e218419d6f9/4000.m3u8
+#EXTINF:-1 group-title="美丽中国说",08 生态海岸
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/ce31e9c00f35495b8b24f03186477b9a/4000.m3u8
+#EXTINF:-1 group-title="美丽中国说",09 白头叶猴
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/09099718b1574a8f83fae635357f7b9d/4000.m3u8
+#EXTINF:-1 group-title="美丽中国说",10 中国香港
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/675a7387d1e6455c92e71bcd614b6f5e/4000.m3u8
 
-天宫建造,#genre#
-01,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/16d95ef132ba4a25b717dd4f96d778ff/4000.m3u8
-02,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/2bb9804b9c9346ecb27f377762f90581/4000.m3u8
-03,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/787823c6dad14b0e824617b78ba6b52b/4000.m3u8
-04,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/45978877179b4576a9777a401b089fc1/4000.m3u8
-05,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/b91c211d2a2146e0af5b6dae5585f60d/4000.m3u8
+#EXTINF:-1 group-title="蔚蓝之境",01 季节的轮回
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/b58bb414ef034c619353b14a4fb5fde4/4000.m3u8
+#EXTINF:-1 group-title="蔚蓝之境",02 潮水的节律
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/b544326eaef0475984c86f61b43582f2/4000.m3u8
+#EXTINF:-1 group-title="蔚蓝之境",03 湿地的竞争
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/9eee31b127a54bad93a9c4478fd90b0b/4000.m3u8
+#EXTINF:-1 group-title="蔚蓝之境",04 海湾的怀抱
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/990399663d0946d6ae78dec3d089c8a3/4000.m3u8
+#EXTINF:-1 group-title="蔚蓝之境",05 海岛的空间
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/e388748d60ca447e8108552eca46af6f/4000.m3u8
+#EXTINF:-1 group-title="蔚蓝之境",06 生存的挑战
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/8d600e1db930452f9e53d80ca9447a1d/4000.m3u8
 
-我们的征途,#genre#
-01,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/5d730a77cc5e4a6ca47fc03800d240ad/4000.m3u8
-02,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/ed4ebde9efd54c0f8088e014ca6acd55/4000.m3u8
-03,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/f497ad64e58943c9b673aceebe117b7b/4000.m3u8
+#EXTINF:-1 group-title="珠穆朗玛",01
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/b9c58a3bb5584352bae0ae540d8c480f/4000.m3u8
+#EXTINF:-1 group-title="珠穆朗玛",02
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/60d16a1401bc4ece8d50194ebf9a08a9/4000.m3u8
+#EXTINF:-1 group-title="珠穆朗玛",03
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/df6de58fb14e43029d96f0275b621aa5/4000.m3u8
+#EXTINF:-1 group-title="珠穆朗玛",04
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/84e08527831441379a38ea09b1703ad1/4000.m3u8
+
+#EXTINF:-1 group-title="守望长城",01 长城明月生心上
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/fe97df294ad345418259f23e55d106a5/4000.m3u8
+#EXTINF:-1 group-title="守望长城",02 长城内外是故乡
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/b65957b395b44d7aa5cb9ed40c2e51ec/4000.m3u8
+#EXTINF:-1 group-title="守望长城",03 长城峥嵘铸脊梁
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/84c200b46c7f4d72891466ec85f23f07/4000.m3u8
+
+#EXTINF:-1 group-title="天宫建造",01
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/16d95ef132ba4a25b717dd4f96d778ff/4000.m3u8
+#EXTINF:-1 group-title="天宫建造",02
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/2bb9804b9c9346ecb27f377762f90581/4000.m3u8
+#EXTINF:-1 group-title="天宫建造",03
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/787823c6dad14b0e824617b78ba6b52b/4000.m3u8
+#EXTINF:-1 group-title="天宫建造",04
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/45978877179b4576a9777a401b089fc1/4000.m3u8
+#EXTINF:-1 group-title="天宫建造",05
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/b91c211d2a2146e0af5b6dae5585f60d/4000.m3u8
+
+#EXTINF:-1 group-title="我们的征途",01
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/5d730a77cc5e4a6ca47fc03800d240ad/4000.m3u8
+#EXTINF:-1 group-title="我们的征途",02
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/ed4ebde9efd54c0f8088e014ca6acd55/4000.m3u8
+#EXTINF:-1 group-title="我们的征途",03
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/f497ad64e58943c9b673aceebe117b7b/4000.m3u8
 
 飞向月球 第1季,#genre#
-01往事千年,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/d64a17c7177641b18fa37b59f4b5ae2b/4000.m3u8
-02中国探月,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/72ea230607c8498a961ccc44c085d2ba/4000.m3u8
-03嫦娥落月,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/45c55ae6c23240beafa02b1dc3d07d74/4000.m3u8
-04月球背面,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/44eaf80f5a4048f591ed9800e9970c32/4000.m3u8
-05自新大陆,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/68c6dc19cb8b4d9fa3921d4f8d124513/4000.m3u8
+#EXTINF:-1 group-title="飞向月球 第1季",01 往事千年
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/d64a17c7177641b18fa37b59f4b5ae2b/4000.m3u8
+#EXTINF:-1 group-title="飞向月球 第1季",02 中国探月
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/72ea230607c8498a961ccc44c085d2ba/4000.m3u8
+#EXTINF:-1 group-title="飞向月球 第1季",03 嫦娥落月
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/45c55ae6c23240beafa02b1dc3d07d74/4000.m3u8
+#EXTINF:-1 group-title="飞向月球 第1季",04 月球背面
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/44eaf80f5a4048f591ed9800e9970c32/4000.m3u8
+#EXTINF:-1 group-title="飞向月球 第1季",05 自新大陆
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/68c6dc19cb8b4d9fa3921d4f8d124513/4000.m3u8
 
-飞向月球 第2季,#genre#
-01二兔子游记,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/18500f9056c44323a973fa33f36dd033/4000.m3u8
-02蟾宫挖宝,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/d8d7a30072b641d99c3737323badef32/4000.m3u8
-03满载而归,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/80b78c888e874cbc9b85bd0b04c71322/4000.m3u8
+#EXTINF:-1 group-title="飞向月球 第2季",01 二兔子游记
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/18500f9056c44323a973fa33f36dd033/4000.m3u8
+#EXTINF:-1 group-title="飞向月球 第2季",02 蟾宫挖宝
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/d8d7a30072b641d99c3737323badef32/4000.m3u8
+#EXTINF:-1 group-title="飞向月球 第2季",03 满载而归
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/80b78c888e874cbc9b85bd0b04c71322/4000.m3u8
 
-嫦娥六号,#genre#
-01再出发,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/4b9c4c7e537848378e6c70ba3fddc8a0/4000.m3u8
-02挖呀挖,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/79e0a83f0ca54e87950c8fbcee0cd959/4000.m3u8
-03带回家,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/e19666c6c07b488ead7e4b352dad7c42/4000.m3u8
+#EXTINF:-1 group-title="嫦娥六号",01再出发
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/4b9c4c7e537848378e6c70ba3fddc8a0/4000.m3u8
+#EXTINF:-1 group-title="嫦娥六号",02 挖呀挖
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/79e0a83f0ca54e87950c8fbcee0cd959/4000.m3u8
+#EXTINF:-1 group-title="嫦娥六号",03 带回家
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/e19666c6c07b488ead7e4b352dad7c42/4000.m3u8
 
-你好！火星,#genre#
-01出发,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/6c902090223e4718bbec2e12bbe39903/4000.m3u8
-02征途,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/dcbb907c15aa4964b0fad41f38a191d1/4000.m3u8
-03环绕,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/b6bcc22c7e334a309c9fbfd9af9d1572/4000.m3u8
-04着陆,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/4fbc7eb273154b3eafc62571cfba7b3a/4000.m3u8
-05巡视,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/cbecd1e6ab5445248acbf2340d2a2160/4000.m3u8
+#EXTINF:-1 group-title="你好！火星",01 出发
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/6c902090223e4718bbec2e12bbe39903/4000.m3u8
+#EXTINF:-1 group-title="你好！火星",02 征途
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/dcbb907c15aa4964b0fad41f38a191d1/4000.m3u8
+#EXTINF:-1 group-title="你好！火星",03 环绕
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/b6bcc22c7e334a309c9fbfd9af9d1572/4000.m3u8
+#EXTINF:-1 group-title="你好！火星",04 着陆
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/4fbc7eb273154b3eafc62571cfba7b3a/4000.m3u8
+#EXTINF:-1 group-title="你好！火星",05 巡视
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/cbecd1e6ab5445248acbf2340d2a2160/4000.m3u8
 
-我所经历的罗布荒原,#genre#
-01楼兰的模样,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/21f1fd0fcf49418babce66631d8f8370/4000.m3u8
-02无人区,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/6ef31ef443c64e289e4ee7c1097e306c/4000.m3u8
-03地球之耳,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/728b16a28fd4443782929f9aa6c79cba/4000.m3u8
-04长路漫漫,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/685d1d860ad846e39f9f5914178a4213/4000.m3u8
+#EXTINF:-1 group-title="我所经历的罗布荒原",01 楼兰的模样
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/21f1fd0fcf49418babce66631d8f8370/4000.m3u8
+#EXTINF:-1 group-title="我所经历的罗布荒原",02 无人区
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/6ef31ef443c64e289e4ee7c1097e306c/4000.m3u8
+#EXTINF:-1 group-title="我所经历的罗布荒原",03 地球之耳
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/728b16a28fd4443782929f9aa6c79cba/4000.m3u8
+#EXTINF:-1 group-title="我所经历的罗布荒原",04 长路漫漫
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/685d1d860ad846e39f9f5914178a4213/4000.m3u8
 
-我在故宫六百年,#genre#
-01,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/98e00402147d4e999a739a2c33281f0a/4000.m3u8
-02,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/0b913eb230b2487396506fbec3e532ff/4000.m3u8
-03,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/4e889e54c4234ad082be8235582cd6a3/4000.m3u8
+#EXTINF:-1 group-title="我在故宫六百年",01
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/98e00402147d4e999a739a2c33281f0a/4000.m3u8
+#EXTINF:-1 group-title="我在故宫六百年",02
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/0b913eb230b2487396506fbec3e532ff/4000.m3u8
+#EXTINF:-1 group-title="我在故宫六百年",03
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/4e889e54c4234ad082be8235582cd6a3/4000.m3u8
 
-发掘记,#genre#
-01奔向田野,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/b271d25283704d149497c160b1056af6/4000.m3u8
-02晋地深处,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/69802c6a153e4da887ab2db58dad5ff7/4000.m3u8
-03栎阳密码,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/ffe769848e744664b109b15c8c42a2e1/4000.m3u8
-04辽原十年,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/bfefbeb03c8c41f8bb9263409d175e53/4000.m3u8
-05永不沉没,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/17bc3af7e8324f9b80354421c584dbe2/4000.m3u8
+#EXTINF:-1 group-title="发掘记",01 奔向田野
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/b271d25283704d149497c160b1056af6/4000.m3u8#EXTINF:-1 group-title="发掘记",02 晋地深处
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/69802c6a153e4da887ab2db58dad5ff7/4000.m3u8#EXTINF:-1 group-title="发掘记",03 栎阳密码
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/ffe769848e744664b109b15c8c42a2e1/4000.m3u8
+#EXTINF:-1 group-title="发掘记",04 辽原十年
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/bfefbeb03c8c41f8bb9263409d175e53/4000.m3u8
+#EXTINF:-1 group-title="发掘记",05 永不沉没
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/17bc3af7e8324f9b80354421c584dbe2/4000.m3u8
 
-玩的是古 第1季,#genre#
-01,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/9853bd85769c4524bc55f6e5362c67b0/4000.m3u8
-02,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/982df0d5291c4dfaaa20dce04003ae2d/4000.m3u8
-03,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/0d484354c8764728a5ca5b3899f9892b/4000.m3u8
+#EXTINF:-1 group-title="玩的是古 第1季",01
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/9853bd85769c4524bc55f6e5362c67b0/4000.m3u8
+#EXTINF:-1 group-title="玩的是古 第1季",02
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/982df0d5291c4dfaaa20dce04003ae2d/4000.m3u8
+#EXTINF:-1 group-title="玩的是古 第1季",03
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/0d484354c8764728a5ca5b3899f9892b/4000.m3u8
 
-玩的是古 第2季,#genre#
-01,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/1b937d327a0b45db834ca73212497ddd/4000.m3u8
-02,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/982df0d5291c4dfaaa20dce04003ae2d/4000.m3u8
-03,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/0d484354c8764728a5ca5b3899f9892b/4000.m3u8
+#EXTINF:-1 group-title="玩的是古 第2季",01
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/1b937d327a0b45db834ca73212497ddd/4000.m3u8
+#EXTINF:-1 group-title="玩的是古 第2季",02
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/982df0d5291c4dfaaa20dce04003ae2d/4000.m3u8
+#EXTINF:-1 group-title="玩的是古 第2季",03
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/0d484354c8764728a5ca5b3899f9892b/4000.m3u8
 
-藏家,#genre#
-01霓裳羽衣 陈申,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/286600ad50a848c0baada104737c4c8f/4000.m3u8
-02秦关汉瓦 任虎成父子,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/65e3082e39dc4405b1071a669c1f60e4/4000.m3u8
-03壶中大千 王习三父子,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/7719aa8ed4be411794e6ce4f0d63093d/4000.m3u8
-04歙州墨峦 周小林,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/b2df48f3714847f4bc912f7c17a7ce62/4000.m3u8
-05明心见贤 何国庆,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/17914675aa6940f3a45c97a7727ea49a/4000.m3u8
-06余音袅袅 邱健球,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/4721f688e4df45b29a927bce3037ec6c/4000.m3u8
+#EXTINF:-1 group-title="藏家",01 霓裳羽衣 陈申
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/286600ad50a848c0baada104737c4c8f/4000.m3u8
+#EXTINF:-1 group-title="藏家",02 秦关汉瓦 任虎成父子
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/65e3082e39dc4405b1071a669c1f60e4/4000.m3u8
+#EXTINF:-1 group-title="藏家",03 壶中大千 王习三父子
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/7719aa8ed4be411794e6ce4f0d63093d/4000.m3u8
+#EXTINF:-1 group-title="藏家",04 歙州墨峦 周小林
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/b2df48f3714847f4bc912f7c17a7ce62/4000.m3u8
+#EXTINF:-1 group-title="藏家",05 明心见贤 何国庆
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/17914675aa6940f3a45c97a7727ea49a/4000.m3u8
+#EXTINF:-1 group-title="藏家",06 余音袅袅 邱健球
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/4721f688e4df45b29a927bce3037ec6c/4000.m3u8
 
-书简阅中国,#genre#
-01小人物 大历史,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/b90c11adc8574be78f10db2eb39b4d28/4000.m3u8
-02是你告诉我 爱情的模样,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/676acc3bf0b14965aecb64c71831a3c9/4000.m3u8
-03再大的风 我都去接你,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/7dbe82c8468c4557a85738e41139d4d6/4000.m3u8
-04孤独的路 勇敢的心,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/c87367ae97b8475eb598dc2b71e53f5f/4000.m3u8
-05千古栋梁有家风,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/8b98f724565841af856124a53dbbc23f/4000.m3u8
-06留取丹心照汗青,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/78230751932442f0990f640271ac8c25/4000.m3u8
+#EXTINF:-1 group-title="书简阅中国",01 小人物 大历史
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/b90c11adc8574be78f10db2eb39b4d28/4000.m3u8
+#EXTINF:-1 group-title="书简阅中国",02 是你告诉我 爱情的模样
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/676acc3bf0b14965aecb64c71831a3c9/4000.m3u8
+#EXTINF:-1 group-title="书简阅中国",03 再大的风 我都去接你
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/7dbe82c8468c4557a85738e41139d4d6/4000.m3u8
+#EXTINF:-1 group-title="书简阅中国",04 孤独的路 勇敢的心
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/c87367ae97b8475eb598dc2b71e53f5f/4000.m3u8
+#EXTINF:-1 group-title="书简阅中国",05 千古栋梁有家风
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/8b98f724565841af856124a53dbbc23f/4000.m3u8
+#EXTINF:-1 group-title="书简阅中国",06 留取丹心照汗青
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/78230751932442f0990f640271ac8c25/4000.m3u8
 
-藏着的武林,#genre#
-01战·止戈为武,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/adf8c5dd9f3545f0be358a66ecbb4dd3/4000.m3u8
-02守·万变归宗,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/4e81a3beb4b745f4b6b92f2f1a277088/4000.m3u8
-03藏·大隐于市,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/75395629f12d43ee9391c24676247bae/4000.m3u8
-04困·面壁图破,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/f75639d7deab451fb9fa11a4d160d44e/4000.m3u8
-05道·天地人心,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/053c654a285f4ef08ae118811af7418a/4000.m3u8
-06传·生生不息,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/5668dfe1157444519eec103e98e0f464/4000.m3u8
+#EXTINF:-1 group-title="藏着的武林",01 战·止戈为武
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/adf8c5dd9f3545f0be358a66ecbb4dd3/4000.m3u8
+#EXTINF:-1 group-title="藏着的武林",02 守·万变归宗
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/4e81a3beb4b745f4b6b92f2f1a277088/4000.m3u8
+#EXTINF:-1 group-title="藏着的武林",03 藏·大隐于市
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/75395629f12d43ee9391c24676247bae/4000.m3u8
+#EXTINF:-1 group-title="藏着的武林",04 困·面壁图破
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/f75639d7deab451fb9fa11a4d160d44e/4000.m3u8
+#EXTINF:-1 group-title="藏着的武林",05 道·天地人心
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/053c654a285f4ef08ae118811af7418a/4000.m3u8
+#EXTINF:-1 group-title="藏着的武林",06 传·生生不息
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/5668dfe1157444519eec103e98e0f464/4000.m3u8
 
-探秘三星堆,#genre#
-01,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/29af2e52f0294f8897a9adc8b9e56b62/4000.m3u8
-02,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/392e622f8ab543f7ac651d9be8b63eae/4000.m3u8
-03,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/e2841ab738a74fb58e94048a635ae04a/4000.m3u8
-04,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/e7b50bf7ead4479e977c0c2aff2c4c43/4000.m3u8
-05,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/bc6f501fb5694a6fb4cec9d311ebbb40/4000.m3u8
-06,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/0e13b5aa786e4bbc843e33feb0e944d4/4000.m3u8
-07,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/a6a0519dc765400994cf21a895d6f61b/4000.m3u8
-08,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/4614325252ba42cb85441bece4343f0d/4000.m3u8
-09,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/070fa419d6294bae87a289986951412f/4000.m3u8
-10,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/005e80e7265b4eac9afd8ca9b2327ce8/4000.m3u8
+#EXTINF:-1 group-title="探秘三星堆",01
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/29af2e52f0294f8897a9adc8b9e56b62/4000.m3u8
+#EXTINF:-1 group-title="探秘三星堆",02
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/392e622f8ab543f7ac651d9be8b63eae/4000.m3u8
+#EXTINF:-1 group-title="探秘三星堆",03
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/e2841ab738a74fb58e94048a635ae04a/4000.m3u8
+#EXTINF:-1 group-title="探秘三星堆",04
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/e7b50bf7ead4479e977c0c2aff2c4c43/4000.m3u8
+#EXTINF:-1 group-title="探秘三星堆",05
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/bc6f501fb5694a6fb4cec9d311ebbb40/4000.m3u8
+#EXTINF:-1 group-title="探秘三星堆",06
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/0e13b5aa786e4bbc843e33feb0e944d4/4000.m3u8
+#EXTINF:-1 group-title="探秘三星堆",07
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/a6a0519dc765400994cf21a895d6f61b/4000.m3u8
+#EXTINF:-1 group-title="探秘三星堆",08
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/4614325252ba42cb85441bece4343f0d/4000.m3u8
+#EXTINF:-1 group-title="探秘三星堆",09
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/070fa419d6294bae87a289986951412f/4000.m3u8
+#EXTINF:-1 group-title="探秘三星堆",10
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/005e80e7265b4eac9afd8ca9b2327ce8/4000.m3u8
 
-大足石刻 石头上的世界,#genre#
-01愿者之力,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/5c04c2bd30314816af386179545ed22f/4000.m3u8
-02山崖上的宋,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/2be3bad4b5144538bd37703c38ed37a6/4000.m3u8
-03美的守望,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/77ef23e95de74399bb8b2ec4b8a29955/4000.m3u8
-04造像里的密码,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/13b1e72ff7aa4ddbae2329c2cfba825c/4000.m3u8
+#EXTINF:-1 group-title="大足石刻 石头上的世界",01 愿者之力
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/5c04c2bd30314816af386179545ed22f/4000.m3u8
+#EXTINF:-1 group-title="大足石刻 石头上的世界",02 山崖上的宋
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/2be3bad4b5144538bd37703c38ed37a6/4000.m3u8
+#EXTINF:-1 group-title="大足石刻 石头上的世界",03 美的守望
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/77ef23e95de74399bb8b2ec4b8a29955/4000.m3u8
+#EXTINF:-1 group-title="大足石刻 石头上的世界",04 造像里的密码
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/13b1e72ff7aa4ddbae2329c2cfba825c/4000.m3u8
 
-黑土地和她的朋友们,#genre#
-01四季家园,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/ded7da35ddda4c0988081be3c5575cdd/4000.m3u8
-02希望的田野,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/2b9c29374f1842769efc2d9af269b9e6/4000.m3u8
-03你我皆凡人,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/56cd151cadb44f89989075f868398bd2/4000.m3u8
+#EXTINF:-1 group-title="黑土地和她的朋友们",01 四季家园
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/ded7da35ddda4c0988081be3c5575cdd/4000.m3u8
+#EXTINF:-1 group-title="黑土地和她的朋友们",02 希望的田野
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/2b9c29374f1842769efc2d9af269b9e6/4000.m3u8
+#EXTINF:-1 group-title="黑土地和她的朋友们",03 你我皆凡人
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/56cd151cadb44f89989075f868398bd2/4000.m3u8
 
-跟着唐诗去旅行 第1季,#genre#
-01杜甫 江湖,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/cff82c02cd3541e28956979342c9bf79/4000.m3u8
-02孟浩然 故人,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/cec5926d215f4f16a00b3bf161597058/4000.m3u8
-03王维 长安,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/7691062fece9433bb37ec39b88eeb51b/4000.m3u8
-04岑参 边塞,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/82931a3cb9bb46e3a253fdc09d915807/4000.m3u8
-05李白 仙山,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/f6ef462289c7418a9f7caee564a6518a/4000.m3u8
+#EXTINF:-1 group-title="跟着唐诗去旅行",01 杜甫 江湖
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/cff82c02cd3541e28956979342c9bf79/4000.m3u8
+#EXTINF:-1 group-title="跟着唐诗去旅行",02 孟浩然 故人
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/cec5926d215f4f16a00b3bf161597058/4000.m3u8
+#EXTINF:-1 group-title="跟着唐诗去旅行",03 王维 长安
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/7691062fece9433bb37ec39b88eeb51b/4000.m3u8
+#EXTINF:-1 group-title="跟着唐诗去旅行",04 岑参 边塞
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/82931a3cb9bb46e3a253fdc09d915807/4000.m3u8
+#EXTINF:-1 group-title="跟着唐诗去旅行",05 李白 仙山
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/f6ef462289c7418a9f7caee564a6518a/4000.m3u8
 
-跟着唐诗去旅行 第2季,#genre#
-01石鼓歌,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/34be2fbbe2c34ac890ddb4ff02b33641/4000.m3u8
-02寒江雪,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/5d87b1a2e9234c85978e48f2ffeb8a58/4000.m3u8
-03出塞曲,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/0bba446bb43e47f9b009b4bcb16338b1/4000.m3u8
-04琵琶行,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/fc0670ed525349f9ba9bb147bc3176d2/4000.m3u8
-05双星会,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/d638c455bf834cbb851b8bf345b7ee2d/4000.m3u8
-06相见难,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/bafcbcfd63554c4eb6a63f3b6784bd88/4000.m3u8
+#EXTINF:-1 group-title="跟着唐诗去旅行 第2季",01 石鼓歌
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/34be2fbbe2c34ac890ddb4ff02b33641/4000.m3u8
+#EXTINF:-1 group-title="跟着唐诗去旅行 第2季",02 寒江雪
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/5d87b1a2e9234c85978e48f2ffeb8a58/4000.m3u8
+#EXTINF:-1 group-title="跟着唐诗去旅行 第2季",03 出塞曲
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/0bba446bb43e47f9b009b4bcb16338b1/4000.m3u8
+#EXTINF:-1 group-title="跟着唐诗去旅行 第2季",04 琵琶行
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/fc0670ed525349f9ba9bb147bc3176d2/4000.m3u8
+#EXTINF:-1 group-title="跟着唐诗去旅行 第2季",05 双星会
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/d638c455bf834cbb851b8bf345b7ee2d/4000.m3u8
+#EXTINF:-1 group-title="跟着唐诗去旅行 第2季",06 相见难
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/bafcbcfd63554c4eb6a63f3b6784bd88/4000.m3u8
 
-江口明末战场考古大揭秘,#genre#
-01,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/d293d62b881746a99e205737caa48007/4000.m3u8
-02,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/6fc9f72dec484bcca2ffab0bb07397b7/4000.m3u8
-03,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/46f6951eb642409f8bbeb7678a955e68/4000.m3u8
-04,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/3f21e38c2ad24480a49aa01c5aa3a80d/4000.m3u8
+#EXTINF:-1 group-title="江口明末战场考古大揭秘",01
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/d293d62b881746a99e205737caa48007/4000.m3u8
+#EXTINF:-1 group-title="江口明末战场考古大揭秘",02
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/6fc9f72dec484bcca2ffab0bb07397b7/4000.m3u8
+#EXTINF:-1 group-title="江口明末战场考古大揭秘",03
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/46f6951eb642409f8bbeb7678a955e68/4000.m3u8
+#EXTINF:-1 group-title="江口明末战场考古大揭秘",04
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/3f21e38c2ad24480a49aa01c5aa3a80d/4000.m3u8
 
-文物里的唐代戍边生活,#genre#
-01,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/0e61bda0ffe74a6c9799fe0c40721343/4000.m3u8
-02,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/7c63732d8eb94ca4a86e8791e04deb8b/4000.m3u8
+#EXTINF:-1 group-title="文物里的唐代戍边生活",01
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/0e61bda0ffe74a6c9799fe0c40721343/4000.m3u8
+#EXTINF:-1 group-title="文物里的唐代戍边生活",02
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/7c63732d8eb94ca4a86e8791e04deb8b/4000.m3u8
 
-塞上胡杨,#genre#
-01沙海胡杨,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/9074dbc18cb04cfab215aa488fdbe716/4000.m3u8
-02丝路胡杨,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/b5e1651e9db14966869e7e2c9dde09cb/4000.m3u8
-03居延胡杨,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/3c82b0834b7149199e4f4525ab329fdf/4000.m3u8
+#EXTINF:-1 group-title="塞上胡杨",01 沙海胡杨
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/9074dbc18cb04cfab215aa488fdbe716/4000.m3u8
+#EXTINF:-1 group-title="塞上胡杨",02 丝路胡杨
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/b5e1651e9db14966869e7e2c9dde09cb/4000.m3u8
+#EXTINF:-1 group-title="塞上胡杨",03 居延胡杨
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/3c82b0834b7149199e4f4525ab329fdf/4000.m3u8
 
-军工记忆,#genre#
-01铸剑止戈,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/e0aea01cc2f44214981edaadfa3d15ec/4000.m3u8
-02富国强军,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/8d9403ab95fa48f1b6f7f84ebfab6b3d/4000.m3u8
-03强国脊梁,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/82722a5d2031403c94b15f31a62b2117/4000.m3u8
+#EXTINF:-1 group-title="军工记忆",01 铸剑止戈
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/e0aea01cc2f44214981edaadfa3d15ec/4000.m3u8
+#EXTINF:-1 group-title="军工记忆",02 富国强军
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/8d9403ab95fa48f1b6f7f84ebfab6b3d/4000.m3u8
+#EXTINF:-1 group-title="军工记忆",03 强国脊梁
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/82722a5d2031403c94b15f31a62b2117/4000.m3u8
 
-寻找霸陵,#genre#
-01,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/4cb74d35b5a44510865c86c5f7661724/4000.m3u8
-02,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/8121d7da27924285b2728aa737a5b98f/4000.m3u8
-03,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/90933f0aa4cb4c8e9c9e626252333ef0/4000.m3u8
+#EXTINF:-1 group-title="寻找霸陵",01
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/4cb74d35b5a44510865c86c5f7661724/4000.m3u8
+#EXTINF:-1 group-title="寻找霸陵",02
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/8121d7da27924285b2728aa737a5b98f/4000.m3u8
+#EXTINF:-1 group-title="寻找霸陵",03
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/90933f0aa4cb4c8e9c9e626252333ef0/4000.m3u8
 
-仪征联营墓葬群发掘纪实,#genre#
-01,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/8e7ad87bded14f4cb8cc35a8dc61594f/4000.m3u8
-02,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/51e7aa0a38174ffaa64ae47eb01dda75/4000.m3u8
-03,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/d2c26632abca4fb69e3cd49cfdc54f57/4000.m3u8
-04,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/a6df53398f464d48a26711c70bc21a57/4000.m3u8
-05,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/ce0d80c199414886b42d7de7e98b7bda/4000.m3u8
+#EXTINF:-1 group-title="仪征联营墓葬群发掘纪实",01
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/8e7ad87bded14f4cb8cc35a8dc61594f/4000.m3u8
+#EXTINF:-1 group-title="仪征联营墓葬群发掘纪实",02
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/51e7aa0a38174ffaa64ae47eb01dda75/4000.m3u8
+#EXTINF:-1 group-title="仪征联营墓葬群发掘纪实",03
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/d2c26632abca4fb69e3cd49cfdc54f57/4000.m3u8
+#EXTINF:-1 group-title="仪征联营墓葬群发掘纪实",04
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/a6df53398f464d48a26711c70bc21a57/4000.m3u8
+#EXTINF:-1 group-title="仪征联营墓葬群发掘纪实",05
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/ce0d80c199414886b42d7de7e98b7bda/4000.m3u8
 
-武王墩楚墓探秘,#genre#
-01惊艳出世 美器无伦,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/73be095d955e4d55a331bba5a6283f8b/4000.m3u8
-02鼎立南国 暮光余晖,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/beacda6b18a74dc0b4e46c34e44a6017/4000.m3u8
-03髹漆成器 溢彩千年,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/ebb419d29c8e4013ada0d38f67314b7d/4000.m3u8
-04钟鸣鼎食 铸世铭史,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/4a6bd0b6a7dc4391b9c6e03314e91f7b/4000.m3u8
-05家国社稷 吉金自名,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/080197c288ca4fb79874afbd4c524e4c/4000.m3u8
-06沧桑铜绿 斑驳华彩,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/26ee0735113a44d696c55e4aa7406937/4000.m3u8
-07炊爨五谷 以食为天,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/eacc3e1be9684b1695d2b792a5fdb2cc/4000.m3u8
-08采璞琢器 玉汝于成,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/87381950788545e7b2d3702c79e4cfd3/4000.m3u8
-09黄金百镒 惟楚为先,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/4f1d851882f0455da15056c7ba257c13/4000.m3u8
-10事生为俑 荣华若世,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/ec746f2646c346d195e611dcfc1c89e6/4000.m3u8
+#EXTINF:-1 group-title="武王墩楚墓探秘",01 惊艳出世 美器无伦
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/73be095d955e4d55a331bba5a6283f8b/4000.m3u8
+#EXTINF:-1 group-title="武王墩楚墓探秘",02 鼎立南国 暮光余晖
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/beacda6b18a74dc0b4e46c34e44a6017/4000.m3u8
+#EXTINF:-1 group-title="武王墩楚墓探秘",03 髹漆成器 溢彩千年
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/ebb419d29c8e4013ada0d38f67314b7d/4000.m3u8
+#EXTINF:-1 group-title="武王墩楚墓探秘",04 钟鸣鼎食 铸世铭史
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/4a6bd0b6a7dc4391b9c6e03314e91f7b/4000.m3u8
+#EXTINF:-1 group-title="武王墩楚墓探秘",05 家国社稷 吉金自名
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/080197c288ca4fb79874afbd4c524e4c/4000.m3u8
+#EXTINF:-1 group-title="武王墩楚墓探秘",06 沧桑铜绿 斑驳华彩
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/26ee0735113a44d696c55e4aa7406937/4000.m3u8
+#EXTINF:-1 group-title="武王墩楚墓探秘",07 炊爨五谷 以食为天
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/eacc3e1be9684b1695d2b792a5fdb2cc/4000.m3u8
+#EXTINF:-1 group-title="武王墩楚墓探秘",08 采璞琢器 玉汝于成
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/87381950788545e7b2d3702c79e4cfd3/4000.m3u8
+#EXTINF:-1 group-title="武王墩楚墓探秘",09 黄金百镒 惟楚为先
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/4f1d851882f0455da15056c7ba257c13/4000.m3u8
+#EXTINF:-1 group-title="武王墩楚墓探秘",10 事生为俑 荣华若世
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/ec746f2646c346d195e611dcfc1c89e6/4000.m3u8
 
 被毁的墓葬,#genre#
 01,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/853fd827adf840468f572f2b7cf1e3c1/4000.m3u8
