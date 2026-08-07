@@ -1,13 +1,19 @@
 #EXTM3U 
 
-来龙去脉,#genre#
-01,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/c0e36b8129bf49b6ab9b52d76d8b8de4/4000.m3u8
-02,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/f738e19c794e4ed79e4d1668ae6f261b/4000.m3u8
-03,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/caeec93f53ec4a228ff2f4e62b7958b6/4000.m3u8
-04,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/422c5e1d01f2454c9c2fc15c7ff0081c/4000.m3u8
-05,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/765c5dbf9a314e39ab060f16219b6cfa/4000.m3u8
-06,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/cf92fcd56fca49a998b0ca54daa5f55a/4000.m3u8
-07,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/b5c98ac5efce407e8a4b6bef0566361d/4000.m3u8
+#EXTINF:-1 group-title="来龙去脉",01
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/c0e36b8129bf49b6ab9b52d76d8b8de4/4000.m3u8
+#EXTINF:-1 group-title="来龙去脉",02
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/f738e19c794e4ed79e4d1668ae6f261b/4000.m3u8
+#EXTINF:-1 group-title="来龙去脉",03
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/caeec93f53ec4a228ff2f4e62b7958b6/4000.m3u8
+#EXTINF:-1 group-title="来龙去脉",04
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/422c5e1d01f2454c9c2fc15c7ff0081c/4000.m3u8
+#EXTINF:-1 group-title="来龙去脉",05
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/765c5dbf9a314e39ab060f16219b6cfa/4000.m3u8
+#EXTINF:-1 group-title="来龙去脉",06
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/cf92fcd56fca49a998b0ca54daa5f55a/4000.m3u8
+#EXTINF:-1 group-title="来龙去脉",07
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/b5c98ac5efce407e8a4b6bef0566361d/4000.m3u8
 
 遇见最极致的中国,#genre#
 01极致冰原,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/74f9e4cd3b9b4b12b1606a507afcd15c/4000.m3u8
