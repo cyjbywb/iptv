@@ -344,113 +344,181 @@ https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/4f1d851882f0455da1505
 #EXTINF:-1 group-title="武王墩楚墓探秘",10 事生为俑 荣华若世
 https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/ec746f2646c346d195e611dcfc1c89e6/4000.m3u8
 
-被毁的墓葬,#genre#
-01,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/853fd827adf840468f572f2b7cf1e3c1/4000.m3u8
-02,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/420fbfa586a64f32850e2ed206acdca5/4000.m3u8
-03,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/b9b5e496d14444a2b5c5f467b014921c/4000.m3u8
-04,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/67c1f31e89be40b6bf69aa8f1da1d3bc/4000.m3u8
-05,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/3a54308158d34aacaa8cf91c44cc16cb/4000.m3u8
+#EXTINF:-1 group-title="被毁的墓葬",01
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/853fd827adf840468f572f2b7cf1e3c1/4000.m3u8
+#EXTINF:-1 group-title="被毁的墓葬",02
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/420fbfa586a64f32850e2ed206acdca5/4000.m3u8
+#EXTINF:-1 group-title="被毁的墓葬",03
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/b9b5e496d14444a2b5c5f467b014921c/4000.m3u8
+#EXTINF:-1 group-title="被毁的墓葬",04
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/67c1f31e89be40b6bf69aa8f1da1d3bc/4000.m3u8
+#EXTINF:-1 group-title="被毁的墓葬",05
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/3a54308158d34aacaa8cf91c44cc16cb/4000.m3u8
 
-李约瑟和中国古代科技,#genre#
-01到中国去,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/86e5407d837548a0964dee652f59ab77/4000.m3u8
-02先生之风,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/681b94936be843b1a7f8c7f25e549170/4000.m3u8
-03文明高地,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/17edfdbc484a4825adacd6786db226d1/4000.m3u8
-04神奇创造,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/eeb77d5f346f4d629f1a4c443e565c2e/4000.m3u8
-05书写中国,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/bc71ef8e4a3845a6a9a4fed3406ca242/4000.m3u8
-06人去留影,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/9a25d99fbcfd4b8ab459580ae32adc8f/4000.m3u8
+#EXTINF:-1 group-title="李约瑟和中国古代科技",01 到中国去
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/86e5407d837548a0964dee652f59ab77/4000.m3u8
+#EXTINF:-1 group-title="李约瑟和中国古代科技",02 先生之风
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/681b94936be843b1a7f8c7f25e549170/4000.m3u8
+#EXTINF:-1 group-title="李约瑟和中国古代科技",03 文明高地
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/17edfdbc484a4825adacd6786db226d1/4000.m3u8
+#EXTINF:-1 group-title="李约瑟和中国古代科技",04 神奇创造
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/eeb77d5f346f4d629f1a4c443e565c2e/4000.m3u8
+#EXTINF:-1 group-title="李约瑟和中国古代科技",05 书写中国
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/bc71ef8e4a3845a6a9a4fed3406ca242/4000.m3u8
+#EXTINF:-1 group-title="李约瑟和中国古代科技",06 人去留影
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/9a25d99fbcfd4b8ab459580ae32adc8f/4000.m3u8
 
-厨房里有哲学家,#genre#
-01罗朗,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/45b0a3cbcb174a2688eb0057ea9a6974/4000.m3u8
-02刘禾森,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/259cad7633d2463484745d76eb1060d5/4000.m3u8
-03陈建太郎,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/2165719506544bc7a5fbd1099b637e02/4000.m3u8
-04陈汉宗,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/24251f8188b843c495d472a985f803f0/4000.m3u8
+#EXTINF:-1 group-title="厨房里有哲学家",01 罗朗
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/45b0a3cbcb174a2688eb0057ea9a6974/4000.m3u8
+#EXTINF:-1 group-title="厨房里有哲学家",02 刘禾森
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/259cad7633d2463484745d76eb1060d5/4000.m3u8
+#EXTINF:-1 group-title="厨房里有哲学家",03 陈建太郎
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/2165719506544bc7a5fbd1099b637e02/4000.m3u8
+#EXTINF:-1 group-title="厨房里有哲学家",04 陈汉宗
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/24251f8188b843c495d472a985f803f0/4000.m3u8
 
-辣椒的征途,#genre#
-01红色征途的起点,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/a2daba5c6f0f4e5f93445d1f5d98b5c8/4000.m3u8
-02谁是辣中霸主,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/0da38edb9f13462f9998b0eab27536d3/4000.m3u8
-03北粉南酱 辣不一样,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/03511434cfe846238d0bbad2a255d195/4000.m3u8
-04吃辣的小概率事件,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/7569375dd35c4e95afdddc660766a176/4000.m3u8
-05在辣椒的田野上,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/e15b16bf0c1c4bf99754bb83a6eaa494/4000.m3u8
-06超级城市的逐辣之欢,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/8b60e9d5d77c45448aa2a9e07b603c24/4000.m3u8
+#EXTINF:-1 group-title="辣椒的征途",01 红色征途的起点
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/a2daba5c6f0f4e5f93445d1f5d98b5c8/4000.m3u8
+#EXTINF:-1 group-title="辣椒的征途",02 谁是辣中霸主
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/0da38edb9f13462f9998b0eab27536d3/4000.m3u8
+#EXTINF:-1 group-title="辣椒的征途",03 北粉南酱 辣不一样
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/03511434cfe846238d0bbad2a255d195/4000.m3u8
+#EXTINF:-1 group-title="辣椒的征途",04 吃辣的小概率事件
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/7569375dd35c4e95afdddc660766a176/4000.m3u8
+#EXTINF:-1 group-title="辣椒的征途",05 在辣椒的田野上
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/e15b16bf0c1c4bf99754bb83a6eaa494/4000.m3u8
+#EXTINF:-1 group-title="辣椒的征途",06 超级城市的逐辣之欢
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/8b60e9d5d77c45448aa2a9e07b603c24/4000.m3u8
 
-宝剑沧桑录,#genre#
-01剑出荆楚,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/c75540530719464691136955b111ccdc/4000.m3u8
-02勾践之谜,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/84e3390ebdc146fa9c7ff7a3ceff9c2a/4000.m3u8
-03往事春秋,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/01336ae2d864472cb0fe7434a66cc013/4000.m3u8
+#EXTINF:-1 group-title="宝剑沧桑录",01 剑出荆楚
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/c75540530719464691136955b111ccdc/4000.m3u8
+#EXTINF:-1 group-title="宝剑沧桑录",02 勾践之谜
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/84e3390ebdc146fa9c7ff7a3ceff9c2a/4000.m3u8
+#EXTINF:-1 group-title="宝剑沧桑录",03 往事春秋
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/01336ae2d864472cb0fe7434a66cc013/4000.m3u8
 
-遇鉴文明,#genre#
-01人间胜景 中国园林与西方园林,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/6fa79cdf60544ed888486c018c4c6e0d/4000.m3u8
-02匠心天工 中国家具与西方家具,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/9b8f43776b824bf5b2e4cab35be7d33a/4000.m3u8
-03写意绘真 国画与油画,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/2413b566f60443c6af5fa1c49a58eec4/4000.m3u8
-04华彩服章 中国服饰与西方服饰,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/eee96c6dd6dd4a41b421f26ef2175b89/4000.m3u8
-05佳肴美馔 中餐与西餐,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/6777791fda9f40ebbb966d0b660fe731/4000.m3u8
-06香沁醇萃 茶与咖啡,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/724a4f118aa24112ad96ba14a8e2fa2d/4000.m3u8
-07瑰宝荟萃 故宫与卢浮宫,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/6059be5f26cd4679a8cdd738796bd7a7/4000.m3u8
-08沉思翰藻 中国诗歌与西方诗歌,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/2fb8cfae07f14dc1820b4ce7df8ec832/4000.m3u8
+#EXTINF:-1 group-title="遇鉴文明",01 人间胜景 中国园林与西方园林
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/6fa79cdf60544ed888486c018c4c6e0d/4000.m3u8
+#EXTINF:-1 group-title="遇鉴文明",02 匠心天工 中国家具与西方家具
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/9b8f43776b824bf5b2e4cab35be7d33a/4000.m3u8
+#EXTINF:-1 group-title="遇鉴文明",03 写意绘真 国画与油画
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/2413b566f60443c6af5fa1c49a58eec4/4000.m3u8
+#EXTINF:-1 group-title="遇鉴文明",04 华彩服章 中国服饰与西方服饰
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/eee96c6dd6dd4a41b421f26ef2175b89/4000.m3u8
+#EXTINF:-1 group-title="遇鉴文明",05 佳肴美馔 中餐与西餐
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/6777791fda9f40ebbb966d0b660fe731/4000.m3u8
+#EXTINF:-1 group-title="遇鉴文明",06 香沁醇萃 茶与咖啡
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/724a4f118aa24112ad96ba14a8e2fa2d/4000.m3u8
+#EXTINF:-1 group-title="遇鉴文明",07 瑰宝荟萃 故宫与卢浮宫
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/6059be5f26cd4679a8cdd738796bd7a7/4000.m3u8
+#EXTINF:-1 group-title="遇鉴文明",08 沉思翰藻 中国诗歌与西方诗歌
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/2fb8cfae07f14dc1820b4ce7df8ec832/4000.m3u8
 
-沙海之上：敦煌和威尼斯,#genre#
-01拼图,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/28a74d51a88e4e51aaac9b7e571e91c0/4000.m3u8
-02地平线,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/b747c1eb998343379bc648134b14590a/4000.m3u8
-03遗产,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/a61591af434b4dad96bc6e4cb7c7e20f/4000.m3u8
-04面孔,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/26c76c824a204ea998165863b0a904ab/4000.m3u8
+#EXTINF:-1 group-title="沙海之上：敦煌和威尼斯",01 拼图
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/28a74d51a88e4e51aaac9b7e571e91c0/4000.m3u8
+#EXTINF:-1 group-title="沙海之上：敦煌和威尼斯",02 地平线
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/b747c1eb998343379bc648134b14590a/4000.m3u8
+#EXTINF:-1 group-title="沙海之上：敦煌和威尼斯",03 遗产
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/a61591af434b4dad96bc6e4cb7c7e20f/4000.m3u8
+#EXTINF:-1 group-title="沙海之上：敦煌和威尼斯",04 面孔
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/26c76c824a204ea998165863b0a904ab/4000.m3u8
 
-大敦煌,#genre#
-01何以敦煌,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/ce69cda8fdbe44148bb98faa19579b6b/4000.m3u8
-02敦煌密码,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/f1b22037694b466f8c8b728c7998b1e6/4000.m3u8
-03文明舞台,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/3d4d3b6f61c44dc4bb44b8586285f52b/4000.m3u8
-04再造敦煌,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/4f9ee59e1dae4e6a8c1de6843715ed6b/4000.m3u8
+#EXTINF:-1 group-title="大敦煌",01 何以敦煌
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/ce69cda8fdbe44148bb98faa19579b6b/4000.m3u8
+#EXTINF:-1 group-title="大敦煌",02 敦煌密码
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/f1b22037694b466f8c8b728c7998b1e6/4000.m3u8
+#EXTINF:-1 group-title="大敦煌",03 文明舞台
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/3d4d3b6f61c44dc4bb44b8586285f52b/4000.m3u8
+#EXTINF:-1 group-title="大敦煌",04 再造敦煌
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/4f9ee59e1dae4e6a8c1de6843715ed6b/4000.m3u8
 
-鲜生史 第1季,#genre#
-01鲁迅 先生的朝花之味,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/7cfcdec8ef0c4b8a86abe79fe4263877/4000.m3u8
-02鲁迅 未雨绸缪的餐桌哲学,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/5a0a7a996771449a92ee11f58fbd289a/4000.m3u8
-03鲁迅 爱吃甜食的斗士,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/847f9b115443427fb9bd61cfb74de2ab/4000.m3u8
-04鲁迅 敢吃螃蟹的勇士,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/b684da7dc26849b8bff7de44f945c938/4000.m3u8
-05苏轼 系恋一生的家乡味,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/b8ab17ad83d54d86ab06d3e14959456c/4000.m3u8
-06苏轼 开启食材的新世界,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/de10f0491c264cb9b3028092bd49a85e/4000.m3u8
-07苏轼 永不孤独的美食家,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/63bb2528e8304b58bd8b3de6be237e79/4000.m3u8
-08曹雪芹 童年百般好 犹忆鸭肉香,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/cb08cb7a75d340bd83c066d3fd2c691d/4000.m3u8
-09曹雪芹 唯美食与朋友不可辜负,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/072afeb7fcab431284d5ac1fb4ac520e/4000.m3u8
-10曹雪芹 美食诚可贵 理想价更...,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/414b833517864232b3f8b671e0f5cb36/4000.m3u8
-11白居易 心安即是归处,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/212caabd3fa84e54a1b42cd1f7afd09c/4000.m3u8
-12白居易 忆江南 最忆苏州美食...,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/76f5e4a4cd1f496c8d8d267a565b2850/4000.m3u8
+#EXTINF:-1 group-title="鲜生史 第1季",01 鲁迅 先生的朝花之味
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/7cfcdec8ef0c4b8a86abe79fe4263877/4000.m3u8
+#EXTINF:-1 group-title="鲜生史 第1季",02 鲁迅 未雨绸缪的餐桌哲学
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/5a0a7a996771449a92ee11f58fbd289a/4000.m3u8
+#EXTINF:-1 group-title="鲜生史 第1季",03 鲁迅 爱吃甜食的斗士
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/847f9b115443427fb9bd61cfb74de2ab/4000.m3u8
+#EXTINF:-1 group-title="鲜生史 第1季",04 鲁迅 敢吃螃蟹的勇士
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/b684da7dc26849b8bff7de44f945c938/4000.m3u8
+#EXTINF:-1 group-title="鲜生史 第1季",05 苏轼 系恋一生的家乡味
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/b8ab17ad83d54d86ab06d3e14959456c/4000.m3u8
+#EXTINF:-1 group-title="鲜生史 第1季",06 苏轼 开启食材的新世界
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/de10f0491c264cb9b3028092bd49a85e/4000.m3u8
+#EXTINF:-1 group-title="鲜生史 第1季",07 苏轼 永不孤独的美食家
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/63bb2528e8304b58bd8b3de6be237e79/4000.m3u8
+#EXTINF:-1 group-title="鲜生史 第1季",08 曹雪芹 童年百般好 犹忆鸭肉香
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/cb08cb7a75d340bd83c066d3fd2c691d/4000.m3u8
+#EXTINF:-1 group-title="鲜生史 第1季",09 曹雪芹 唯美食与朋友不可辜负
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/072afeb7fcab431284d5ac1fb4ac520e/4000.m3u8
+#EXTINF:-1 group-title="鲜生史 第1季",10 曹雪芹 美食诚可贵 理想价更...
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/414b833517864232b3f8b671e0f5cb36/4000.m3u8
+#EXTINF:-1 group-title="鲜生史 第1季",11 白居易 心安即是归处
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/212caabd3fa84e54a1b42cd1f7afd09c/4000.m3u8
+#EXTINF:-1 group-title="鲜生史 第1季",12 白居易 忆江南 最忆苏州美食...
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/76f5e4a4cd1f496c8d8d267a565b2850/4000.m3u8
 
-鲜生史 第2季,#genre#
-01汪曾祺 逆境中的微光,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/5158fe944a1445e1ac09824a03d0e107/4000.m3u8
-02汪曾祺 家宴的大智慧,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/ca2f2946f1654460b4fa55206a74882b/4000.m3u8
-03袁枚 先生的随园不随便,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/5bd81589c5af4bf99bd77e1b5989cb27/4000.m3u8
-04袁枚 我若心不老 岁月奈我何,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/0a54d06486714a3fb3e5f15d5c6bee25/4000.m3u8
-05李渔 是美食 是人生啊,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/d56283195d974bed8573430e838199dc/4000.m3u8
-06李渔 芥子纳须弥 闲情阔天地,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/12519454f41b4d50aecfd51b6e53436a/4000.m3u8
-07陆游 卷王美食诗人的养成之路,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/dbfd7e9b3b6a4bf38fd687db36a58ace/4000.m3u8
-08陆游 田园老农的家国梦,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/7d33903fd7e84c72b033c773ee591431/4000.m3u8
+#EXTINF:-1 group-title="鲜生史 第2季",01 汪曾祺 逆境中的微光
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/5158fe944a1445e1ac09824a03d0e107/4000.m3u8
+#EXTINF:-1 group-title="鲜生史 第2季",02 汪曾祺 家宴的大智慧
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/ca2f2946f1654460b4fa55206a74882b/4000.m3u8
+#EXTINF:-1 group-title="鲜生史 第2季",03 袁枚 先生的随园不随便
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/5bd81589c5af4bf99bd77e1b5989cb27/4000.m3u8
+#EXTINF:-1 group-title="鲜生史 第2季",04 袁枚 我若心不老 岁月奈我何
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/0a54d06486714a3fb3e5f15d5c6bee25/4000.m3u8
+#EXTINF:-1 group-title="鲜生史 第2季",05 李渔 是美食 是人生啊
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/d56283195d974bed8573430e838199dc/4000.m3u8
+#EXTINF:-1 group-title="鲜生史 第2季",06 李渔 芥子纳须弥 闲情阔天地
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/12519454f41b4d50aecfd51b6e53436a/4000.m3u8
+#EXTINF:-1 group-title="鲜生史 第2季",07 陆游 卷王美食诗人的养成之路
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/dbfd7e9b3b6a4bf38fd687db36a58ace/4000.m3u8
+#EXTINF:-1 group-title="鲜生史 第2季",08 陆游 田园老农的家国梦
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/7d33903fd7e84c72b033c773ee591431/4000.m3u8
 
-东方新科幻,#genre#
-01去远方,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/42f0217c797e439ba9e9ed013a1fec21/4000.m3u8
-02未雨绸缪,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/875aad207cb84e6fb87552809801e342/4000.m3u8
-03未来人类,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/e4dddc7d1841490cbd690f0a4a0377f5/4000.m3u8
-04家园遥望,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/11b65ff183334a7da90c8f0ec2e104fb/4000.m3u8
+#EXTINF:-1 group-title="东方新科幻",01 去远方https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/42f0217c797e439ba9e9ed013a1fec21/4000.m3u8
+#EXTINF:-1 group-title="东方新科幻",02 未雨绸缪
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/875aad207cb84e6fb87552809801e342/4000.m3u8
+#EXTINF:-1 group-title="东方新科幻",03 未来人类
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/e4dddc7d1841490cbd690f0a4a0377f5/4000.m3u8
+#EXTINF:-1 group-title="东方新科幻",04 家园遥望
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/11b65ff183334a7da90c8f0ec2e104fb/4000.m3u8
 
-香港之味,#genre#
-01,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/b0035c8198fd42d391d8acdc801f6014/4000.m3u8
-02,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/1cc853b4c1a94e259904d6ff444b1a90/4000.m3u8
-03,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/b499f19559e74b979eeeee5b36f1a5cf/4000.m3u8
-04,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/343ab607b9a84343a9ec1ead9f382413/4000.m3u8
-05,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/32c2a51684c04667b15e175e8791eca2/4000.m3u8
-06,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/6fefe4bd45cb409c8a8b20e51b4c57eb/4000.m3u8
-07,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/614c3d96023f44e08f67a0675dfd21ea/4000.m3u8
-08,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/22b3ff14b58a4b72846c35f0ea4c542e/4000.m3u8
-09,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/5af319f193e24ff6a35d7e4b2ca293d7/4000.m3u8
-10,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/336a5604d1434ebdb56ff6cc60007ba9/4000.m3u8
+#EXTINF:-1 group-title="香港之味",01
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/b0035c8198fd42d391d8acdc801f6014/4000.m3u8
+#EXTINF:-1 group-title="香港之味",02
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/1cc853b4c1a94e259904d6ff444b1a90/4000.m3u8
+#EXTINF:-1 group-title="香港之味",03
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/b499f19559e74b979eeeee5b36f1a5cf/4000.m3u8
+#EXTINF:-1 group-title="香港之味",04
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/343ab607b9a84343a9ec1ead9f382413/4000.m3u8
+#EXTINF:-1 group-title="香港之味",05
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/32c2a51684c04667b15e175e8791eca2/4000.m3u8
+#EXTINF:-1 group-title="香港之味",06
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/6fefe4bd45cb409c8a8b20e51b4c57eb/4000.m3u8
+#EXTINF:-1 group-title="香港之味",07
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/614c3d96023f44e08f67a0675dfd21ea/4000.m3u8
+#EXTINF:-1 group-title="香港之味",08
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/22b3ff14b58a4b72846c35f0ea4c542e/4000.m3u8
+#EXTINF:-1 group-title="香港之味",09
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/5af319f193e24ff6a35d7e4b2ca293d7/4000.m3u8
+#EXTINF:-1 group-title="香港之味",10
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/336a5604d1434ebdb56ff6cc60007ba9/4000.m3u8
 
-其他,#genre#
-笔写天地墨铸魂,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/3b6449ac99004371af663eb3efef48aa/4000.m3u8
-五龙宫兴衰之谜,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/c5abb49b8ce543af847f5ff2d1f5b1cc/4000.m3u8
-不期而遇——考古中的意外发现（上）,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/145253f3e66847488d2e1d414a8548b4/4000.m3u8
-不期而遇——考古中的意外发现（下）,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/03fbc259538d46c3ae8f9bc7aa537a6b/4000.m3u8
-水下寻古记（上）,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/bd2264ed925b4081907266275fd95df2/4000.m3u8
-水下寻古记（下）,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/4b1b939909554cbf962d7e6e221d7bf0/4000.m3u8
-考古发现的古代灾害（上）,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/667c27139aa84c51a6f3c28be9439ebb/4000.m3u8
-考古发现的古代灾害（下）,https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/3bda1ddc20764246a2dd00c97d6355c9/4000.m3u8
+#EXTINF:-1 group-title="CCTV4K其他",笔写天地墨铸魂
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/3b6449ac99004371af663eb3efef48aa/4000.m3u8
+#EXTINF:-1 group-title="CCTV4K其他",五龙宫兴衰之谜
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/c5abb49b8ce543af847f5ff2d1f5b1cc/4000.m3u8
+#EXTINF:-1 group-title="CCTV4K其他",不期而遇——考古中的意外发现（上）
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/145253f3e66847488d2e1d414a8548b4/4000.m3u8
+#EXTINF:-1 group-title="CCTV4K其他",不期而遇——考古中的意外发现（下）
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/03fbc259538d46c3ae8f9bc7aa537a6b/4000.m3u8
+#EXTINF:-1 group-title="CCTV4K其他",水下寻古记（上）
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/bd2264ed925b4081907266275fd95df2/4000.m3u8
+#EXTINF:-1 group-title="CCTV4K其他",水下寻古记（下）
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/4b1b939909554cbf962d7e6e221d7bf0/4000.m3u8
+#EXTINF:-1 group-title="CCTV4K其他",考古发现的古代灾害（上）
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/667c27139aa84c51a6f3c28be9439ebb/4000.m3u8
+#EXTINF:-1 group-title="CCTV4K其他",考古发现的古代灾害（下）
+https://hls.cntv.lxdns.com/asp/hls/4000/0303000a/3/default/3bda1ddc20764246a2dd00c97d6355c9/4000.m3u8
 
 #EXTINF:-1 group-title="CCTV",CCTV1
 http://113.119.24.90:58888/udp/239.77.1.144:5146
