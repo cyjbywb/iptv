@@ -660,7 +660,38 @@ https://goldenboy.duckhunting.playout.vju.tv/DuckhuntingTV_GoldenBoy/main.m3u8
 #EXTINF:-1 tvg-id="TheBoatShow.us" tvg-logo="https://i.imgur.com/qlhS2zw.png" group-title="Outdoor",The Boat Show (720p)
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/14c063cc-8be5-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
 
+#EXTINF:-1 group-title="Sports",Five Stars Sports
+http://www.rogerxlj.top:9998/rtp/233.18.204.58:5140
 
+#EXTINF:-1 group-title="Sports",Five Stars Sports
+http://cloud.sunrisecom.wang:8888/rtp/233.18.204.58:5140
+
+#EXTINF:-1 group-title="Sports",Five Stars Sports
+http://cloud.sunrisecom.cn:8888/rtp/233.18.204.58:5140
+
+#EXTINF:-1 group-title="Sports",广东体育
+http://line1.huase.ltd:8888/rtp/239.77.0.112:5146
+
+#EXTINF:-1 group-title="Sports",广东体育
+http://line1.huase.ltd:8888/rtp/239.77.0.168:5146
+
+#EXTINF:-1 group-title="Sports",广东体育
+http://hyde-ipv6.dynv6.net:8100/rtp/239.77.0.112:5146
+
+#EXTINF:-1 group-title="Sports",广东体育
+http://hyde-ipv6.dynv6.net:8100/rtp/239.77.0.168:5146
+
+#EXTINF:-1 group-title="Sports",广东体育
+http://hydeqnapnas.mycloudnas.com:8100/rtp/239.77.0.112:5146
+
+#EXTINF:-1 group-title="Sports",广东体育 
+http://hydeqnapnas.mycloudnas.com:8100/rtp/239.77.0.168:5146
+
+#EXTINF:-1 group-title="Sports",广东体育
+http://xxika.synology.me:8188/rtp/239.77.0.112:5146
+
+#EXTINF:-1 group-title="Sports",广东体育 
+http://xxika.synology.me:8188/rtp/239.77.0.168:5146
 
 #EXTINF:-1 tvg-name="美·红牛运动" group-title="Sports",RedBull(540P)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
