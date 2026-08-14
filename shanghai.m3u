@@ -1,63 +1,8 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://www.rogerxlj.top:9998/rtp/233.18.204.168:5140
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://www.rogerxlj.top:9998/rtp/233.18.204.52:5140
-#EXTINF:-1 group-title="央视频道",CCTV2
-http://www.rogerxlj.top:9998/rtp/233.18.204.68:5140
-#EXTINF:-1 group-title="央视频道",CCTTV3
-http://www.rogerxlj.top:9998/rtp/233.18.204.69:5140
-#EXTINF:-1 group-title="央视频道",CCTV4
-http://www.rogerxlj.top:9998/rtp/233.18.204.70:5140
-#EXTINF:-1 group-title="央视频道",CCTV5
-http://www.rogerxlj.top:9998/rtp/233.18.204.71:5140
-#EXTINF:-1 group-title="央视频道",CCTV5+
-http://www.rogerxlj.top:9998/rtp/233.18.204.67:5140
-#EXTINF:-1 group-title="央视频道",CCTV6
-http://www.rogerxlj.top:9998/rtp/233.18.204.72:5140
-#EXTINF:-1 group-title="央视频道",CCTV7
-http://www.rogerxlj.top:9998/rtp/233.18.204.73:5140
-#EXTINF:-1 group-title="央视频道",CCTV8
-http://www.rogerxlj.top:9998/rtp/233.18.204.74:5140
-#EXTINF:-1 group-title="央视频道",CCTV9
-http://www.rogerxlj.top:9998/rtp/233.18.204.75:5140
-#EXTINF:-1 group-title="央视频道",CCTV10
-http://www.rogerxlj.top:9998/rtp/233.18.204.76:5140
-#EXTINF:-1 group-title="央视频道",CCTV11
-http://www.rogerxlj.top:9998/rtp/233.18.204.77:5140
-#EXTINF:-1 group-title="央视频道",CCTV12
-http://www.rogerxlj.top:9998/rtp/233.18.204.78:5140
-#EXTINF:-1 group-title="央视频道",CCTV13
-http://www.rogerxlj.top:9998/rtp/233.18.204.79:5140
-#EXTINF:-1 group-title="央视频道",CCTV14
-http://www.rogerxlj.top:9998/rtp/233.18.204.80:5140
-#EXTINF:-1 group-title="央视频道",CCTV15
-http://www.rogerxlj.top:9998/rtp/233.18.204.81:5140
-#EXTINF:-1 group-title="央视频道",CCTV16
-http://www.rogerxlj.top:9998/rtp/233.18.204.82:5140
-#EXTINF:-1 group-title="央视频道",CCTV17
-http://www.rogerxlj.top:9998/rtp/233.18.204.83:5140
-#EXTINF:-1 group-title="央视频道",CETV1
-http://www.rogerxlj.top:9998/rtp/233.18.204.98:5140
-#EXTINF:-1 group-title="央视频道",CETV4
-http://www.rogerxlj.top:9998/rtp/233.18.204.111:5140
-#EXTINF:-1 group-title="上海频道",东方卫视
+
+#EXTINF:-1 group-title="卫视频道",东方卫视
 http://www.rogerxlj.top:9998/rtp/233.18.204.51:5140
-#EXTINF:-1 group-title="上海频道",东方都市
-http://www.rogerxlj.top:9998/rtp/233.18.204.53:5140
-#EXTINF:-1 group-title="上海频道",东方影视
-http://www.rogerxlj.top:9998/rtp/233.18.204.55:5140
-#EXTINF:-1 group-title="上海频道",东方财经
-http://www.rogerxlj.top:9998/rtp/233.18.204.65:5140
-#EXTINF:-1 group-title="上海频道",新闻综合
-http://www.rogerxlj.top:9998/rtp/233.18.204.57:5140
-#EXTINF:-1 group-title="上海频道",都市剧场
-http://www.rogerxlj.top:9998/rtp/233.18.204.48:5140
-#EXTINF:-1 group-title="上海频道",法治天地
-http://www.rogerxlj.top:9998/rtp/233.18.204.49:5140
-#EXTINF:-1 group-title="上海频道",生活时尚
-http://www.rogerxlj.top:9998/rtp/233.18.204.45:5140
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://www.rogerxlj.top:9998/rtp/233.18.204.84:5140
 #EXTINF:-1 group-title="卫视频道",江苏卫视
@@ -115,13 +60,27 @@ http://www.rogerxlj.top:9998/rtp/233.18.204.110:5140
 #EXTINF:-1 group-title="卫视频道",青海卫视
 http://www.rogerxlj.top:9998/rtp/233.18.204.112:5140
 
+#EXTINF:-1 group-title="上海频道",东方都市
+http://www.rogerxlj.top:9998/rtp/233.18.204.53:5140
+#EXTINF:-1 group-title="上海频道",东方影视
+http://www.rogerxlj.top:9998/rtp/233.18.204.55:5140
+#EXTINF:-1 group-title="上海频道",东方财经
+http://www.rogerxlj.top:9998/rtp/233.18.204.65:5140
+#EXTINF:-1 group-title="上海频道",新闻综合
+http://www.rogerxlj.top:9998/rtp/233.18.204.57:5140
+#EXTINF:-1 group-title="上海频道",都市剧场
+http://www.rogerxlj.top:9998/rtp/233.18.204.48:5140
+#EXTINF:-1 group-title="上海频道",法治天地
+http://www.rogerxlj.top:9998/rtp/233.18.204.49:5140
+#EXTINF:-1 group-title="上海频道",生活时尚
+http://www.rogerxlj.top:9998/rtp/233.18.204.45:5140
+
 #EXTINF:-1 group-title="生活频道",Five Stars Sports
 http://www.rogerxlj.top:9998/rtp/233.18.204.58:5140
 #EXTINF:-1 group-title="生活频道",Five Stars Sports
 http://cloud.sunrisecom.wang:8888/rtp/233.18.204.58:5140
 #EXTINF:-1 group-title="生活频道",Five Stars Sports
 http://cloud.sunrisecom.cn:8888/rtp/233.18.204.58:5140
-
 #EXTINF:-1 group-title="生活频道",金鹰卡通
 http://www.rogerxlj.top:9998/rtp/233.18.204.113:5140
 #EXTINF:-1 group-title="生活频道",哈哈炫动
@@ -144,6 +103,51 @@ http://www.rogerxlj.top:9998/rtp/233.18.204.47:5140
 http://www.rogerxlj.top:9998/rtp/233.18.204.50:5140
 #EXTINF:-1 group-title="生活频道",欢笑剧场4K
 http://www.rogerxlj.top:9998/rtp/233.18.204.115:5140
+
+
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://www.rogerxlj.top:9998/rtp/233.18.204.168:5140
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://www.rogerxlj.top:9998/rtp/233.18.204.52:5140
+#EXTINF:-1 group-title="央视频道",CCTV2
+http://www.rogerxlj.top:9998/rtp/233.18.204.68:5140
+#EXTINF:-1 group-title="央视频道",CCTTV3
+http://www.rogerxlj.top:9998/rtp/233.18.204.69:5140
+#EXTINF:-1 group-title="央视频道",CCTV4
+http://www.rogerxlj.top:9998/rtp/233.18.204.70:5140
+#EXTINF:-1 group-title="央视频道",CCTV5
+http://www.rogerxlj.top:9998/rtp/233.18.204.71:5140
+#EXTINF:-1 group-title="央视频道",CCTV5+
+http://www.rogerxlj.top:9998/rtp/233.18.204.67:5140
+#EXTINF:-1 group-title="央视频道",CCTV6
+http://www.rogerxlj.top:9998/rtp/233.18.204.72:5140
+#EXTINF:-1 group-title="央视频道",CCTV7
+http://www.rogerxlj.top:9998/rtp/233.18.204.73:5140
+#EXTINF:-1 group-title="央视频道",CCTV8
+http://www.rogerxlj.top:9998/rtp/233.18.204.74:5140
+#EXTINF:-1 group-title="央视频道",CCTV9
+http://www.rogerxlj.top:9998/rtp/233.18.204.75:5140
+#EXTINF:-1 group-title="央视频道",CCTV10
+http://www.rogerxlj.top:9998/rtp/233.18.204.76:5140
+#EXTINF:-1 group-title="央视频道",CCTV11
+http://www.rogerxlj.top:9998/rtp/233.18.204.77:5140
+#EXTINF:-1 group-title="央视频道",CCTV12
+http://www.rogerxlj.top:9998/rtp/233.18.204.78:5140
+#EXTINF:-1 group-title="央视频道",CCTV13
+http://www.rogerxlj.top:9998/rtp/233.18.204.79:5140
+#EXTINF:-1 group-title="央视频道",CCTV14
+http://www.rogerxlj.top:9998/rtp/233.18.204.80:5140
+#EXTINF:-1 group-title="央视频道",CCTV15
+http://www.rogerxlj.top:9998/rtp/233.18.204.81:5140
+#EXTINF:-1 group-title="央视频道",CCTV16
+http://www.rogerxlj.top:9998/rtp/233.18.204.82:5140
+#EXTINF:-1 group-title="央视频道",CCTV17
+http://www.rogerxlj.top:9998/rtp/233.18.204.83:5140
+#EXTINF:-1 group-title="央视频道",CETV1
+http://www.rogerxlj.top:9998/rtp/233.18.204.98:5140
+#EXTINF:-1 group-title="央视频道",CETV4
+http://www.rogerxlj.top:9998/rtp/233.18.204.111:5140
+
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://cloud.sunrisecom.cn:8888/rtp/233.18.204.168:5140
 #EXTINF:-1 group-title="央视频道",CCTV1
@@ -186,22 +190,9 @@ http://cloud.sunrisecom.cn:8888/rtp/233.18.204.83:5140
 http://cloud.sunrisecom.cn:8888/rtp/233.18.204.98:5140
 #EXTINF:-1 group-title="央视频道",CETV4
 http://cloud.sunrisecom.cn:8888/rtp/233.18.204.111:5140
-#EXTINF:-1 group-title="上海频道",东方卫视
+
+#EXTINF:-1 group-title="卫视频道",东方卫视
 http://cloud.sunrisecom.cn:8888/rtp/233.18.204.51:5140
-#EXTINF:-1 group-title="上海频道",东方都市
-http://cloud.sunrisecom.cn:8888/rtp/233.18.204.53:5140
-#EXTINF:-1 group-title="上海频道",东方影视
-http://cloud.sunrisecom.cn:8888/rtp/233.18.204.55:5140
-#EXTINF:-1 group-title="上海频道",东方财经
-http://cloud.sunrisecom.cn:8888/rtp/233.18.204.65:5140
-#EXTINF:-1 group-title="上海频道",新闻综合
-http://cloud.sunrisecom.cn:8888/rtp/233.18.204.57:5140
-#EXTINF:-1 group-title="上海频道",都市剧场
-http://cloud.sunrisecom.cn:8888/rtp/233.18.204.48:5140
-#EXTINF:-1 group-title="上海频道",法治天地
-http://cloud.sunrisecom.cn:8888/rtp/233.18.204.49:5140
-#EXTINF:-1 group-title="上海频道",生活时尚
-http://cloud.sunrisecom.cn:8888/rtp/233.18.204.45:5140
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://cloud.sunrisecom.cn:8888/rtp/233.18.204.84:5140
 #EXTINF:-1 group-title="卫视频道",江苏卫视
@@ -262,6 +253,21 @@ http://cloud.sunrisecom.cn:8888/rtp/233.18.204.112:5140
 http://cloud.sunrisecom.cn:8888/rtp/233.18.204.113:5140
 #EXTINF:-1 group-title="生活频道",哈哈炫动
 http://cloud.sunrisecom.cn:8888/rtp/233.18.204.54:5140
+
+#EXTINF:-1 group-title="上海频道",东方都市
+http://cloud.sunrisecom.cn:8888/rtp/233.18.204.53:5140
+#EXTINF:-1 group-title="上海频道",东方影视
+http://cloud.sunrisecom.cn:8888/rtp/233.18.204.55:5140
+#EXTINF:-1 group-title="上海频道",东方财经
+http://cloud.sunrisecom.cn:8888/rtp/233.18.204.65:5140
+#EXTINF:-1 group-title="上海频道",新闻综合
+http://cloud.sunrisecom.cn:8888/rtp/233.18.204.57:5140
+#EXTINF:-1 group-title="上海频道",都市剧场
+http://cloud.sunrisecom.cn:8888/rtp/233.18.204.48:5140
+#EXTINF:-1 group-title="上海频道",法治天地
+http://cloud.sunrisecom.cn:8888/rtp/233.18.204.49:5140
+#EXTINF:-1 group-title="上海频道",生活时尚
+http://cloud.sunrisecom.cn:8888/rtp/233.18.204.45:5140
 
 #EXTINF:-1 group-title="生活频道",长助理
 http://cloud.sunrisecom.cn:8888/rtp/233.18.204.59:5140
@@ -324,22 +330,9 @@ http://cloud.sunrisecom.wang:8888/rtp/233.18.204.83:5140
 http://cloud.sunrisecom.wang:8888/rtp/233.18.204.98:5140
 #EXTINF:-1 group-title="央视频道",CETV4
 http://cloud.sunrisecom.wang:8888/rtp/233.18.204.111:5140
-#EXTINF:-1 group-title="上海频道",东方卫视
+
+#EXTINF:-1 group-title="卫视频道",东方卫视
 http://cloud.sunrisecom.wang:8888/rtp/233.18.204.51:5140
-#EXTINF:-1 group-title="上海频道",东方都市
-http://cloud.sunrisecom.wang:8888/rtp/233.18.204.53:5140
-#EXTINF:-1 group-title="上海频道",东方影视
-http://cloud.sunrisecom.wang:8888/rtp/233.18.204.55:5140
-#EXTINF:-1 group-title="上海频道",东方财经
-http://cloud.sunrisecom.wang:8888/rtp/233.18.204.65:5140
-#EXTINF:-1 group-title="上海频道",新闻综合
-http://cloud.sunrisecom.wang:8888/rtp/233.18.204.57:5140
-#EXTINF:-1 group-title="上海频道",都市剧场
-http://cloud.sunrisecom.wang:8888/rtp/233.18.204.48:5140
-#EXTINF:-1 group-title="上海频道",法治天地
-http://cloud.sunrisecom.wang:8888/rtp/233.18.204.49:5140
-#EXTINF:-1 group-title="上海频道",生活时尚
-http://cloud.sunrisecom.wang:8888/rtp/233.18.204.45:5140
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://cloud.sunrisecom.wang:8888/rtp/233.18.204.84:5140
 #EXTINF:-1 group-title="卫视频道",江苏卫视
@@ -400,6 +393,21 @@ http://cloud.sunrisecom.wang:8888/rtp/233.18.204.112:5140
 http://cloud.sunrisecom.wang:8888/rtp/233.18.204.113:5140
 #EXTINF:-1 group-title="生活频道",哈哈炫动
 http://cloud.sunrisecom.wang:8888/rtp/233.18.204.54:5140
+
+#EXTINF:-1 group-title="上海频道",东方都市
+http://cloud.sunrisecom.wang:8888/rtp/233.18.204.53:5140
+#EXTINF:-1 group-title="上海频道",东方影视
+http://cloud.sunrisecom.wang:8888/rtp/233.18.204.55:5140
+#EXTINF:-1 group-title="上海频道",东方财经
+http://cloud.sunrisecom.wang:8888/rtp/233.18.204.65:5140
+#EXTINF:-1 group-title="上海频道",新闻综合
+http://cloud.sunrisecom.wang:8888/rtp/233.18.204.57:5140
+#EXTINF:-1 group-title="上海频道",都市剧场
+http://cloud.sunrisecom.wang:8888/rtp/233.18.204.48:5140
+#EXTINF:-1 group-title="上海频道",法治天地
+http://cloud.sunrisecom.wang:8888/rtp/233.18.204.49:5140
+#EXTINF:-1 group-title="上海频道",生活时尚
+http://cloud.sunrisecom.wang:8888/rtp/233.18.204.45:5140
 
 #EXTINF:-1 group-title="生活频道",长助理
 http://cloud.sunrisecom.wang:8888/rtp/233.18.204.59:5140
