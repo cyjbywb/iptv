@@ -26,6 +26,12 @@ http://zjhuct.synology.me:8888/rtp/233.50.202.109:5140
 http://zjhuct.synology.me:8888/rtp/233.50.200.52:5140
 
 #EXTINF:-1 group-title="卫视频道",凤凰中文
+http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
+#EXTINF:-1 group-title="卫视频道",凤凰资讯
+http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
+#EXTINF:-1 group-title="卫视频道",凤凰香港
+http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
+#EXTINF:-1 group-title="卫视频道",凤凰中文
 http://zjhuct.synology.me:8888/rtp/233.50.200.191:5140
 #EXTINF:-1 group-title="卫视频道",凤凰中文
 http://zjhuct.synology.me:8888/rtp/233.50.202.35:5140
