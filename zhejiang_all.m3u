@@ -1,42 +1,7 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 
 
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://zjhuct.synology.me:8888/rtp/233.50.201.118:5140
-#EXTINF:-1 group-title="央视频道",CCTV2
-http://zjhuct.synology.me:8888/rtp/233.50.201.119:5140
-#EXTINF:-1 group-title="央视频道",CCTV3
-http://zjhuct.synology.me:8888/rtp/233.50.201.196:5140
-#EXTINF:-1 group-title="央视频道",CCTV4
-http://zjhuct.synology.me:8888/rtp/233.50.200.101:5140
-#EXTINF:-1 group-title="央视频道",CCTV5
-http://zjhuct.synology.me:8888/rtp/233.50.201.197:5140
-#EXTINF:-1 group-title="央视频道",CCTV5+
-http://zjhuct.synology.me:8888/rtp/233.50.201.220:5140
-#EXTINF:-1 group-title="央视频道",CCTV6
-http://zjhuct.synology.me:8888/rtp/233.50.201.198:5140
-#EXTINF:-1 group-title="央视频道",CCTV7
-http://zjhuct.synology.me:8888/rtp/233.50.201.120:5140
-#EXTINF:-1 group-title="央视频道",CCTV8
-http://zjhuct.synology.me:8888/rtp/233.50.201.199:5140
-#EXTINF:-1 group-title="央视频道",CCTV9
-http://zjhuct.synology.me:8888/rtp/233.50.201.121:5140
-#EXTINF:-1 group-title="央视频道",CCTV10
-http://zjhuct.synology.me:8888/rtp/233.50.201.122:5140
-#EXTINF:-1 group-title="央视频道",CCTV11
-http://zjhuct.synology.me:8888/rtp/233.50.200.132:5140
-#EXTINF:-1 group-title="央视频道",CCTV12
-http://zjhuct.synology.me:8888/rtp/233.50.201.123:5140
-#EXTINF:-1 group-title="央视频道",CCTV13
-http://zjhuct.synology.me:8888/rtp/233.50.201.246:5140
-#EXTINF:-1 group-title="央视频道",CCTV14
-http://zjhuct.synology.me:8888/rtp/233.50.201.124:5140
-#EXTINF:-1 group-title="央视频道",CCTV15
-http://zjhuct.synology.me:8888/rtp/233.50.200.133:5140
-#EXTINF:-1 group-title="央视频道",CCTV16
-http://zjhuct.synology.me:8888/rtp/233.50.201.192:5140
-#EXTINF:-1 group-title="央视频道",CCTV17
-http://zjhuct.synology.me:8888/rtp/233.50.200.113:5140
+
 #EXTINF:-1 group-title="4K频道",CCTV16
 http://zjhuct.synology.me:8888/rtp/233.50.201.63:5140
 #EXTINF:-1 group-title="4K频道",北京卫视
@@ -296,6 +261,43 @@ http://zjhuct.synology.me:8888/rtp/233.50.201.84:5140
 http://zjhuct.synology.me:8888/rtp/233.50.201.85:5140
 #EXTINF:-1 group-title="广播频道",浙江民生资讯
 http://zjhuct.synology.me:8888/rtp/233.50.201.86:5140
+
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://zjhuct.synology.me:8888/rtp/233.50.201.118:5140
+#EXTINF:-1 group-title="央视频道",CCTV2
+http://zjhuct.synology.me:8888/rtp/233.50.201.119:5140
+#EXTINF:-1 group-title="央视频道",CCTV3
+http://zjhuct.synology.me:8888/rtp/233.50.201.196:5140
+#EXTINF:-1 group-title="央视频道",CCTV4
+http://zjhuct.synology.me:8888/rtp/233.50.200.101:5140
+#EXTINF:-1 group-title="央视频道",CCTV5
+http://zjhuct.synology.me:8888/rtp/233.50.201.197:5140
+#EXTINF:-1 group-title="央视频道",CCTV5+
+http://zjhuct.synology.me:8888/rtp/233.50.201.220:5140
+#EXTINF:-1 group-title="央视频道",CCTV6
+http://zjhuct.synology.me:8888/rtp/233.50.201.198:5140
+#EXTINF:-1 group-title="央视频道",CCTV7
+http://zjhuct.synology.me:8888/rtp/233.50.201.120:5140
+#EXTINF:-1 group-title="央视频道",CCTV8
+http://zjhuct.synology.me:8888/rtp/233.50.201.199:5140
+#EXTINF:-1 group-title="央视频道",CCTV9
+http://zjhuct.synology.me:8888/rtp/233.50.201.121:5140
+#EXTINF:-1 group-title="央视频道",CCTV10
+http://zjhuct.synology.me:8888/rtp/233.50.201.122:5140
+#EXTINF:-1 group-title="央视频道",CCTV11
+http://zjhuct.synology.me:8888/rtp/233.50.200.132:5140
+#EXTINF:-1 group-title="央视频道",CCTV12
+http://zjhuct.synology.me:8888/rtp/233.50.201.123:5140
+#EXTINF:-1 group-title="央视频道",CCTV13
+http://zjhuct.synology.me:8888/rtp/233.50.201.246:5140
+#EXTINF:-1 group-title="央视频道",CCTV14
+http://zjhuct.synology.me:8888/rtp/233.50.201.124:5140
+#EXTINF:-1 group-title="央视频道",CCTV15
+http://zjhuct.synology.me:8888/rtp/233.50.200.133:5140
+#EXTINF:-1 group-title="央视频道",CCTV16
+http://zjhuct.synology.me:8888/rtp/233.50.201.192:5140
+#EXTINF:-1 group-title="央视频道",CCTV17
+http://zjhuct.synology.me:8888/rtp/233.50.200.113:5140
 
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://gilbert0571.eu.org:8888/rtp/233.50.201.118:5140
