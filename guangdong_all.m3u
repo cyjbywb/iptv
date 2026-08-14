@@ -1,97 +1,6 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 
-#EXTINF:-1 group-title="CCTV",CCTV1
-http://line1.huase.ltd:8888/rtp/239.77.1.17:5146
-#EXTINF:-1 group-title="CCTV",CCTV1
-http://line1.huase.ltd:8888/rtp/239.77.1.144:5146
-#EXTINF:-1 group-title="CCTV",CCTV1
-http://line1.huase.ltd:8888/rtp/239.77.0.119:5146
-#EXTINF:-1 group-title="CCTV",CCTV1
-http://line1.huase.ltd:8888/rtp/239.77.0.86:5146
-#EXTINF:-1 group-title="CCTV",CCTV1
-http://line1.huase.ltd:8888/rtp/239.77.0.129:5146
-#EXTINF:-1 group-title="CCTV",CCTV2
-http://line1.huase.ltd:8888/rtp/239.77.1.158:5146
-#EXTINF:-1 group-title="CCTV",CCTV2
-http://line1.huase.ltd:8888/rtp/239.253.43.17:5146
-#EXTINF:-1 group-title="CCTV",CCTV2
-http://line1.huase.ltd:8888/rtp/239.77.0.137:5146
-#EXTINF:-1 group-title="CCTV",CCTV3
-http://line1.huase.ltd:8888/rtp/239.77.0.169:5146
-#EXTINF:-1 group-title="CCTV",CCTV3
-http://line1.huase.ltd:8888/rtp/239.77.0.175:5146
-#EXTINF:-1 group-title="CCTV",CCTV4
-http://line1.huase.ltd:8888/rtp/239.77.1.163:5146
-#EXTINF:-1 group-title="CCTV",CCTV4
-http://line1.huase.ltd:8888/rtp/239.77.1.166:5146
-#EXTINF:-1 group-title="CCTV",CCTV4
-http://line1.huase.ltd:8888/rtp/239.77.0.78:5146
-#EXTINF:-1 group-title="CCTV",CCTV4美洲
-http://line1.huase.ltd:8888/rtp/239.253.43.121:5146
-#EXTINF:-1 group-title="CCTV",CCTV4欧洲
-http://line1.huase.ltd:8888/rtp/239.253.43.120:5146
-#EXTINF:-1 group-title="CCTV",CCTV5
-http://line1.huase.ltd:8888/rtp/239.77.0.170:5146
-#EXTINF:-1 group-title="CCTV",CCTV5
-http://line1.huase.ltd:8888/rtp/239.77.0.177:5146
-#EXTINF:-1 group-title="CCTV",CCTV5+
-http://line1.huase.ltd:8888/rtp/239.77.0.87:5146
-#EXTINF:-1 group-title="CCTV",CCTV5+
-http://line1.huase.ltd:8888/rtp/239.77.1.31:5146
-#EXTINF:-1 group-title="CCTV",CCTV6
-http://line1.huase.ltd:8888/rtp/239.77.0.171:5146
-#EXTINF:-1 group-title="CCTV",CCTV6
-http://line1.huase.ltd:8888/rtp/239.77.0.178:5146
-#EXTINF:-1 group-title="CCTV",CCTV7
-http://line1.huase.ltd:8888/rtp/239.77.1.159:5146
-#EXTINF:-1 group-title="CCTV",CCTV7
-http://line1.huase.ltd:8888/rtp/239.77.1.167:5146
-#EXTINF:-1 group-title="CCTV",CCTV7
-http://line1.huase.ltd:8888/rtp/239.77.0.138:5146
-#EXTINF:-1 group-title="CCTV",CCTV8
-http://line1.huase.ltd:8888/rtp/239.77.0.172:5146
-#EXTINF:-1 group-title="CCTV",CCTV8
-http://line1.huase.ltd:8888/rtp/239.77.0.181:5146
-#EXTINF:-1 group-title="CCTV",CCTV9
-http://line1.huase.ltd:8888/rtp/239.77.1.160:5146
-#EXTINF:-1 group-title="CCTV",CCTV9
-http://line1.huase.ltd:8888/rtp/239.77.1.168:5146
-#EXTINF:-1 group-title="CCTV",CCTV9
-http://line1.huase.ltd:8888/rtp/239.77.0.135:5146
-#EXTINF:-1 group-title="CCTV",CCTV10
-http://line1.huase.ltd:8888/rtp/239.77.1.113:5146
-#EXTINF:-1 group-title="CCTV",CCTV10
-http://line1.huase.ltd:8888/rtp/239.77.1.169:5146
-#EXTINF:-1 group-title="CCTV",CCTV10
-http://line1.huase.ltd:8888/rtp/239.77.0.134:5146
-#EXTINF:-1 group-title="CCTV",CCTV11
-http://line1.huase.ltd:8888/rtp/239.77.1.238:5146
-#EXTINF:-1 group-title="CCTV",CCTV12
-http://line1.huase.ltd:8888/rtp/239.77.1.109:5146
-#EXTINF:-1 group-title="CCTV",CCTV12
-http://line1.huase.ltd:8888/rtp/239.77.1.170:5146
-#EXTINF:-1 group-title="CCTV",CCTV12
-http://line1.huase.ltd:8888/rtp/239.77.0.136:5146
-#EXTINF:-1 group-title="CCTV",CCTV13
-http://line1.huase.ltd:8888/rtp/239.77.0.188:5146
-#EXTINF:-1 group-title="CCTV",CCTV13
-http://line1.huase.ltd:8888/rtp/239.253.43.196:5146
-#EXTINF:-1 group-title="CCTV",CCTV14
-http://line1.huase.ltd:8888/rtp/239.77.1.161:5146
-#EXTINF:-1 group-title="CCTV",CCTV14
-http://line1.huase.ltd:8888/rtp/239.77.1.171:5146
-#EXTINF:-1 group-title="CCTV",CCTV14
-http://line1.huase.ltd:8888/rtp/239.77.0.133:5146
-#EXTINF:-1 group-title="CCTV",CCTV15
-http://line1.huase.ltd:8888/rtp/239.77.1.239:5146
-#EXTINF:-1 group-title="CCTV",CCTV16
-http://line1.huase.ltd:8888/rtp/239.77.0.165:5146
-#EXTINF:-1 group-title="CCTV",CCTV16
-http://line1.huase.ltd:8888/rtp/239.77.1.76:5146
-#EXTINF:-1 group-title="CCTV",CCTV17
-http://line1.huase.ltd:8888/rtp/239.77.1.121:5146
-#EXTINF:-1 group-title="CCTV",CCTV17
-http://line1.huase.ltd:8888/rtp/239.77.0.198:5146
+
 
 #EXTINF:-1 group-title="广东频道",广东卫视
 http://line1.huase.ltd:8888/rtp/239.77.1.19:5146
@@ -483,6 +392,99 @@ http://line1.huase.ltd:8888/rtp/239.77.1.116:5146
 http://line1.huase.ltd:8888/rtp/239.77.1.107:5146
 #EXTINF:-1 group-title="港台频道",明珠台
 http://line1.huase.ltd:8888/rtp/239.77.1.189:5146
+
+#EXTINF:-1 group-title="CCTV",CCTV1
+http://line1.huase.ltd:8888/rtp/239.77.1.17:5146
+#EXTINF:-1 group-title="CCTV",CCTV1
+http://line1.huase.ltd:8888/rtp/239.77.1.144:5146
+#EXTINF:-1 group-title="CCTV",CCTV1
+http://line1.huase.ltd:8888/rtp/239.77.0.119:5146
+#EXTINF:-1 group-title="CCTV",CCTV1
+http://line1.huase.ltd:8888/rtp/239.77.0.86:5146
+#EXTINF:-1 group-title="CCTV",CCTV1
+http://line1.huase.ltd:8888/rtp/239.77.0.129:5146
+#EXTINF:-1 group-title="CCTV",CCTV2
+http://line1.huase.ltd:8888/rtp/239.77.1.158:5146
+#EXTINF:-1 group-title="CCTV",CCTV2
+http://line1.huase.ltd:8888/rtp/239.253.43.17:5146
+#EXTINF:-1 group-title="CCTV",CCTV2
+http://line1.huase.ltd:8888/rtp/239.77.0.137:5146
+#EXTINF:-1 group-title="CCTV",CCTV3
+http://line1.huase.ltd:8888/rtp/239.77.0.169:5146
+#EXTINF:-1 group-title="CCTV",CCTV3
+http://line1.huase.ltd:8888/rtp/239.77.0.175:5146
+#EXTINF:-1 group-title="CCTV",CCTV4
+http://line1.huase.ltd:8888/rtp/239.77.1.163:5146
+#EXTINF:-1 group-title="CCTV",CCTV4
+http://line1.huase.ltd:8888/rtp/239.77.1.166:5146
+#EXTINF:-1 group-title="CCTV",CCTV4
+http://line1.huase.ltd:8888/rtp/239.77.0.78:5146
+#EXTINF:-1 group-title="CCTV",CCTV4美洲
+http://line1.huase.ltd:8888/rtp/239.253.43.121:5146
+#EXTINF:-1 group-title="CCTV",CCTV4欧洲
+http://line1.huase.ltd:8888/rtp/239.253.43.120:5146
+#EXTINF:-1 group-title="CCTV",CCTV5
+http://line1.huase.ltd:8888/rtp/239.77.0.170:5146
+#EXTINF:-1 group-title="CCTV",CCTV5
+http://line1.huase.ltd:8888/rtp/239.77.0.177:5146
+#EXTINF:-1 group-title="CCTV",CCTV5+
+http://line1.huase.ltd:8888/rtp/239.77.0.87:5146
+#EXTINF:-1 group-title="CCTV",CCTV5+
+http://line1.huase.ltd:8888/rtp/239.77.1.31:5146
+#EXTINF:-1 group-title="CCTV",CCTV6
+http://line1.huase.ltd:8888/rtp/239.77.0.171:5146
+#EXTINF:-1 group-title="CCTV",CCTV6
+http://line1.huase.ltd:8888/rtp/239.77.0.178:5146
+#EXTINF:-1 group-title="CCTV",CCTV7
+http://line1.huase.ltd:8888/rtp/239.77.1.159:5146
+#EXTINF:-1 group-title="CCTV",CCTV7
+http://line1.huase.ltd:8888/rtp/239.77.1.167:5146
+#EXTINF:-1 group-title="CCTV",CCTV7
+http://line1.huase.ltd:8888/rtp/239.77.0.138:5146
+#EXTINF:-1 group-title="CCTV",CCTV8
+http://line1.huase.ltd:8888/rtp/239.77.0.172:5146
+#EXTINF:-1 group-title="CCTV",CCTV8
+http://line1.huase.ltd:8888/rtp/239.77.0.181:5146
+#EXTINF:-1 group-title="CCTV",CCTV9
+http://line1.huase.ltd:8888/rtp/239.77.1.160:5146
+#EXTINF:-1 group-title="CCTV",CCTV9
+http://line1.huase.ltd:8888/rtp/239.77.1.168:5146
+#EXTINF:-1 group-title="CCTV",CCTV9
+http://line1.huase.ltd:8888/rtp/239.77.0.135:5146
+#EXTINF:-1 group-title="CCTV",CCTV10
+http://line1.huase.ltd:8888/rtp/239.77.1.113:5146
+#EXTINF:-1 group-title="CCTV",CCTV10
+http://line1.huase.ltd:8888/rtp/239.77.1.169:5146
+#EXTINF:-1 group-title="CCTV",CCTV10
+http://line1.huase.ltd:8888/rtp/239.77.0.134:5146
+#EXTINF:-1 group-title="CCTV",CCTV11
+http://line1.huase.ltd:8888/rtp/239.77.1.238:5146
+#EXTINF:-1 group-title="CCTV",CCTV12
+http://line1.huase.ltd:8888/rtp/239.77.1.109:5146
+#EXTINF:-1 group-title="CCTV",CCTV12
+http://line1.huase.ltd:8888/rtp/239.77.1.170:5146
+#EXTINF:-1 group-title="CCTV",CCTV12
+http://line1.huase.ltd:8888/rtp/239.77.0.136:5146
+#EXTINF:-1 group-title="CCTV",CCTV13
+http://line1.huase.ltd:8888/rtp/239.77.0.188:5146
+#EXTINF:-1 group-title="CCTV",CCTV13
+http://line1.huase.ltd:8888/rtp/239.253.43.196:5146
+#EXTINF:-1 group-title="CCTV",CCTV14
+http://line1.huase.ltd:8888/rtp/239.77.1.161:5146
+#EXTINF:-1 group-title="CCTV",CCTV14
+http://line1.huase.ltd:8888/rtp/239.77.1.171:5146
+#EXTINF:-1 group-title="CCTV",CCTV14
+http://line1.huase.ltd:8888/rtp/239.77.0.133:5146
+#EXTINF:-1 group-title="CCTV",CCTV15
+http://line1.huase.ltd:8888/rtp/239.77.1.239:5146
+#EXTINF:-1 group-title="CCTV",CCTV16
+http://line1.huase.ltd:8888/rtp/239.77.0.165:5146
+#EXTINF:-1 group-title="CCTV",CCTV16
+http://line1.huase.ltd:8888/rtp/239.77.1.76:5146
+#EXTINF:-1 group-title="CCTV",CCTV17
+http://line1.huase.ltd:8888/rtp/239.77.1.121:5146
+#EXTINF:-1 group-title="CCTV",CCTV17
+http://line1.huase.ltd:8888/rtp/239.77.0.198:5146
 
 #EXTINF:-1 group-title="CCTV",CCTV1
 http://hyde-ipv6.dynv6.net:8100/rtp/239.77.1.17:5146
