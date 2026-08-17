@@ -3,13 +3,19 @@
 dsdqpub->dsdqbv,testpub->test20251009
 
 #EXTINF:-1 tvg-name="" group-title="Sports",Five Stars Sports
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=wxtyhd
+#EXTINF:-1 tvg-name="" group-title="Sports",Five Stars Sports
 http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="" group-title="Sports",Five Stars Sports
 http://38.75.136.137:98/gslb/dsdqbv/wxtyhd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="" group-title="Sports",Guangdong Sports
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdtyhd
+#EXTINF:-1 tvg-name="" group-title="Sports",Guangdong Sports
 http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="" group-title="Sports",Guangdong Sports
 http://38.75.136.137:98/gslb/dsdqbv/gdty.m3u8?auth=test20251009
+#EXTINF:-1 tvg-name="" group-title="Sports",Tianjin Sports
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
 #EXTINF:-1 tvg-name="" group-title="Sports",Tianjin Sports
 http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="" group-title="Sports",Tianjin Sports
