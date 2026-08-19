@@ -660,6 +660,14 @@ https://goldenboy.duckhunting.playout.vju.tv/DuckhuntingTV_GoldenBoy/main.m3u8
 #EXTINF:-1 tvg-id="TheBoatShow.us" tvg-logo="https://i.imgur.com/qlhS2zw.png" group-title="Outdoor",The Boat Show (720p)
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/14c063cc-8be5-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
 
+
+
+#EXTINF:-1 tvg-name="" group-title="Sports",Five Stars Sports
+http://74.91.26.218:82/live/wxty.m3u8
+
+#EXTINF:-1 tvg-name="" group-title="Sports",Five Stars Sports
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=wxtyhd
+
 #EXTINF:-1 group-title="Sports",Five Stars Sports
 http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
 
