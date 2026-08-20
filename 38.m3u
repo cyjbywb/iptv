@@ -23,6 +23,65 @@ http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="" group-title="Sports",Tianjin Sports
 http://38.75.136.137:98/gslb/dsdqbv/tjtv5.m3u8?auth=test20251009
 
+#EXTINF:-1  group-title="74_其他",公视
+http://74.91.26.218:82/live/pts.m3u8
+#EXTINF:-1  group-title="74_其他",公视台语台
+http://74.91.26.218:82/live/ptsty.m3u8
+#EXTINF:-1  group-title="74_其他",公视少儿台
+http://74.91.26.218:82/live/ptsse.m3u8
+#EXTINF:-1  group-title="74_其他",喜剧影院
+http://74.91.26.218:82/live/vlxjyy.m3u8
+#EXTINF:-1  group-title="74_其他",台视
+http://74.91.26.218:82/live/ttv.m3u8
+#EXTINF:-1  group-title="74_其他",台视新闻
+http://74.91.26.218:82/live/ttvnews.m3u8
+#EXTINF:-1  group-title="74_其他",台视综合
+http://74.91.26.218:82/live/ttvzh.m3u8
+#EXTINF:-1  group-title="74_其他",台视财经高清
+http://74.91.26.218:82/live/ttvcj.m3u8
+#EXTINF:-1  group-title="74_其他",中视高清
+http://74.91.26.218:82/live/ctv.m3u8
+#EXTINF:-1  group-title="74_其他",中视新闻
+http://74.91.26.218:82/live/ctvnews.m3u8
+#EXTINF:-1  group-title="74_其他",中视菁采台
+http://74.91.26.218:82/live/ctvjc.m3u8
+#EXTINF:-1  group-title="74_其他",中视经典
+http://74.91.26.218:82/live/ctvjd.m3u8
+#EXTINF:-1  group-title="74_其他",华视高清
+http://74.91.26.218:82/live/cts.m3u8
+#EXTINF:-1  group-title="74_其他",华视新闻资讯
+http://74.91.26.218:82/live/ctsnews.m3u8
+#EXTINF:-1  group-title="74_其他",华视教育文化高清
+http://74.91.26.218:82/live/ctsjy.m3u8
+#EXTINF:-1  group-title="74_其他",民视高清
+http://74.91.26.218:82/live/ftv.m3u8
+#EXTINF:-1  group-title="74_其他",民视新闻台
+http://74.91.26.218:82/live/ftvnews.m3u8
+#EXTINF:-1  group-title="74_其他",民视台湾台
+http://74.91.26.218:82/live/ftvtw.m3u8
+#EXTINF:-1  group-title="74_其他",民视第一台
+http://74.91.26.218:82/live/ftvdy.m3u8
+#EXTINF:-1  group-title="74_其他",NOW星影台
+http://74.91.26.218:82/live/nowxy.m3u8
+#EXTINF:-1  group-title="74_其他",NOW爆谷台
+http://74.91.26.218:82/live/nowbg.m3u8
+#EXTINF:-1  group-title="74_其他",美亚电影
+http://74.91.26.218:82/live/mydy.m3u8
+#EXTINF:-1  group-title="74_其他",TVB千禧经典台
+http://74.91.26.218:82/live/tvbjd.m3u8
+#EXTINF:-1  group-title="74_其他",TVB无线新闻台
+http://74.91.26.218:82/live/inews.m3u8
+#EXTINF:-1  group-title="74_其他",TVB翡翠台
+http://74.91.26.218:82/live/jade.m3u8
+#EXTINF:-1  group-title="74_其他",TVB星河
+http://74.91.26.218:82/live/tvbxh.m3u8
+#EXTINF:-1  group-title="74_其他",天映频道
+http://74.91.26.218:82/live/typd.m3u8
+#EXTINF:-1  group-title="74_其他",天映经典
+http://74.91.26.218:82/live/tyjd.m3u8
+#EXTINF:-1  group-title="74_其他",TVB Plus
+http://74.91.26.218:82/live/j2.m3u8
+
 #EXTINF:-1 tvg-name="" group-title="卫视频道",安徽卫视
 http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="" group-title="卫视频道",北京卫视
