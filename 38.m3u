@@ -2,6 +2,52 @@
 
 dsdqpub->dsdqbv,testpub->test20251009
 
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视频道",云南卫视
+http://198.204.228.26/live/ynwshd.m3u8$IPV4•线路1-0.072
+http://107.150.60.122/live/ynwshd.m3u8$IPV4•线路2-0.072
+http://192.151.150.154/live/ynwshd.m3u8$IPV4•线路3-0.073
+http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub$IPV4•线路4-0.076
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ynwshd$IPV4•线路5-0.077
+http://119.39.9.8:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0$IPV4•线路6-0.405
+http://101.66.195.96:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0$IPV4•线路7-0.418
+http://123.118.55.165:45237/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4•线路8-0.429
+http://171.38.148.188:9003/hls/66/index.m3u8$IPV4•线路9-0.43
+http://123.118.53.84:45237/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4•线路10-0.43
+http://120.198.95.220:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&down=1$IPV4•线路11-0.434
+http://1.192.153.44:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4•线路12-0.435
+http://60.187.247.96:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4•线路13-0.436
+http://36.136.38.87:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4•线路14-0.438
+http://123.118.55.165:45237/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4•线路15-0.439
+http://120.198.95.220:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&down=1$IPV4•线路16-0.447
+http://120.237.39.10:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&down=1$IPV4•线路17-0.46
+http://1.192.153.44:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4•线路18-0.466
+http://139.214.181.159:9901/tsfile/live/1093_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4•线路19-0.471
+http://120.237.39.10:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&down=1$IPV4•线路20-0.479
+http://118.193.115.2:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4•线路21-0.482
+http://123.130.84.106:8154/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4•线路22-0.532
+http://satellitepull.cnr.cn/live/wxynws/playlist.m3u8$IPV4•线路23-0.612
+http://222.169.85.8:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4•线路24-0.797
+http://123.118.53.84:45237/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4•线路25-5.583
+http://123.14.86.119:8888/hls/33/index.m3u8$IPV4•线路26-99999
+http://119.123.176.57:8086/hls/154/index.m3u8$IPV4•线路27-99999
+http://221.2.148.205:8154/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4•线路28-99999
+http://120.238.94.10:9901/tsfile/live/1069_1.m3u8$IPV4•线路29-99999
+http://111.43.126.240:9003/hls/60/index.m3u8$IPV4•线路30-99999
+http://jxcbn.ws-cdn.gitv.tv/hls/YUNNHD/index.m3u8?gMac=unknown&livodToken=4316b96111a2f4a0180625ace771506581add44ed643625ac56fa682704b4af4_1720505208_604800&fromCDN=ws$IPV4•线路31-99999
+http://220.164.192.48:50085/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0$IPV4•线路32-99999
+http://219.135.208.218:8083/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4•线路33-99999
+http://genglei.8866.org:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4•线路34-99999
+http://112.123.243.37:50085/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0$IPV4•线路35-99999
+http://36.32.174.67:60080/newlive/live/hls/45/live.m3u8$IPV4•线路36-99999
+http://183.131.246.250:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4•线路37-99999
+http://124.128.73.58:9901/tsfile/live/0119_1.m3u8?key=txiptv$IPV4•线路38-99999
+http://111.61.236.247:9081/hls/32/index.m3u8$IPV4•线路39-99999
+http://1b6467f415.iok.la:9931/tsfile/live/1081_1.m3u8$IPV4•线路40-99999
+http://222.241.154.37:9901/tsfile/live/23043_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4•线路41-99999
+http://183.3.134.56:9901/tsfile/live/0119_1.m3u8?key=tvbox6_com&playlive=1&authid=0$IPV4•线路42-99999
+http://222.241.154.37:9901/tsfile/live/23043_1.m3u8?key=txiptv$IPV4•线路43-99999
+http://tvbox6.icu/tv/migu.php?id=ynws$IPV4•线路44-99999
+
 #EXTINF:-1 tvg-name="" group-title="Sports",Five Stars Sports
 http://74.91.26.218:82/live/wxty.m3u8
 #EXTINF:-1 tvg-name="" group-title="Sports",Five Stars Sports
