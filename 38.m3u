@@ -69,6 +69,55 @@ http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="" group-title="Sports",Tianjin Sports
 http://38.75.136.137:98/gslb/dsdqbv/tjtv5.m3u8?auth=test20251009
 
+#EXTINF:-1  tvg-id="" group-title="贵州地方台",贵阳-1
+http://218.86.187.9:8188/rtp/238.255.2.19:5999
+#EXTINF:-1  tvg-id="" group-title="贵州地方台",贵阳-2
+http://218.86.187.9:8188/rtp/238.255.2.20:5999
+#EXTINF:-1  tvg-id="" group-title="贵州地方台",贵阳-3
+http://218.86.187.9:8188/rtp/238.255.2.22:5999
+#EXTINF:-1  tvg-id="" group-title="贵州地方台",六盘水-1
+http://218.86.187.9:8188/rtp/238.255.2.115:5999
+#EXTINF:-1  tvg-id="" group-title="贵州地方台",六盘水-2
+http://218.86.187.9:8188/rtp/238.255.2.116:5999
+#EXTINF:-1  tvg-id="" group-title="贵州地方台",黔南-1
+http://218.86.187.9:8188/rtp/238.255.2.150:5999
+#EXTINF:-1  tvg-id="" group-title="贵州地方台",黔南-2
+http://218.86.187.9:8188/rtp/238.255.2.151:5999
+#EXTINF:-1  tvg-id="" group-title="贵州地方台",黔西南综合频道
+http://218.86.187.9:8188/rtp/238.255.2.126:5999
+#EXTINF:-1  tvg-id="" group-title="贵州地方台",黔西南公共频道
+http://218.86.187.9:8188/rtp/238.255.2.127:5999
+#EXTINF:-1  tvg-id="" group-title="贵州地方台",黔西-1
+http://218.86.187.9:8188/rtp/238.255.2.161:5999
+#EXTINF:-1  tvg-id="" group-title="贵州地方台",黔东南综合频道
+http://218.86.187.9:8188/rtp/238.255.2.179:5999
+#EXTINF:-1  tvg-id="" group-title="贵州地方台",遵义综合频道
+http://218.86.187.9:8188/rtp/238.255.2.153:5999
+#EXTINF:-1  tvg-id="" group-title="贵州地方台",遵义公共频道
+http://218.86.187.9:8188/rtp/238.255.2.152:5999
+#EXTINF:-1  tvg-id="" group-title="贵州地方台",遵义都市频道
+http://218.86.187.9:8188/rtp/238.255.2.154:5999
+#EXTINF:-1  tvg-id="" group-title="贵州地方台",铜仁-1
+http://218.86.187.9:8188/rtp/238.255.2.31:5999
+#EXTINF:-1  tvg-id="" group-title="贵州地方台",铜仁-2
+http://218.86.187.9:8188/rtp/238.255.2.87:5999
+#EXTINF:-1  tvg-id="" group-title="贵州地方台",毕节-1
+http://218.86.187.9:8188/rtp/238.255.2.131:5999
+#EXTINF:-1  tvg-id="" group-title="贵州地方台",毕节-2
+http://218.86.187.9:8188/rtp/238.255.2.132:5999
+#EXTINF:-1  tvg-id="" group-title="贵州地方台",安顺新闻综合
+http://218.86.187.9:8188/rtp/238.255.2.157:5999
+#EXTINF:-1  tvg-id="" group-title="贵州地方台",安顺公共频道
+http://218.86.187.9:8188/rtp/238.255.2.158:5999
+#EXTINF:-1  tvg-id="" group-title="贵州地方台",瓮安电视台
+http://218.86.187.9:8188/rtp/238.255.2.216:5999
+#EXTINF:-1  tvg-id="" group-title="贵州地方台",思南综合频道
+http://218.86.187.9:8188/rtp/238.255.2.218:5999
+#EXTINF:-1  tvg-id="" group-title="贵州地方台",凯里TV
+http://218.86.187.9:8188/rtp/238.255.2.180:5999
+#EXTINF:-1  tvg-id="" group-title="贵州地方台",雷山综合频道
+http://218.86.187.9:8188/rtp/238.255.2.128:5999
+
 #EXTINF:-1  group-title="74_其他",公视
 http://74.91.26.218:82/live/pts.m3u8
 #EXTINF:-1  group-title="74_其他",公视台语台
