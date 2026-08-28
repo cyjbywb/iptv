@@ -79,6 +79,10 @@ http://www.rogerxlj.top:9998/rtp/233.18.204.48:5140
 http://www.rogerxlj.top:9998/rtp/233.18.204.49:5140
 #EXTINF:-1 group-title="上海频道",生活时尚
 http://www.rogerxlj.top:9998/rtp/233.18.204.45:5140
+#EXTINF:-1 group-title="上海频道",生活时尚
+http://cloud.sunrisecom.cn:8888/rtp/233.18.204.45:5140
+#EXTINF:-1 group-title="上海频道",生活时尚
+http://cloud.sunrisecom.wang:8888/rtp/233.18.204.45:5140
 
 #EXTINF:-1 group-title="生活频道",Five Stars Sports
 http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
@@ -273,8 +277,7 @@ http://cloud.sunrisecom.cn:8888/rtp/233.18.204.57:5140
 http://cloud.sunrisecom.cn:8888/rtp/233.18.204.48:5140
 #EXTINF:-1 group-title="上海频道",法治天地
 http://cloud.sunrisecom.cn:8888/rtp/233.18.204.49:5140
-#EXTINF:-1 group-title="上海频道",生活时尚
-http://cloud.sunrisecom.cn:8888/rtp/233.18.204.45:5140
+
 
 #EXTINF:-1 group-title="生活频道",长助理
 http://cloud.sunrisecom.cn:8888/rtp/233.18.204.59:5140
@@ -413,8 +416,7 @@ http://cloud.sunrisecom.wang:8888/rtp/233.18.204.57:5140
 http://cloud.sunrisecom.wang:8888/rtp/233.18.204.48:5140
 #EXTINF:-1 group-title="上海频道",法治天地
 http://cloud.sunrisecom.wang:8888/rtp/233.18.204.49:5140
-#EXTINF:-1 group-title="上海频道",生活时尚
-http://cloud.sunrisecom.wang:8888/rtp/233.18.204.45:5140
+
 
 #EXTINF:-1 group-title="生活频道",长助理
 http://cloud.sunrisecom.wang:8888/rtp/233.18.204.59:5140
