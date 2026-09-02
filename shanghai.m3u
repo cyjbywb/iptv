@@ -77,10 +77,19 @@ http://www.rogerxlj.top:9998/rtp/233.18.204.57:5140
 http://www.rogerxlj.top:9998/rtp/233.18.204.48:5140
 #EXTINF:-1 group-title="上海频道",法治天地
 http://www.rogerxlj.top:9998/rtp/233.18.204.49:5140
+
 #EXTINF:-1 group-title="上海频道",生活时尚
 http://www.rogerxlj.top:9998/rtp/233.18.204.45:5140
-#EXTINF:-1 group-title="上海频道",生活时尚
+#EXTINF:-1 group-title="上海频道",生活时尚(上海联通)
 http://223.167.230.155:4022/rtp/233.18.204.45:5140
+#EXTINF:-1 group-title="上海频道",生活时尚(安徽宣城电信)
+http://124.112.241.196:4022/rtp/238.1.78.155:7112
+#EXTINF:-1 group-title="上海频道",生活时尚(太原电信)
+http://110.178.145.51:8188/udp/239.1.1.76:8076
+#EXTINF:-1 group-title="上海频道",生活时尚(天津联通）
+http://117.12.151.124:4022/rtp/225.1.1.143:5002
+#EXTINF:-1 group-title="上海频道",生活时尚(青岛联通）
+http://39.77.22.26:4002/rtp/239.253.254.99:8000
 #EXTINF:-1 group-title="上海频道",生活时尚
 http://cloud.sunrisecom.cn:8888/rtp/233.18.204.45:5140
 #EXTINF:-1 group-title="上海频道",生活时尚
