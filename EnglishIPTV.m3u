@@ -86,6 +86,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-ple
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",NTD
 https://ntd02.akamaized.net/NTD-UK/index.m3u8
 
+#EXTINF:-1 tvg-id="NTDTV.us@East" tvg-logo="https://i.imgur.com/QtFM5Oo.png" group-title="News",NTD TV (1080p)
+https://ntd02.akamaized.net/HD-NY/index.m3u8
+
 #EXTINF:-1 tvg-id="NTDTVEnglish.us@USA" group-title="News",NTD TV English (1080p)
 https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8
 
@@ -1203,8 +1206,8 @@ https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/m
 #EXTINF:-1 tvg-id="RacerNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Racer_Network.jpg" group-title="Car/Speed",Racer Network (1080p)
 https://amg00378-mavtv-amg00378c2-samsung-nz-1791.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RacerNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Racer_Network.jpg" group-title="Car/Speed",Racer Network (1080p)
-https://gpuserver3.tier1streams.com/MAV_TV/index.m3u8
+#EXTINF:-1 tvg-id="RVTV.us@HD" tvg-logo="https://i.imgur.com/pBBb0wx.png" group-title="Undefined",RVTV (房车主题)
+https://rvtv-on-freecast.b-cdn.net/RVTV-on-Freecast/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Car/Speed",Hagerty (经典车修复、评测、汽车文化纪录片)
 https://dqw6u0upa8l21.cloudfront.net/Hagerty.m3u8
