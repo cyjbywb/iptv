@@ -1206,7 +1206,7 @@ https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/m
 #EXTINF:-1 tvg-id="RacerNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Racer_Network.jpg" group-title="Car/Speed",Racer Network (1080p)
 https://amg00378-mavtv-amg00378c2-samsung-nz-1791.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RVTV.us@HD" tvg-logo="https://i.imgur.com/pBBb0wx.png" group-title="Undefined",RVTV (房车主题)
+#EXTINF:-1 tvg-id="RVTV.us@HD" tvg-logo="https://i.imgur.com/pBBb0wx.png" group-title="Car/Speed",RVTV (房车主题)
 https://rvtv-on-freecast.b-cdn.net/RVTV-on-Freecast/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Car/Speed",Hagerty (经典车修复、评测、汽车文化纪录片)
