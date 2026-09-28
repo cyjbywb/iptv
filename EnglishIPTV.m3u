@@ -664,14 +664,6 @@ https://goldenboy.duckhunting.playout.vju.tv/DuckhuntingTV_GoldenBoy/main.m3u8
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/14c063cc-8be5-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
 
 
-#EXTINF:-1 tvg-id="SkySportF1.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/960px-Sky_Sport_F1_-_Logo_2020.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Sports",SkySp F1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/8/index.m3u8
-
-#EXTINF:-1 tvg-id="F1Channel.ie@US" tvg-logo="https://i.imgur.com/cjXzWsI.png" group-title="Sports",F1 Channel (1080p) [Geo-blocked]
-https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
-
-
 #EXTINF:-1 tvg-name="" group-title="Sports",Five Stars Sports
 http://74.91.26.218:82/live/wxty.m3u8
 
@@ -755,114 +747,6 @@ https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",Fox Sports 1 (720p)
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
-
-#EXTINF:-1 tvg-id="BandSports.br@SD" group-title="Sports",Band Sports
-http://45.162.64.114/BAND_SPORTS/index.m3u8
-
-#EXTINF:-1 tvg-id="BandSports.br@SD" group-title="Sports",Band Sports
-http://45.190.28.50/BAND_SPORTS_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="BandSports.br@SD",Band Sports (720p)
-http://138.255.2.6:8084/BANDSPORTS/index.m3u8
-
-#EXTINF:-1 tvg-id="Africa24Sport.fr@SD",Africa 24 Sport (1080p)
-https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
-
-#EXTINF:-1 tvg-id="ESPN.br@SD" group-title="Sports",ESPN (1080p)
-http://181.78.197.59:8000/play/a07z/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN.br@SD" group-title="Sports",ESPN (720p)
-http://190.83.2.182:8090/ESPN/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN3.br@SD" group-title="Sports",ESPN 3 (720p)
-http://181.78.197.59:8000/play/a081/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN3.br@SD" group-title="Sports",ESPN 3 (1080p)
-http://190.83.2.182:8090/ESPN3/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN4.br@SD" group-title="Sports",ESPN 4 (1080p)
-http://181.78.197.59:8000/play/a07n/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN5.br@SD" group-title="Sports",ESPN 5 (1080p)
-http://190.83.2.182:8090/ESPN5/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN6.br@SD" group-title="Sports",ESPN 6 (1080p)
-http://190.83.2.182:8090/ESPN6/index.m3u8
-
-#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia" tvg-logo="https://i.imgur.com/0CJGGgd.png" group-title="Sports",Sportitalia
-https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sportitalia.it@SD" group-title="Sports",Sport Italia (1080p)
-https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
-
-#EXTINF:-1 tvg-id="NSports.br@SD" group-title="Sports",N Sports (1080p)
-https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
-
-#EXTINF:-1 tvg-id="Sportitalia.it@SD" group-title="Sports",Sportitalia (720p) [Geo-blocked]
-https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sportitalia24.it@SD" group-title="Sports",Sportitalia 24 (720p) [Geo-blocked]
-https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports",Sportitalia Live 24
-https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/silive24.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SportitaliaMotori.it@SD" group-title="Sports",Sportitalia Motori (720p) [Geo-blocked]
-https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it@SD" group-title="Sports",Sportitalia Solocalcio (1080p)
-https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it@SD" group-title="Sports",Sportitalia Solocalcio (1080p)
-https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it@SD" group-title="Sports",Sportitalia Solocalcio (1080p)
-https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it@SD" group-title="Sports",Sportitalia Solocalcio (720p) [Geo-blocked]
-https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it@SD" group-title="Sports",Sportitalia SoloCalcio
-https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sportitalia.it@SD" group-title="Sports",Sportitalia TV/Sportitalia/SI
-https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ACISportTV.it@SD" group-title="Sports",ACI Sport TV (1080p)
-https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
-
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Sports",TyC Sports
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TSNTheOcho.ca" tvg-name="TSN The Ocho" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" group-title="Sports",TSN The Ocho
-https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
-
-#EXTINF:-1 tvg-id="CanalShowsport.ar@SD" group-title="Sports",Canal Showsport (720p)
-https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
-
-#EXTINF:-1 tvg-id="MaxSport1.bg@SD" group-title="Sports",Max Sport 1 (720p)
-http://213.91.179.28:8000/play/a0as
-
-#EXTINF:-1 tvg-id="MaxSport2.bg@SD" group-title="Sports",Max Sport 2 (720p)
-http://213.91.179.28:8000/play/a0at
-
-#EXTINF:-1 tvg-id="MaxSport3.bg@SD" group-title="Sports",Max Sport 3 (720p)
-http://213.91.179.28:8000/play/a0ar
-
-#EXTINF:-1 tvg-id="BahrainSports1.bh@SD" group-title="Sports",Bahrain Sports 1 (720p) [Not 24/7]
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BahrainSports2.bh@SD" group-title="Sports",Bahrain Sports 2 (720p) [Not 24/7]
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TeletrakTV.cl@SD" group-title="Sports",Teletrak (720p)
-https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TourSpotTV.do@HD" group-title="Sports",Tour Spot TV (1280p) [Not 24/7]
-https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Go3Sport1.ee@SD" group-title="Sports",Go3 Sport 1 (1080p)
-http://stream.mcquack.net/416/index.m3u8
 
 #EXTINF:-1 tvg-id="FTFSports.us" tvg-name="FTF Sports" tvg-logo="https://i.imgur.com/yvUjOI3.png" group-title="Sports",FTF Sports
 https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
@@ -2938,6 +2822,9 @@ https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ShopLC.us@SD" group-title="Shopping",Shop LC (1080p)
 https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel(ShopLCStirrTV)/master.m3u8
 
+#EXTINF:-1 tvg-id="PeerTVSouthTyrol.it@SD" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-south-tyrol.png" group-title="Camera",Peer TV South Tyrol (1280p)
+https://iptv.peer.biz/live/peertv-en.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Camera",WFMZ Dorney Park Camera
 https://cdn.jaybirdtv.com/wfmz/5/live/master.m3u8
 
@@ -2952,8 +2839,7 @@ https://cdn.jaybirdtv.com/wfmz/channel/7/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="F1Channel.ie@US" group-title="Sports",F1 Channel (1080p) [Geo-blocked]
-https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="CNAOriginals.sg" tvg-name="CNA Originals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/500px-CNA_new_logo.svg.png" group-title="Documentary",CNA Originals
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
