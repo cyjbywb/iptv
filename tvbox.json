@@ -1,0 +1,25 @@
+{
+  "spider": "./jar/spider.jar",
+  "slogan": "",
+  "logo": "",
+  "hosts": [
+   
+  ],
+ 
+  "lives": [
+    {
+      "name": "英文频道",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/cyjbywb/iptv/refs/heads/master/EnglishIPTV.m3u",
+      "playerType": 2
+    },
+    {
+      "name": "YY轮播",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/yylunbo.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.5.0.0"
+    }
+  ]
+}
