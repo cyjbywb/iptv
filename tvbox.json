@@ -1,24 +1,81 @@
 {
-  "slogan": "",
-  "logo": "",
-  "hosts": [
-   
-  ],
- 
   "lives": [
     {
-      "name": "英文频道",
+      "key": "racing_live",
+      "name": "🏁 赛车赛事专区",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/cyjbywb/iptv/refs/heads/master/EnglishIPTV.m3u",
-      "playerType": 2
+      "url": "https://s2.pub/ZTHAIPTV21",
+      "logo": "",
+      "epg": "",
+      "isLive": 1
     },
     {
-      "name": "YY轮播",
+      "key": "racing_backup1",
+      "name": "🏎️ 春盈天下赛车源",
       "type": 0,
-      "url": "https://sub.ottiptv.cc/yylunbo.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.5.0.0"
+      "url": "https://盒子迷.top/春盈天下",
+      "logo": "",
+      "epg": "",
+      "isLive": 1
+    },
+    {
+      "key": "racing_backup2",
+      "name": "🏍️ 饭太硬体育赛车",
+      "type": 0,
+      "url": "http://www.饭太硬.com/tv/",
+      "logo": "",
+      "epg": "",
+      "isLive": 1
+    },
+    {
+      "key": "racing_backup3",
+      "name": "🚦 月光宝盒赛车直播",
+      "type": 0,
+      "url": "https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt",
+      "logo": "",
+      "epg": "",
+      "isLive": 1
+    },
+    {
+      "key": "racing_backup4",
+      "name": "🏟️ 华影视赛车专线",
+      "type": 0,
+      "url": "https://download.kstore.space/download/4077/dzbzb.txt",
+      "logo": "",
+      "epg": "",
+      "isLive": 1
     }
-  ]
+  ],
+  "sites": [
+    {
+      "key": "ouge_multi",
+      "name": "🎯 欧歌多仓聚合",
+      "type": 3,
+      "api": "csp_Duopan",
+      "url": "http://tv.nxog.top/m/"
+    },
+    {
+      "key": "feimao_multi",
+      "name": "📦 肥猫多仓",
+      "type": 3,
+      "api": "csp_Feimao",
+      "url": "http://肥猫.com"
+    },
+    {
+      "key": "yunshushu_svip",
+      "name": "⚡ 运输车SVIP体育源",
+      "type": 3,
+      "api": "csp_Yunshushu",
+      "url": "https://tvkj.top/DC/ysc/tvkj/svip.json"
+    },
+    {
+      "key": "xiangyaqing_github",
+      "name": "🔧 香雅情开源维护源",
+      "type": 3,
+      "api": "csp_Xiangyaqing",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
+    }
+  ],
+  "parses": [],
+  "flags": []
 }
