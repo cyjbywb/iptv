@@ -62,6 +62,9 @@ http://stream.mcquack.net/131/index.m3u8
 #EXTINF:-1 tvg-id="News24.au@SD" tvg-logo="https://cf-images.ap-southeast-2.prod.boltdns.net/v1/static/5647924203001/8e3eba6d-3ed7-4687-8793-ce06bebb0f37/4f567b79-c56c-426c-91c3-0b277e41879e/1920x1080/match/image.jpg" group-title="News",News24 (1080p)
 https://skynewsau-live-premium.akamaized.net/hls/live/2105299/skynews/live.m3u8
 
+#EXTINF:-1 tvg-id="News24World.au@SD" group-title="News",News24 World
+https://skynewsau-live-premium.akamaized.net/hls/live/2105306/skynewsextra/live_540p.m3u8
+
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="News",NHK World-Japan (1080p)
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 
@@ -103,6 +106,9 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Assam_North_East_NW18_MOB/out
 
 #EXTINF:-1 tvg-id="" group-title="News",Breaking News by LeadStory (1080p)
 https://amg02703-leadstory-leadstory-samsungnz-vc7nn.amagi.tv/playlist/amg02703-leadstory-leadstory-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="News",Breaking News by LeadStory (1080p)
+https://amg02703-leadstory-leadstory-samsungau-rr75f.amagi.tv/playlist/amg02703-leadstory-leadstory-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",CityNews Calgary）(720p)
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
@@ -569,6 +575,9 @@ https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="INWILD.nl@SD" group-title="Documentary",INWILD (1080p)
 https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
 
+#EXTINF:-1 tvg-id="INWILD.nl@SD" group-title="Documentary",InWild (720p)
+https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg00861-terninternation-inwild-samsungau/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Documentary",Wild Nature (1080p)
 https://dhiy0zcig7ty1.cloudfront.net/scheduler/scheduleMaster/491.m3u8
 
@@ -668,6 +677,9 @@ https://amg00353-amg00353c25-rakuten-us-4896.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Documentary",The Wicked Tuna Channel (1080p)
 https://amg00353-lionsgatestudio-wickedtuna-samsunguk-ajti1.amagi.tv/playlist/amg00353-lionsgatestudio-wickedtuna-samsunguk/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Documentary",The Wicked Tuna Channel (1080p)
+https://amg00353-lionsgatestudio-wickedtuna-samsungau-26lq4.amagi.tv/playlist/amg00353-lionsgatestudio-wickedtuna-samsungau/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Documentary",World War TV (1080p)
 https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8
 
@@ -697,6 +709,9 @@ https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/
 
 #EXTINF:-1 tvg-id="" group-title="Documentary",Pulse TV (1080p)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Documentary",Pulse (1080p)
+https://amg01076-lightningintern-pulse-samsungau-4a45e.amagi.tv/playlist/amg01076-lightningintern-pulse-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTDocumentary.ru@English" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="Documentary",RT Documentary English (1080p) [Geo-blocked]
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
@@ -856,8 +871,17 @@ https://amg01074-fueltv-fueltvnz-samsungnz-i8ani.amagi.tv/playlist/amg01074-fuel
 #EXTINF:-1 tvg-id="FUELTV.pt@AU" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="Sports",Fuel TV (1080p)
 https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FUELTV.pt@EMEA" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="Sports",FUEL TV (1080p)
+#EXTINF:-1 tvg-id="FUELTV.pt@EMEA" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="Sports",FUEL TV (1080p) (PT)
 https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="FUELTV.pt@SD" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="Sports",Fuel TV (1080p) (PT)
+https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FUELTV.pt@US" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="Sports",Fuel TV (1080p) (PT)
+https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",Powder TV              
+https://linear-265.frequency.stream/dist/plex/265/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WorldofFreesports.de" tvg-name="World of Freesports" tvg-logo="https://i.imgur.com/lta5Mog.png" group-title="Sports",World of Freesports
 https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/playlist/rakutenAA-mainstreammediafreesportsintl-rakuten/playlist.m3u8
@@ -883,6 +907,9 @@ http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sports",Surf Cinema (1080p)
 https://amg13231-actve-amg13231c4-samsung-nz-3093.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-samsungnz/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Sports",,Surf Cinema (1080p)
+https://amg13231-actve-amg13231c4-samsung-au-2990.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-samsungau/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Sports",Surfer TV (1080p)
 https://dgwfm675921lp.cloudfront.net/playlist.m3u8
 
@@ -903,6 +930,16 @@ https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
 
 #EXTINF:-1 tvg-id="FTFSports.us@SD" tvg-logo="https://i.imgur.com/yvUjOI3.png" group-title="Sports",FTF Sports
 https://1593604785.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
+
+#EXTINF:-1 tvg-id="SetantaSports.uk@HD"  group-title="Sports",Setanta Sports HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8P7MBSH7RRPL53/20074/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSportsNews.au@SD"  group-title="Sports",Fox Sports News (1080p)
+https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
+
+#EXTINF:-1 tvg-id="SkyRacing1.au@SD"  group-title="Sports",Sky Racing 1 (720p)
+https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SportsGrid.us" tvg-logo="https://i.imgur.com/ulGKX30.png" group-title="Sports",SportsGrid
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8
@@ -1042,8 +1079,7 @@ https://d1x2mlky5ieruz.cloudfront.net/v1/fanduelgroup_fandueltv_01/samsungheaden
 #EXTINF:-1 tvg-id="FIFAPlus.uk@UnitedStates" group-title="Sports",FIFA+ (720p)
 https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FIFAPlus.uk@UnitedStates" group-title="Sports",FIFA+ United States (720p)
-https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" group-title="Sports",GolfPass (1080p)
 https://d2icntm6fhxrry.cloudfront.net/master.m3u8
@@ -1080,9 +1116,6 @@ https://streams2.sofast.tv/WiseM3U8_28/sofast/cleanhls/master.m3u8
 
 #EXTINF:-1 tvg-id="KozoomTV.fr@SD" group-title="Sports",Kozoom TV (台球)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8
-
-#EXTINF:-1 tvg-id="HorseTV.it@SD" group-title="Sports",Horse TV (720p)
-https://streams2.sofast.tv/vglive-sk-469239/index.m3u8
 
 #EXTINF:-1 tvg-id="MMATVcom.ru@SD" group-title="Sports",MMA TV.com (1080p)格斗
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
@@ -1147,11 +1180,17 @@ https://aegis-cloudfront-1.tubi.video/0b971699-b91c-4cad-8a17-4a4c0110665a/playl
 #EXTINF:-1 tvg-id="" group-title="Sports",UFC (1080p)
 https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 
+#EXTINF:-1 tvg-id="HorseTV.it@SD" group-title="Sports",Horse TV (720p)
+https://streams2.sofast.tv/vglive-sk-469239/index.m3u8
+
 #EXTINF:-1 tvg-id="HorseCountryTV.uk@SD" group-title="Sports",Horse & Country TV (1080p)
 https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
 
 #EXTINF:-1 tvg-id="HorseCountryTV.uk@SD" group-title="Sports",Horse & Country TV (1080p)
 https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HorseCountryTV.uk@SD",Horse and Country (720p)
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TSNTheOcho.ca@SD" group-title="Sports",TSN The Ocho (1080p)
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
@@ -1165,84 +1204,64 @@ https://amg17573-amg17573c1-flosports-worldwide-8159.playouts.now.amagi.tv/playl
 #EXTINF:-1 tvg-id="TheCowboyChannelCanada.ca@SD" tvg-logo="https://i.imgur.com/xwntWOP.png" group-title="Sports",Cowboy + Channel (1080p)
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
 
-#EXTINF:-1 group-title="其他",生活时尚
-http://cloud.sunrisecom.cn:8888/rtp/233.18.204.45:5140
 
-#EXTINF:-1 group-title="其他",生活时尚
-http://cloud.sunrisecom.wang:8888/rtp/233.18.204.45:5140
-
-#EXTINF:-1 group-title="其他",生活时尚(上海联通)
-http://223.167.230.155:4022/rtp/233.18.204.45:5140
-
-#EXTINF:-1 group-title="其他",生活时尚(无效）
-http://www.rogerxlj.top:9998/rtp/233.18.204.45:5140
-
-#EXTINF:-1 group-title="其他",生活时尚(安徽电信）
-http://183.164.237.182:8888/rtp/238.1.78.155:7112
-
-#EXTINF:-1 group-title="其他",生活时尚(山西电信）
-http://110.178.145.213:8188/udp/239.1.1.76:8076
-
-#EXTINF:-1 group-title="其他",生活时尚(山西联通）
-http://171.119.206.9:6000/rtp/226.0.2.84:8584
-
-#EXTINF:-1  group-title="其他",公视
+#EXTINF:-1  group-title="74_其他",公视
 http://74.91.26.218:82/live/pts.m3u8
-#EXTINF:-1  group-title="其他",公视台语台
+#EXTINF:-1  group-title="74_其他",公视台语台
 http://74.91.26.218:82/live/ptsty.m3u8
-#EXTINF:-1  group-title="其他",公视少儿台
+#EXTINF:-1  group-title="74_其他",公视少儿台
 http://74.91.26.218:82/live/ptsse.m3u8
-#EXTINF:-1  group-title="其他",喜剧影院
+#EXTINF:-1  group-title="74_其他",喜剧影院
 http://74.91.26.218:82/live/vlxjyy.m3u8
-#EXTINF:-1  group-title="其他",台视
+#EXTINF:-1  group-title="74_其他",台视
 http://74.91.26.218:82/live/ttv.m3u8
-#EXTINF:-1  group-title="其他",台视新闻
+#EXTINF:-1  group-title="74_其他",台视新闻
 http://74.91.26.218:82/live/ttvnews.m3u8
-#EXTINF:-1  group-title="其他",台视综合
+#EXTINF:-1  group-title="74_其他",台视综合
 http://74.91.26.218:82/live/ttvzh.m3u8
-#EXTINF:-1  group-title="其他",台视财经高清
+#EXTINF:-1  group-title="74_其他",台视财经高清
 http://74.91.26.218:82/live/ttvcj.m3u8
-#EXTINF:-1  group-title="其他",中视高清
+#EXTINF:-1  group-title="74_其他",中视高清
 http://74.91.26.218:82/live/ctv.m3u8
-#EXTINF:-1  group-title="其他",中视新闻
+#EXTINF:-1  group-title="74_其他",中视新闻
 http://74.91.26.218:82/live/ctvnews.m3u8
-#EXTINF:-1  group-title="其他",中视菁采台
+#EXTINF:-1  group-title="74_其他",中视菁采台
 http://74.91.26.218:82/live/ctvjc.m3u8
-#EXTINF:-1  group-title="其他",中视经典
+#EXTINF:-1  group-title="74_其他",中视经典
 http://74.91.26.218:82/live/ctvjd.m3u8
-#EXTINF:-1  group-title="其他",华视高清
+#EXTINF:-1  group-title="74_其他",华视高清
 http://74.91.26.218:82/live/cts.m3u8
-#EXTINF:-1  group-title="其他",华视新闻资讯
+#EXTINF:-1  group-title="74_其他",华视新闻资讯
 http://74.91.26.218:82/live/ctsnews.m3u8
-#EXTINF:-1  group-title="其他",华视教育文化高清
+#EXTINF:-1  group-title="74_其他",华视教育文化高清
 http://74.91.26.218:82/live/ctsjy.m3u8
-#EXTINF:-1  group-title="其他",民视高清
+#EXTINF:-1  group-title="74_其他",民视高清
 http://74.91.26.218:82/live/ftv.m3u8
-#EXTINF:-1  group-title="其他",民视新闻台
+#EXTINF:-1  group-title="74_其他",民视新闻台
 http://74.91.26.218:82/live/ftvnews.m3u8
-#EXTINF:-1  group-title="其他",民视台湾台
+#EXTINF:-1  group-title="74_其他",民视台湾台
 http://74.91.26.218:82/live/ftvtw.m3u8
-#EXTINF:-1  group-title="其他",民视第一台
+#EXTINF:-1  group-title="74_其他",民视第一台
 http://74.91.26.218:82/live/ftvdy.m3u8
-#EXTINF:-1  group-title="其他",NOW星影台
+#EXTINF:-1  group-title="74_其他",NOW星影台
 http://74.91.26.218:82/live/nowxy.m3u8
-#EXTINF:-1  group-title="其他",NOW爆谷台
+#EXTINF:-1  group-title="74_其他",NOW爆谷台
 http://74.91.26.218:82/live/nowbg.m3u8
-#EXTINF:-1  group-title="其他",美亚电影
+#EXTINF:-1  group-title="74_其他",美亚电影
 http://74.91.26.218:82/live/mydy.m3u8
-#EXTINF:-1  group-title="其他",TVB千禧经典台
+#EXTINF:-1  group-title="74_其他",TVB千禧经典台
 http://74.91.26.218:82/live/tvbjd.m3u8
-#EXTINF:-1  group-title="其他",TVB无线新闻台
+#EXTINF:-1  group-title="74_其他",TVB无线新闻台
 http://74.91.26.218:82/live/inews.m3u8
-#EXTINF:-1  group-title="其他",TVB翡翠台
+#EXTINF:-1  group-title="74_其他",TVB翡翠台
 http://74.91.26.218:82/live/jade.m3u8
-#EXTINF:-1  group-title="其他",TVB星河
+#EXTINF:-1  group-title="74_其他",TVB星河
 http://74.91.26.218:82/live/tvbxh.m3u8
-#EXTINF:-1  group-title="其他",天映频道
+#EXTINF:-1  group-title="74_其他",天映频道
 http://74.91.26.218:82/live/typd.m3u8
-#EXTINF:-1  group-title="其他",天映经典
+#EXTINF:-1  group-title="74_其他",天映经典
 http://74.91.26.218:82/live/tyjd.m3u8
-#EXTINF:-1  group-title="其他",TVB Plus
+#EXTINF:-1  group-title="74_其他",TVB Plus
 http://74.91.26.218:82/live/j2.m3u8
 
 
@@ -1313,6 +1332,9 @@ https://amg02873-kravemedia-mtrspt1-samsungnz-k70ln.amagi.tv/playlist/amg02873-k
 #EXTINF:-1 tvg-id="" group-title="Car/Speed",MTRSPT 1
 https://amg02873-kravemedia-mtrspt1-distrotv-mnsrl.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Car/Speed",MTRSPT 1 (1080p)
+https://amg02873-kravemedia-mtrspt1-samsungau-2anp4.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-samsungau/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Car/Speed",Chrono (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d375ebca-9cd0-475e-ad4d-0cde6634de9c/manifest.m3u8
 
@@ -1336,6 +1358,49 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 
 #EXTINF:-1 tvg-id="30AWeLoveCars.us" tvg-name="30A We Love Cars" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU" group-title="Car/Speed",30A We Love Cars
 https://30a-tv.com/feeds/vidaa/cars.m3u8
+
+#EXTINF:-1 tvg-id="Avto24.ru@SD" tvg-logo="https://i.imgur.com/GXSXmN2.png" group-title="Car/Speed",ABTO24 (576p)
+http://stream.mcquack.net/78/index.m3u8
+
+#EXTINF:-1 tvg-id="CityEdenAutoGid.ru@HD" tvg-logo="https://i.imgur.com/qpe8L27.png" group-title="Car/Speed",City Eden AutoGid [Not 24/7]
+https://cityeden.catcast.tv/content/47515/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryTurbo.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_TURBO/images/LOGO_HD/image.png" group-title="Car/Speed",Discovery Turbo (India) (720p)
+https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryTurbo.it@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Discovery_Turbo_Italy.svg/1920px-Discovery_Turbo_Italy.svg.png" group-title="Car/Speed",Discovery Turbo (Italy) (1080p)
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryTurbo.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Discovery_Turbo_2025.svg/1920px-Discovery_Turbo_2025.svg.png" group-title="Car/Speed",Discovery Turbo (United States) (720p)
+http://41.205.93.154/ESPNNEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.us@Panregional" tvg-logo="https://i.imgur.com/1pQPxu3.png" group-title="Car/Speed",Discovery Turbo Latin America (1080p)
+http://38.134.250.110:8000/play/a01y/index.m3u8
+
+#EXTINF:-1 tvg-id="Drive.ru@SD" tvg-logo="https://i.imgur.com/FnuwfSC.png" group-title="Car/Speed",Drive (576i)
+https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="FierroaFondoTV.us@SD" tvg-logo="https://pbs.twimg.com/profile_images/1903618079696773120/maQJpd9__400x400.jpg" group-title="Car/Speed",Fierro a Fondo TV (1080p)
+http://45.70.201.81:8000/play/a00x/index.m3u8
+
+#EXTINF:-1 tvg-id="GarageTVLatinAmerica.ar@SD" tvg-logo="https://i.imgur.com/FqFxog1.png" group-title="Car/Speed",Garage TV Latin America
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-1 tvg-id="InTrouble.nl@SD" tvg-logo="https://i.imgur.com/a40chFI.png" group-title="Car/Speed",InTrouble (1080p)
+https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Motorvision.de@SD" tvg-logo="https://i.imgur.com/v4kj8pI.png" group-title="Car/Speed",Motorvision (1080p)
+https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
+
+#EXTINF:-1 tvg-id="Pershyiavtomobilnyi.ua@SD" tvg-logo="https://i.imgur.com/ul93Lse.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Car/Speed",Pershyi avtomobilnyi (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/404/index.m3u8
+
+#EXTINF:-1 tvg-id="ShiftTV.hr@SD" tvg-logo="https://i.imgur.com/mudXVT8.png" group-title="Car/Speed",Shift TV (1080p)
+https://hls.shift.tv/live/shifttv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="wedotvAuta.pl@FAST" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/0ba18c3b-b319-4ea9-bdad-dfba2c348ce3-width200-quality90.jpeg" group-title="Car/Speed",wedotv Auta (1080p)
+https://amg00735-amg00735c57-rakuten-de-10677.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GustoTV.us" tvg-logo="https://i.imgur.com/swUX3hQ.png" group-title="Cooking",Gusto TV （1080P）
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
@@ -1526,6 +1591,9 @@ https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b
 #EXTINF:-1 tvg-id="KContentbyCJENM.us@SD" group-title="Movies",K Content by CJ ENM (1080p)
 https://d2q0mzb9bm4w5z.cloudfront.net/68fee8e1_605a_437b_b968_244c3c0d5f24/hls/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Movies",Action Hollywood Movies (1080p)
+https://amg01076-lightningintern-actionhollywood-samsungau-rs69y.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
@@ -1700,6 +1768,9 @@ https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
 #EXTINF:-1 tvg-id="KCM.sg@India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KCM.png" group-title="Movies",KCM (1080p) [Geo-blocked]
 https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Movies",RCM (1080p)
+https://samsungau-rialtosamsungaustralia-al2rg.amagi.tv/playlist/samsungau-rialtosamsungaustralia/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="AFV.us" tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="Comedy",Always Funny
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
@@ -1782,6 +1853,9 @@ https://pb-jc9emctsujawo.akamaized.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PetClubTV.hk" tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="Lifestyle",Pet Club TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PetClubTV.hk@SD" group-title="Lifestyle",Pet Club TV (1080p)
+https://petclub-samsungaus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AKCTV.us" tvg-logo="https://i.imgur.com/XRTfoSp.png" group-title="Lifestyle",AKC TV
 https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
@@ -2245,6 +2319,9 @@ https://d2tdny619yw5x1.cloudfront.net/master.m3u8
 
 #EXTINF:-1 tvg-id="ToonGoggles.us@SD" group-title="Kids",Toon Goggles (720p)
 https://d1eg24xrsfr6kv.cloudfront.net/tg/tg/tg.m3u8
+
+#EXTINF:-1 tvg-id="ToonGoggles.us@SD" group-title="Kids",ToonGoggles (720p)
+https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TGJunior.us@SD" group-title="Kids",Toon Goggles Junior (720p)
 https://d3i6upqaqzosi1.cloudfront.net/tg/jr_us/tg_jr_us.m3u8
@@ -3006,6 +3083,9 @@ https://cmc-kowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="QwestTV.fr@SD" group-title="Music",QwestTV (1080p)
 https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
 
+#EXTINF:-1 tvg-id="QwestTVJazzBeyond.fr@SD" group-title="Music",Qwest TV Jazz & Beyond (1080p)
+https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/playlist/samsungau-qwestjazz-samsungtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TraceUK.uk@HD" group-title="Music",Trace UK (1080p)
 https://d2l4tng0wskzvn.cloudfront.net/Trace_GB.m3u8
 
@@ -3090,6 +3170,12 @@ https://d2n3779oy6efpi.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca@SD" tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="Music",Qello Concerts by Stingray (1080p)
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Series",Escape to the Country (1080p)
+https://amg00145-amg00145c11-samsung-au-6579.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Series",Come Dine With Me (1080p)
+https://amg00654-itv-amg00654c2-samsung-au-925.playouts.now.amagi.tv/itv-cdwmug/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Series",A New Life In The Sun (1080p)
 https://d36zu8tswi4fqu.cloudfront.net/playlist.m3u8
 
@@ -3104,6 +3190,9 @@ https://vicetv-vicefast2-firetv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Series",Project Runway (时装设计真人秀)
 https://d2zkt0rpioct1v.cloudfront.net/ProjectRunway_GB.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Series",Project Runway (1080p)
+https://amg02189-amg02189c1-samsung-au-5798.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Series",60 Days In by A&E (720p)
 https://d2b8jic9gadlvy.cloudfront.net/v1/aenetworks_60daysin_1/samsungheadend_us/latest/main/hls/playlist.m3u8
@@ -3143,6 +3232,9 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4f
 
 #EXTINF:-1 tvg-id="AngerManagementChannel.us@SD" group-title="Series",Anger Management Channel (720p)
 https://aegis-cloudfront-1.tubi.video/0a019247-55a2-4b3e-8b62-b84c9cbd5b12/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AngerManagementChannel.us@SD" group-title="Series",Anger Management Channel (1080p)
+https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AreWeThereYet.us@SD" group-title="Series",Are We There Yet? (720p)
 https://aegis-cloudfront-1.tubi.video/453e03c1-3a9f-415c-9370-5c744b19a748/playlist.m3u8
@@ -3282,6 +3374,7 @@ https://cdn.jaybirdtv.com/wfmz/channel/9/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="Camera",WFMZ Traffic
 https://cdn.jaybirdtv.com/wfmz/channel/7/master.m3u8
 
+
 #EXTINF:-1 tvg-id="Whiplash.us@HD" tvg-logo="https://whiplash.cc/assets/img/channels/whiplash.png" group-title="General",Whiplash (720p)
 https://cdn.whiplash.cc/whiplash/index.m3u8
 
@@ -3304,6 +3397,8 @@ https://toy.vcdn.fyi/tertiary-yub/index.m3u8
 #EXTINF:-1 tvg-id="Dijit.us@SD" tvg-logo="https://whiplash.cc/assets/img/channels/dijit.png" group-title="Undefined",Dijit (1080p)
 https://toy.vcdn.fyi/dijit/index.m3u8
 
+
+
 #EXTINF:-1 tvg-id="CNAOriginals.sg" tvg-name="CNA Originals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/500px-CNA_new_logo.svg.png" group-title="Documentary",CNA Originals
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
 
@@ -3316,26 +3411,19 @@ https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-a
 #EXTINF:-1 tvg-id="iSTUFF.de" tvg-name="iSTUFF" tvg-logo="https://i.imgur.com/1V3UXVb.jpg" group-title="Education",iSTUFF
 https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
 
-#EXTINF:-1 tvg-id="RetroCrush.us" tvg-name="RetroCrush" tvg-logo="https://i.imgur.com/M40b4YI.png" group-title="Kids",RetroCrush
-https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TheArchive.us" tvg-name="The Archive" tvg-logo="https://od.lk/s/MF8yMjg0MDgzNDBf/TheArchive_300x300.png" group-title="Movies",The Archive
-https://linear-1080.frequency.stream/dist/cineverse/1080/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="Entertainment",revry 2            
-https://linear-5.frequency.stream/dist/24i/5/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies",Hi-YAH!               
 https://linear-59.frequency.stream/mt/roku/59/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Movies",82 ? horror Machine           
+#EXTINF:-1 group-title="Movies",horror Machine           
 https://linear-82.frequency.stream/dist/glewedtv/82/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports",Surfer TV (1080p)              
-https://linear-149.frequency.stream/dist/plex/149/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Documentary",Unidentified         
 https://linear-150.frequency.stream/dist/plex/150/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary",Unidentified             
+https://linear-267.frequency.stream/mt/roku/267/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies",Hi-YAH!              
 https://linear-159.frequency.stream/dist/xumo/159/hls/master/playlist.m3u8
@@ -3351,12 +3439,6 @@ https://linear-200.frequency.stream/dist/plex/200/hls/master/playlist.m3u8
 
 #EXTINF:-1,Black Pix               
 https://linear-264.frequency.stream/mt/roku/264/hls/master/playlist.m3u8
-
-#EXTINF:-1,Powder TV              
-https://linear-265.frequency.stream/dist/plex/265/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="Documentary",Unidentified             
-https://linear-267.frequency.stream/mt/roku/267/hls/master/playlist.m3u8
 
 #EXTINF:-1,276  ?Black Pix             
 https://linear-276.frequency.stream/mt/roku/276/hls/master/playlist.m3u8
@@ -3505,3 +3587,10 @@ https://linear-1287.frequency.stream/dist/plex/1287/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Education",The prof G Channel   
 https://linear-1562.frequency.stream/dist/plex/1562/hls/master/playlist.m3u8
 
+
+
+
+#EXTINF:-1,499	
+https://streams2.sofast.tv/scheduler/scheduleMaster/499.m3u8
+#EXTINF:-1,500（WPT）	
+https://streams2.sofast.tv/scheduler/scheduleMaster/500.m3u8
