@@ -898,6 +898,12 @@ https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",FS1 HD
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 
+#EXTINF:-1 tvg-id="ESPN.us@HD" group-title="Sports",ESPN HD
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2.us@HD" group-title="Sports",ESPN2 HD
+http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Sports",FOX Sports (1080p)
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 
@@ -1203,6 +1209,22 @@ https://amg17573-amg17573c1-flosports-worldwide-8159.playouts.now.amagi.tv/playl
 
 #EXTINF:-1 tvg-id="TheCowboyChannelCanada.ca@SD" tvg-logo="https://i.imgur.com/xwntWOP.png" group-title="Sports",Cowboy + Channel (1080p)
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
+
+
+#EXTINF:-1 group-title="上海频道",生活时尚
+http://cloud.sunrisecom.cn:8888/rtp/233.18.204.45:5140
+
+#EXTINF:-1 group-title="上海频道",生活时尚
+http://cloud.sunrisecom.wang:8888/rtp/233.18.204.45:5140
+
+#EXTINF:-1 group-title="上海频道",生活时尚(上海联通)
+http://223.167.230.155:4022/rtp/233.18.204.45:5140
+
+#EXTINF:-1 group-title="上海频道",生活时尚(河南电信)
+http://1.192.242.239:8188/rtp/239.16.20.114:11140
+
+#EXTINF:-1 group-title="上海频道",生活时尚(河南电信)
+http://171.8.84.49:8800/rtp/239.16.20.114:11140
 
 
 #EXTINF:-1  group-title="74_其他",公视
